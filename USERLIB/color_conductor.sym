@@ -1,0 +1,15 @@
+﻿.PCsCADSymbol 'C:\Users\alexanderponomarchuk\OneDrive - Salda, UAB\Priedai\Shares\PCS VENTDB\USERLIB\color_conductor.sym' 0 0 1250 1250 1680 '21-02-2019 16:59:12' 0 V13.0
+.Title 'Color of conductor' 1033
+.Title 'Ledere antal (tilstande=lederantal)' 1030
+.Name "" 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0
+.Typ "" 1250 -1500 0 0 4 18 12 0 0 128 0 0 0 0 0 0
+.Art "" -250 0 0 0 4 18 12 3 0 0 0 0 0 0 0 0
+.Func "" -750 500 0 0 4 18 0 6 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -500 -250 0 0 4 18 12 3 0 128 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -1250 -1250 0 0
+.Point 0 1250 1250 0 0
+.end
+.end
+
