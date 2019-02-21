@@ -1,0 +1,69 @@
+﻿.PCsCADSymbol C:\PCSELCAD\SYMBOL\USERLIB\thermo_NONC.sym 0 0 0 7500 1 '19-02-2019 11:21:26' 6 V13.0
+.Title 'Change-over break before make cont. operated by temperature' 1033
+.Title 'Overstrømsudløst skiftekontakt med bryde- før slutte funktion' 1030
+.Title 'Přepínací kontakt, v klidové poloze sepnutý, ovládání nadproudovou ochranou' 1029
+.Name K -11000 5250 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 1500 -2250 0 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 1500 -5250 0 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" -7500 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -13500 -3000 0 0 0 18 12 5 0 0 0 0 0 0 0 0
+.Text t -8750 -1250 0 0 4 25 0 0 900 1 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -12500 -2500 0 0
+.Point 0 -12500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -7500 -2500 0 0
+.Point 0 -7500 2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -12500 -2500 0 0
+.Point 0 -7500 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -12500 2500 0 0
+.Point 0 -7500 2500 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0
+.Point 64 -7500 0 0 0
+.Point 64 -1750 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 0 0
+.Point 0 0 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 -3750 3500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -5000 7500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 2500 0 0
+.Point 0 -2500 2500 0 0
+.end
+.arc 0 -11000 1000 0 0 4 500 0 3600 250 0 0 0
+.con 1 -5000 7500 0 0 0 0
+.PinName 1 -5750 4750 0 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" -5000 7500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 7500 0 0 0 0
+.PinName 2 -750 4750 0 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 7500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 -7500 0 0 0 0
+.PinName 3 -750 -2750 0 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -7500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -7500 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
