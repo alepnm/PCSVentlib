@@ -1,0 +1,46 @@
+﻿.PCsCADSymbol 'C:\Users\alexanderponomarchuk\OneDrive - Salda, UAB\Priedai\Shares\PCS VENTDB\USERLIB\switch_2G_A.sym' 0 0 10000 2000 129 '22-02-2019 08:52:36' 0 V13.0
+.Title 'Jungiklis 2-ų grupių' 1033
+.Title Varmelegeme 1030
+.Title 'Rezistor topný' 1029
+.Name "" 2750 0 0 0 4 18 0 4 0 1 0 0 0 0 0 0
+.Typ "" 0 -5000 0 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Art "" -2500 -5000 0 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Func "" 2500 -3000 0 0 4 12 0 4 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 0 18 12 1 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 7500 -2000 0 0
+.Point 0 7500 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2500 -2000 0 0
+.Point 0 7500 -2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2500 -2000 0 0
+.Point 0 -2500 2000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 0 0
+.Point 0 -2500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 7500 0 0 0
+.Point 0 10000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2500 2000 0 0
+.Point 0 7500 2000 0 0
+.end
+.con 1 -5000 0 0 0 0 0
+.PinName 1 -4500 750 0 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinFunc "" -5000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 10000 0 0 0 0 0
+.PinName 2 9500 750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 10000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 10000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 10000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
