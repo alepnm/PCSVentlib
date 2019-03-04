@@ -1,0 +1,127 @@
+﻿.PCsCADProject C:\PCSELCAD\STANDARD\Subdrawing\tekstas.std V13.0 1 257 1314996866 '01-03-2019 08:20:02' 2 2500 500 2500 500 5000 Standard 1 "" "" 21
+.Title 'EKS 1.0kW 1f Air Heater' 0
+.Born 2 0 13.0 1313830604
+
+
+.AppData [LastDB]
+.AppData DatabaseOn=Yes
+.AppData DatabaseFile=C:\temp\pcs_data\new.accdb
+.AppData DbAlias=
+.AppData DBTable=Components
+.AppData dfArt=VENTCODE
+.AppData dfAltArt=ALTCODE
+.AppData dfType=TYPE
+.AppData dfFunction=FUNCTION
+.AppData dfSymbol=PCSTYPE
+.AppData dfSymbolRef=REFID
+.AppData dfPinName=PINDATA
+.AppData dfMecSymbol=MECTYPE
+.AppData dfPrice1=SAVIKAINA
+.AppData dfPrice2=PARDKAINA
+.AppData dfSearch=PCSTYPE
+.AppData dfSearch2=ID
+.AppData dfFabrikat=MANUFACTUR
+.AppData dfApproved=APPROVED
+.AppData dfObsolete=OBSOLETE
+.AppData dfDescription=DESCRIPT
+.AppData dfSLDSymbol=SINGLELINESYMBOL
+.AppData dfSubDrawing=SUBDRAWING
+
+.Revision 0 0
+
+.LayTab 0 'Lay 0' 1
+.LayTab 1 'Lay 1' 129
+
+.DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .FieldVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .NAMEVis¤¤¤¤ 0 1250 0 0 0 25 14 0 0 0 0 0 0 0 0 0
+.DefText .TypInv¤¤¤¤ 0 1250 2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .ArtInv¤¤¤¤ 0 1250 -4000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .FuncVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PINNAMEVis¤¤¤¤ 0 0 1000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinFuncVis¤¤¤¤ 0 0 -2750 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinLabInv¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinDesVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.DefText .XRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
+.DefText .YRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
+
+.WireNoSetup 4 WIRENO 4 0 0 2 / 0 ""
+.ContactRefSetup 0 6 12 3 10000 1000
+
+.RefDispFormat FLN|FLN
+
+.ProText 'Project number' ""
+.ProText 'Customer name' Zoppas
+.ProText Address ""
+.ProText 'Postal code' ""
+.ProText City ""
+.ProText 'Telephone no.' ""
+.ProText Telefax ""
+.ProText 'Subject name' ""
+.ProText 'Drawing no.' ""
+.ProText Constructor ""
+.ProText 'Approved by' ""
+.ProText Date ""
+.ProText Revision ""
+.ProText Engineer ""
+.ProText 'Project name' EKS_1.0kW_1f_230V
+
+.PageText "" ""
+.PageText Approved ""
+.PageText Date ""
+.PageText Revision ""
+.PageText Constructor ""
+.PageText 'Approved by: ' ""
+.PageText 'Approved date: ' ""
+.PageText DCC ""
+.PageText 'Drawing no. ' ""
+.PageText Engineer ""
+
+.Database VENTCODE;ALTCODE
+.DbIndex 1;2
+
+
+
+.PageNo 1 1 '01-03-2019 08:17:02' 4 10000 1 0 300 1 2 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0
+.Title 'Schematic Diagram' 0
+.Born 2 0 11.0 1313848102
+
+
+.AppData [DataTemplates]
+.AppData Sec0=PCSA3Hbasic
+
+.Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 55000 30000
+
+
+.Text 'RG1 - Controller  EKR-KN1  NIS' 0 137500 187500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'V1 - Triac' 0 137500 182500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'TJ-K10K - Air  temperature  sensor' 0 137500 177500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'K- Relay/Contactor' 0 137500 172500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'KA- User Start Switch' 0 137500 115000 1 4 25 0 0 0 128 0 0 0 0 0 0
+.Text 'S, SA- User side automatic  circuit  breakers' 0 137500 167500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'AT1 - Thermostat  with  automatic  reset' 0 137500 162500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'MT1 - Thermostat  with  manual  reset' 0 137500 157500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'HE1-HE3 - Heating  elements' 0 137500 152500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'TT1 - Overheat  protection  for  Triac' 0 137500 135000 1 4 25 0 0 0 128 0 0 0 0 0 0
+.Text 'F - EMI filter' 0 137500 130000 1 4 25 0 0 0 128 0 0 0 0 0 0
+.Text 'FS1 - Airflow sensor' 0 137500 125000 1 4 25 0 0 0 128 0 0 0 0 0 0
+.Text 'PS1 - Pressure Sensor switch' 0 137500 120000 1 4 25 0 0 0 128 0 0 0 0 0 0
+.Text 'RG1 - Controller  EKR-KN1  NIS' 0 137500 187500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'V1 - Triac' 0 137500 182500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'TJ-K10K - Air  temperature  sensor' 0 137500 177500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'K- Relay/Contactor' 0 137500 172500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'S, SA- User side automatic  circuit  breakers' 0 137500 167500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'AT1 - Thermostat  with  automatic  reset' 0 137500 162500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'MT1 - Thermostat  with  manual  reset' 0 137500 157500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text 'HE1-HE3 - Heating  elements' 0 137500 152500 1 4 25 0 0 0 0 0 0 0 0 0 0
+
+.end
+
+.Objects V13.0
+.end
+
+.end
+
