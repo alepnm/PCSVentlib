@@ -1,0 +1,20 @@
+﻿.PCsCADSymbol 'C:\Users\alexanderponomarchuk\OneDrive - Salda, UAB\Priedai\Shares\PCS VENTDB\USERLIB\wire_prop.sym' 0 0 750 750 128 '27-02-2019 16:34:30' 15 V13.0
+.Title 'Wire properties' 1033
+.Title 'SUPPORT SYMBOL' 1030
+.Title 'SYMBOL - NÁHRADA' 1029
+.Name "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Typ "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Art "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Func "" 0 1000 0 0 4 10 0 1 0 2 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 0 -750 0 0
+.Point 0 0 750 0 0
+.end
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 750 0 0 0
+.end
+.end
+
