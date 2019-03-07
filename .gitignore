@@ -1,8 +1,7 @@
 *.IDB
-
 *.laccdb
 
 *.~sy
-
 *.~st
-/DATABASE/*.ldb
+
+*.ldb
