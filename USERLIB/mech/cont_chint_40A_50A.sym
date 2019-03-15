@@ -1,0 +1,6202 @@
+﻿.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\mech\cont_chint_40A_50A.sym 0 0 39891 59583 128 '15-03-2019 15:55:28' 0 V13.0
+.Title 'Kontaktorius Chint 40/50A' 1033
+.Name "" -30000 15000 0 0 0 35 0 0 0 0 0 0 0 0 0 0
+.Typ "" 7500 2500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 2500 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 22500 15000 0 0 4 35 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 5000 0 0 0 18 12 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4187 43488 0 0
+.Point 0 -4275 43783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20523 -54456 0 0
+.Point 0 -19271 -54191 0 0
+.Point 0 -18973 -54045 0 0
+.Point 0 -18737 -53812 0 0
+.Point 0 -18588 -53512 0 0
+.Point 0 -18525 -53219 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20523 -55378 0 0
+.Point 0 -20523 -54456 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18319 -57582 0 0
+.Point 0 -18585 -56330 0 0
+.Point 0 -18730 -56032 0 0
+.Point 0 -18964 -55796 0 0
+.Point 0 -19263 -55646 0 0
+.Point 0 -20523 -55378 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20523 -55378 0 0
+.Point 0 -18887 -55105 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18887 -55105 0 0
+.Point 0 -18389 -55447 0 0
+.Point 0 -18046 -55946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18319 -57582 0 0
+.Point 0 -18046 -55946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18046 -53888 0 0
+.Point 0 -18389 -54387 0 0
+.Point 0 -18887 -54730 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20523 -54456 0 0
+.Point 0 -18887 -54730 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18887 -54730 0 0
+.Point 0 -18887 -55105 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4806 50544 0 0
+.Point 0 4806 49622 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2602 52748 0 0
+.Point 0 2868 51495 0 0
+.Point 0 3013 51198 0 0
+.Point 0 3247 50961 0 0
+.Point 0 3546 50812 0 0
+.Point 0 4806 50544 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1681 52748 0 0
+.Point 0 2602 52748 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -523 50544 0 0
+.Point 0 729 50809 0 0
+.Point 0 1027 50955 0 0
+.Point 0 1263 51188 0 0
+.Point 0 1412 51488 0 0
+.Point 0 1681 52748 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4806 49622 0 0
+.Point 0 3554 49356 0 0
+.Point 0 3506 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2329 49054 0 0
+.Point 0 2672 49553 0 0
+.Point 0 3170 49895 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4806 49622 0 0
+.Point 0 3170 49895 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4806 50544 0 0
+.Point 0 3170 50270 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3170 50270 0 0
+.Point 0 2672 50613 0 0
+.Point 0 2329 51112 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2602 52748 0 0
+.Point 0 2329 51112 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -523 49622 0 0
+.Point 0 1113 49895 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1113 49895 0 0
+.Point 0 1611 49553 0 0
+.Point 0 1954 49054 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1681 52748 0 0
+.Point 0 1954 51112 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1954 51112 0 0
+.Point 0 1611 50613 0 0
+.Point 0 1113 50270 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -523 50544 0 0
+.Point 0 1113 50270 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3170 49895 0 0
+.Point 0 3170 50270 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1113 50270 0 0
+.Point 0 1113 49895 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2329 51112 0 0
+.Point 0 1954 51112 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22806 -50182 0 0
+.Point 0 22111 -50136 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22602 -52252 0 0
+.Point 0 22791 -53144 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21681 -52252 0 0
+.Point 0 22602 -52252 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19477 -54456 0 0
+.Point 0 20729 -54191 0 0
+.Point 0 21027 -54045 0 0
+.Point 0 21263 -53812 0 0
+.Point 0 21412 -53512 0 0
+.Point 0 21681 -52252 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19477 -55378 0 0
+.Point 0 19477 -54456 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21681 -57582 0 0
+.Point 0 21415 -56330 0 0
+.Point 0 21270 -56032 0 0
+.Point 0 21036 -55796 0 0
+.Point 0 20737 -55646 0 0
+.Point 0 19477 -55378 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22602 -57582 0 0
+.Point 0 21681 -57582 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24806 -55378 0 0
+.Point 0 23554 -55644 0 0
+.Point 0 23256 -55789 0 0
+.Point 0 23020 -56023 0 0
+.Point 0 22870 -56322 0 0
+.Point 0 22602 -57582 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22329 -55946 0 0
+.Point 0 22602 -57582 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22329 -55946 0 0
+.Point 0 22672 -55447 0 0
+.Point 0 23170 -55105 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22602 -52252 0 0
+.Point 0 22329 -53888 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19477 -55378 0 0
+.Point 0 21113 -55105 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21113 -55105 0 0
+.Point 0 21611 -55447 0 0
+.Point 0 21954 -55946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21681 -57582 0 0
+.Point 0 21954 -55946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21681 -52252 0 0
+.Point 0 21954 -53888 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21954 -53888 0 0
+.Point 0 21611 -54387 0 0
+.Point 0 21113 -54730 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19477 -54456 0 0
+.Point 0 21113 -54730 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23170 -55105 0 0
+.Point 0 23170 -54730 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21113 -54730 0 0
+.Point 0 21113 -55105 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22329 -53888 0 0
+.Point 0 21954 -53888 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21954 -55946 0 0
+.Point 0 22329 -55946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3376 45002 0 0
+.Point 0 -2911 44540 0 0
+.Point 0 -2511 44200 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29048 6373 0 0
+.Point 0 -29374 6557 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 38891 34083 0 0
+.Point 0 35741 34083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7557 49876 0 0
+.Point 0 -7165 50795 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7165 50795 0 0
+.Point 0 -6772 49876 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6772 49876 0 0
+.Point 0 -7557 49876 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30736 49819 0 0
+.Point 0 30995 50643 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30995 50643 0 0
+.Point 0 31255 49819 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31255 49819 0 0
+.Point 0 30736 49819 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 35133 0 0
+.Point 0 32191 35133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2765 47333 0 0
+.Point 0 9017 47333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19872 53798 0 0
+.Point 0 20252 54084 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16926 54084 0 0
+.Point 0 17306 53798 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16736 54370 0 0
+.Point 0 16926 54084 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16641 54728 0 0
+.Point 0 16736 54370 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16641 55801 0 0
+.Point 0 16641 54728 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16736 56159 0 0
+.Point 0 16641 55801 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16926 56445 0 0
+.Point 0 16736 56159 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17306 56731 0 0
+.Point 0 16926 56445 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17686 56874 0 0
+.Point 0 17306 56731 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18161 56946 0 0
+.Point 0 17686 56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19016 56946 0 0
+.Point 0 18161 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19491 56874 0 0
+.Point 0 19016 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19872 56731 0 0
+.Point 0 19491 56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20252 56445 0 0
+.Point 0 19872 56731 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20347 56087 0 0
+.Point 0 20252 56445 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19777 56087 0 0
+.Point 0 20347 56087 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19681 56302 0 0
+.Point 0 19777 56087 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19396 56445 0 0
+.Point 0 19681 56302 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19016 56517 0 0
+.Point 0 19396 56445 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18161 56517 0 0
+.Point 0 19016 56517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17781 56445 0 0
+.Point 0 18161 56517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17496 56302 0 0
+.Point 0 17781 56445 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17306 56087 0 0
+.Point 0 17496 56302 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17211 55801 0 0
+.Point 0 17306 56087 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17211 54728 0 0
+.Point 0 17211 55801 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17306 54442 0 0
+.Point 0 17211 54728 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17496 54227 0 0
+.Point 0 17306 54442 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17781 54084 0 0
+.Point 0 17496 54227 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18161 54012 0 0
+.Point 0 17781 54084 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19396 54084 0 0
+.Point 0 19016 54012 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19681 54227 0 0
+.Point 0 19396 54084 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19777 54442 0 0
+.Point 0 19681 54227 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20347 54442 0 0
+.Point 0 19777 54442 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20252 54084 0 0
+.Point 0 20347 54442 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21107 56946 0 0
+.Point 0 21107 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21677 56946 0 0
+.Point 0 21107 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21677 55586 0 0
+.Point 0 21677 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24337 55586 0 0
+.Point 0 21677 55586 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24337 56946 0 0
+.Point 0 24337 55586 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24907 56946 0 0
+.Point 0 24337 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24907 53583 0 0
+.Point 0 24907 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24337 53583 0 0
+.Point 0 24907 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21677 55157 0 0
+.Point 0 24337 55157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26237 56517 0 0
+.Point 0 28612 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28612 53583 0 0
+.Point 0 29467 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29467 53583 0 0
+.Point 0 29467 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29467 56946 0 0
+.Point 0 28897 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28897 56946 0 0
+.Point 0 28897 54084 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28897 54084 0 0
+.Point 0 26522 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26522 56946 0 0
+.Point 0 25667 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25667 56946 0 0
+.Point 0 25667 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25667 53583 0 0
+.Point 0 26237 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26237 53583 0 0
+.Point 0 26237 56517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30227 56946 0 0
+.Point 0 30227 56588 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30227 56588 0 0
+.Point 0 31747 56588 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31747 56588 0 0
+.Point 0 31747 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31747 53583 0 0
+.Point 0 32317 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32317 53583 0 0
+.Point 0 32317 56588 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32317 56588 0 0
+.Point 0 33837 56588 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33837 56588 0 0
+.Point 0 33837 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33837 56946 0 0
+.Point 0 30227 56946 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35405 56325 0 0
+.Point 0 35360 56269 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35427 56410 0 0
+.Point 0 35405 56325 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35427 56494 0 0
+.Point 0 35427 56410 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35405 56578 0 0
+.Point 0 35427 56494 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35360 56634 0 0
+.Point 0 35405 56578 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35294 56662 0 0
+.Point 0 35360 56634 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34874 56662 0 0
+.Point 0 35294 56662 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34874 56241 0 0
+.Point 0 34874 56662 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35294 56241 0 0
+.Point 0 34874 56241 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35360 56269 0 0
+.Point 0 35294 56241 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34741 55483 0 0
+.Point 0 34874 55483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34741 56803 0 0
+.Point 0 34741 55483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35272 56803 0 0
+.Point 0 34741 56803 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35382 56775 0 0
+.Point 0 35272 56803 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35537 56578 0 0
+.Point 0 35471 56691 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35559 56494 0 0
+.Point 0 35537 56578 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35559 56382 0 0
+.Point 0 35559 56494 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35537 56297 0 0
+.Point 0 35559 56382 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35471 56185 0 0
+.Point 0 35537 56297 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35382 56129 0 0
+.Point 0 35471 56185 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35581 55483 0 0
+.Point 0 35382 56129 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35250 56073 0 0
+.Point 0 35427 55483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34874 56073 0 0
+.Point 0 35250 56073 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34874 55483 0 0
+.Point 0 34874 56073 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29109 2683 0 0
+.Point 0 -29109 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 31803 0 0
+.Point 0 30752 31868 0 0
+.Point 0 30483 31952 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28987 32933 0 0
+.Point 0 28891 33081 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28332 34133 0 0
+.Point 0 28141 35126 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 34860 0 0
+.Point 0 28284 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28643 33220 0 0
+.Point 0 28891 32843 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30079 31867 0 0
+.Point 0 30175 31816 0 0
+.Point 0 31391 31578 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9609 -53264 0 0
+.Point 0 -9609 -53522 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 5391 -28898 0 0
+.Point 0 6391 -28898 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6391 -28898 0 0
+.Point 0 6391 -31417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6391 -31417 0 0
+.Point 0 8910 -31417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8910 -31417 0 0
+.Point 0 8910 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2871 -32411 0 0
+.Point 0 2831 -31917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2831 -31917 0 0
+.Point 0 2872 -31417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2872 -31417 0 0
+.Point 0 5391 -31417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 5391 -31417 0 0
+.Point 0 5391 -28898 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 5191 -31917 0 0
+.Point 0 5241 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6542 -32167 0 0
+.Point 0 6591 -31917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 30057 0 0
+.Point 0 33891 29562 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35641 33309 0 0
+.Point 0 35641 37088 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33526 37583 0 0
+.Point 0 33141 37583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33141 37583 0 0
+.Point 0 33141 37385 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32676 37385 0 0
+.Point 0 32195 36605 0 0
+.Point 0 31835 36317 0 0
+.Point 0 31614 36227 0 0
+.Point 0 31391 36197 0 0
+.Point 0 31169 36227 0 0
+.Point 0 30948 36317 0 0
+.Point 0 30588 36605 0 0
+.Point 0 30106 37385 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29641 37583 0 0
+.Point 0 29256 37583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 29562 0 0
+.Point 0 28891 30057 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 30057 0 0
+.Point 0 33891 30057 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28742 36939 0 0
+.Point 0 29391 36939 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 36939 0 0
+.Point 0 29391 36642 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 36642 0 0
+.Point 0 28550 36642 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28376 36345 0 0
+.Point 0 29391 36345 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 36345 0 0
+.Point 0 29391 36048 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 36048 0 0
+.Point 0 28465 36048 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28262 35751 0 0
+.Point 0 29391 35751 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 35751 0 0
+.Point 0 29391 35454 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 35454 0 0
+.Point 0 28141 35454 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28147 35157 0 0
+.Point 0 29391 35157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 35157 0 0
+.Point 0 29391 34860 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 34860 0 0
+.Point 0 28141 34860 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 34563 0 0
+.Point 0 29391 34563 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 34563 0 0
+.Point 0 29391 34266 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27391 33374 0 0
+.Point 0 27540 33374 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27641 32483 0 0
+.Point 0 27391 32483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 30998 0 0
+.Point 0 29391 30998 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 30701 0 0
+.Point 0 28695 30701 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34241 36642 0 0
+.Point 0 33391 36642 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 36642 0 0
+.Point 0 33391 36939 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 36939 0 0
+.Point 0 33671 36939 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33850 36939 0 0
+.Point 0 34041 36939 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34241 36048 0 0
+.Point 0 33391 36048 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 36048 0 0
+.Point 0 33391 36345 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 36345 0 0
+.Point 0 34407 36345 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 35454 0 0
+.Point 0 33391 35454 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 35454 0 0
+.Point 0 33391 35751 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 35751 0 0
+.Point 0 34521 35751 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 34860 0 0
+.Point 0 33391 34860 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 34860 0 0
+.Point 0 33391 35157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 35157 0 0
+.Point 0 34641 35157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 34266 0 0
+.Point 0 33391 34563 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 34563 0 0
+.Point 0 34641 34563 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35231 33374 0 0
+.Point 0 35391 33374 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 33374 0 0
+.Point 0 35391 33077 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34087 30701 0 0
+.Point 0 33391 30701 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 30998 0 0
+.Point 0 33891 30998 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 9381 0 0
+.Point 0 -35109 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 -31717 0 0
+.Point 0 -35109 -17215 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 -17071 0 0
+.Point 0 -35109 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 2683 0 0
+.Point 0 -18109 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -56733 0 0
+.Point 0 8991 -55319 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -55319 0 0
+.Point 0 8991 -55102 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -50164 0 0
+.Point 0 8991 -49670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -13031 -8917 0 0
+.Point 0 -13031 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -13031 -1467 0 0
+.Point 0 -13031 1083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1859 3449 0 0
+.Point 0 -1859 2583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1859 1083 0 0
+.Point 0 -1859 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1859 -11217 0 0
+.Point 0 -1859 -11417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29843 -45823 0 0
+.Point 0 30142 -45838 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30142 -45838 0 0
+.Point 0 30456 -45843 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32327 -45843 0 0
+.Point 0 32640 -45838 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32640 -45838 0 0
+.Point 0 32940 -45823 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4591 -11217 0 0
+.Point 0 4591 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4591 -9217 0 0
+.Point 0 -4809 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4809 -9217 0 0
+.Point 0 -4809 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4809 -11217 0 0
+.Point 0 4591 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6141 -11417 0 0
+.Point 0 6141 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6141 -9217 0 0
+.Point 0 6141 -5117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6141 -2417 0 0
+.Point 0 6141 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17313 1083 0 0
+.Point 0 17313 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17313 -8117 0 0
+.Point 0 17313 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19891 43083 0 0
+.Point 0 19643 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12640 41833 0 0
+.Point 0 12391 43083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 -12117 0 0
+.Point 0 10891 -19717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 -19717 0 0
+.Point 0 -11109 -19717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11109 -19717 0 0
+.Point 0 -11109 -12117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11109 -12117 0 0
+.Point 0 10891 -12117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 -37891 0 0
+.Point 0 28891 -37396 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27288 -45272 0 0
+.Point 0 27450 -45379 0 0
+.Point 0 27641 -45417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29256 -45417 0 0
+.Point 0 29641 -45417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30106 -45219 0 0
+.Point 0 30588 -44439 0 0
+.Point 0 30948 -44152 0 0
+.Point 0 31168 -44061 0 0
+.Point 0 31391 -44031 0 0
+.Point 0 31614 -44061 0 0
+.Point 0 31835 -44152 0 0
+.Point 0 32195 -44439 0 0
+.Point 0 32676 -45219 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33141 -45417 0 0
+.Point 0 33526 -45417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35641 -44922 0 0
+.Point 0 35641 -41143 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 -37396 0 0
+.Point 0 33891 -37891 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 -37891 0 0
+.Point 0 28891 -37891 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34041 -44773 0 0
+.Point 0 33391 -44773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -44773 0 0
+.Point 0 33391 -44476 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -44476 0 0
+.Point 0 34232 -44476 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -44476 0 0
+.Point 0 35391 -44773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34407 -44179 0 0
+.Point 0 33391 -44179 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -44179 0 0
+.Point 0 33391 -43882 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -43882 0 0
+.Point 0 34318 -43882 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -43882 0 0
+.Point 0 35391 -44179 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34521 -43585 0 0
+.Point 0 33391 -43585 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -43585 0 0
+.Point 0 33391 -43288 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -43288 0 0
+.Point 0 34641 -43288 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -43288 0 0
+.Point 0 35391 -43585 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 -42991 0 0
+.Point 0 33391 -42991 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -42991 0 0
+.Point 0 33391 -42694 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -42694 0 0
+.Point 0 34641 -42694 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -42694 0 0
+.Point 0 35391 -42991 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 -42397 0 0
+.Point 0 33391 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -42397 0 0
+.Point 0 33391 -42100 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -42100 0 0
+.Point 0 35391 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -41505 0 0
+.Point 0 35391 -41803 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -41208 0 0
+.Point 0 35238 -41208 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -40911 0 0
+.Point 0 35391 -41208 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 -38832 0 0
+.Point 0 33391 -38832 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 -38535 0 0
+.Point 0 34087 -38535 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28550 -44476 0 0
+.Point 0 29391 -44476 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -44476 0 0
+.Point 0 29391 -44773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -44773 0 0
+.Point 0 29111 -44773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28933 -44773 0 0
+.Point 0 28742 -44773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28465 -43882 0 0
+.Point 0 29391 -43882 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -43882 0 0
+.Point 0 29391 -44179 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -44179 0 0
+.Point 0 28376 -44179 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 -43288 0 0
+.Point 0 29391 -43288 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -43288 0 0
+.Point 0 29391 -43585 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -43585 0 0
+.Point 0 28262 -43585 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 -42694 0 0
+.Point 0 29391 -42694 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -42694 0 0
+.Point 0 29391 -42991 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -42991 0 0
+.Point 0 28141 -42991 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -42100 0 0
+.Point 0 29391 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -42397 0 0
+.Point 0 28141 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28695 -38535 0 0
+.Point 0 29391 -38535 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -38832 0 0
+.Point 0 28891 -38832 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11009 41833 0 0
+.Point 0 -11009 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11009 46919 0 0
+.Point 0 -11009 47484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11009 47484 0 0
+.Point 0 -11009 48899 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35741 -41917 0 0
+.Point 0 38891 -41917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31441 -44248 0 0
+.Point 0 31854 -44167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33567 -42917 0 0
+.Point 0 33659 -42781 0 0
+.Point 0 33676 -42694 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33736 -42397 0 0
+.Point 0 33796 -42100 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29087 -42100 0 0
+.Point 0 29147 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29206 -42694 0 0
+.Point 0 29224 -42781 0 0
+.Point 0 29316 -42917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31278 -44216 0 0
+.Point 0 31441 -44248 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27160 -54250 0 0
+.Point 0 26841 -54250 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 36041 -46917 0 0
+.Point 0 36041 -48071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4091 583 0 0
+.Point 0 4091 -2117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4091 -5717 0 0
+.Point 0 4091 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27141 32283 0 0
+.Point 0 27591 32283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 32283 0 0
+.Point 0 35641 32283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28509 -1467 0 0
+.Point 0 -28509 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 -49670 0 0
+.Point 0 -17209 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 -55102 0 0
+.Point 0 -17209 -55319 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 -55319 0 0
+.Point 0 -17209 -56733 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 441 32583 0 0
+.Point 0 441 33092 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25809 23883 0 0
+.Point 0 -25809 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15141 35883 0 0
+.Point 0 15141 28482 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15141 24333 0 0
+.Point 0 15141 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13327 35883 0 0
+.Point 0 15141 35883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 -11773 0 0
+.Point 0 10891 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -42967 0 0
+.Point 0 30591 -42967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5384 283 0 0
+.Point 0 -5384 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5384 -8117 0 0
+.Point 0 -2659 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2659 -8117 0 0
+.Point 0 -2659 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2659 283 0 0
+.Point 0 -5384 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 39083 0 0
+.Point 0 27241 25383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 -33017 0 0
+.Point 0 27241 -46917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 25183 0 0
+.Point 0 27241 24083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 -31917 0 0
+.Point 0 27241 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 48953 0 0
+.Point 0 27591 46948 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 46948 0 0
+.Point 0 35191 46948 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 -42694 0 0
+.Point 0 34499 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34050 -40917 0 0
+.Point 0 33891 -40677 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32703 -39701 0 0
+.Point 0 32608 -39650 0 0
+.Point 0 31391 -39412 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 -39637 0 0
+.Point 0 32031 -39702 0 0
+.Point 0 32300 -39786 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33796 -40767 0 0
+.Point 0 33893 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34451 -41967 0 0
+.Point 0 34641 -42960 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11109 -11773 0 0
+.Point 0 -11109 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 -14517 0 0
+.Point 0 28891 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29891 -10517 0 0
+.Point 0 29891 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15641 36383 0 0
+.Point 0 16141 36383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15641 23883 0 0
+.Point 0 15641 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15641 28383 0 0
+.Point 0 15641 36383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16141 36383 0 0
+.Point 0 17707 36383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22391 24333 0 0
+.Point 0 22391 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27991 -1467 0 0
+.Point 0 27991 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9559 12083 0 0
+.Point 0 -9559 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5597 -8117 0 0
+.Point 0 -5597 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5597 283 0 0
+.Point 0 -8721 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8721 283 0 0
+.Point 0 -8721 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8721 -8117 0 0
+.Point 0 -5597 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -188 8717 0 0
+.Point 0 -188 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33992 -54782 0 0
+.Point 0 28790 -54782 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10641 -8417 0 0
+.Point 0 10641 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21141 -8417 0 0
+.Point 0 10641 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21141 -8917 0 0
+.Point 0 21141 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23491 -5497 0 0
+.Point 0 23791 -5437 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23791 -2397 0 0
+.Point 0 23491 -2337 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23734 -1235 0 0
+.Point 0 24444 -1376 0 0
+.Point 0 24579 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 39433 0 0
+.Point 0 35191 39433 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 39261 0 0
+.Point 0 35191 39374 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18859 -8917 0 0
+.Point 0 -18859 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29359 -8417 0 0
+.Point 0 -29359 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29059 -8417 0 0
+.Point 0 -29359 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18859 -8417 0 0
+.Point 0 -29059 -8417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29247 -42100 0 0
+.Point 0 29306 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29391 -42801 0 0
+.Point 0 29468 -42917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26991 -7417 0 0
+.Point 0 24491 -7417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26991 -8917 0 0
+.Point 0 26991 -7417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24491 -7417 0 0
+.Point 0 24491 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -14859 12070 0 0
+.Point 0 -14859 11949 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -47267 0 0
+.Point 0 27591 -47267 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29109 -10517 0 0
+.Point 0 -29109 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4359 -53883 0 0
+.Point 0 -4359 -53936 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4359 -53936 0 0
+.Point 0 -5359 -53936 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5359 -53936 0 0
+.Point 0 -5359 -53883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1908 -50167 0 0
+.Point 0 -2048 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7675 -49667 0 0
+.Point 0 -7735 -49760 0 0
+.Point 0 -7813 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7741 -50167 0 0
+.Point 0 -7575 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2143 -49667 0 0
+.Point 0 -1976 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1840 -50417 0 0
+.Point 0 -1840 -51417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1840 -51417 0 0
+.Point 0 -1893 -51417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 48899 0 0
+.Point 0 -17209 47484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 47484 0 0
+.Point 0 -17209 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 46919 0 0
+.Point 0 -17209 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22833 51183 0 0
+.Point 0 23430 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22391 51183 0 0
+.Point 0 22586 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24145 51183 0 0
+.Point 0 24340 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24340 51183 0 0
+.Point 0 24989 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17891 51183 0 0
+.Point 0 19125 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19399 51183 0 0
+.Point 0 20633 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20907 51183 0 0
+.Point 0 20941 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21044 51183 0 0
+.Point 0 21147 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21147 51183 0 0
+.Point 0 21318 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21318 51183 0 0
+.Point 0 21523 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21523 51183 0 0
+.Point 0 21729 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21729 51183 0 0
+.Point 0 21900 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21900 51183 0 0
+.Point 0 22003 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22072 51183 0 0
+.Point 0 22106 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28993 51183 0 0
+.Point 0 29062 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29062 51183 0 0
+.Point 0 29165 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29165 51183 0 0
+.Point 0 29336 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29336 51183 0 0
+.Point 0 29507 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29507 51183 0 0
+.Point 0 29713 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29713 51183 0 0
+.Point 0 29884 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29884 51183 0 0
+.Point 0 30056 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30056 51183 0 0
+.Point 0 30158 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30569 51183 0 0
+.Point 0 30638 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30638 51183 0 0
+.Point 0 30741 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30741 51183 0 0
+.Point 0 30912 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30912 51183 0 0
+.Point 0 31118 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31118 51183 0 0
+.Point 0 31323 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31323 51183 0 0
+.Point 0 31495 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31495 51183 0 0
+.Point 0 31597 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31597 51183 0 0
+.Point 0 31666 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31700 51183 0 0
+.Point 0 31735 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32009 51183 0 0
+.Point 0 32111 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32111 51183 0 0
+.Point 0 32557 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32934 51183 0 0
+.Point 0 33037 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33037 51183 0 0
+.Point 0 33208 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33208 51183 0 0
+.Point 0 33379 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33379 51183 0 0
+.Point 0 33551 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33551 51183 0 0
+.Point 0 33722 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33722 51183 0 0
+.Point 0 33893 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33893 51183 0 0
+.Point 0 33996 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33996 51183 0 0
+.Point 0 34065 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34407 51183 0 0
+.Point 0 34476 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34476 51183 0 0
+.Point 0 34579 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34579 51183 0 0
+.Point 0 34750 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34750 51183 0 0
+.Point 0 34955 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34955 51183 0 0
+.Point 0 35161 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35161 51183 0 0
+.Point 0 35332 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35332 51183 0 0
+.Point 0 35435 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35435 51183 0 0
+.Point 0 35504 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 37011 51183 0 0
+.Point 0 37217 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 36299 51183 0 0
+.Point 0 36765 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35846 51183 0 0
+.Point 0 36052 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 37491 51183 0 0
+.Point 0 38862 51183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7659 45743 0 0
+.Point 0 -6659 45743 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10178 42258 0 0
+.Point 0 -10178 43248 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4140 43248 0 0
+.Point 0 -4140 42469 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4193 43430 0 0
+.Point 0 -4140 43248 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7659 45872 0 0
+.Point 0 -7659 45743 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6659 45743 0 0
+.Point 0 -6659 45872 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7659 43248 0 0
+.Point 0 -7659 45743 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6659 45743 0 0
+.Point 0 -6659 43248 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6659 43248 0 0
+.Point 0 -4140 43248 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7159 43446 0 0
+.Point 0 -7427 43393 0 0
+.Point 0 -7472 43364 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8759 45219 0 0
+.Point 0 -8759 43833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10659 43684 0 0
+.Point 0 -10909 43658 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3409 43658 0 0
+.Point 0 -4411 43763 0 0
+.Point 0 -5559 43833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5559 43833 0 0
+.Point 0 -5559 45219 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5559 45219 0 0
+.Point 0 -4411 45149 0 0
+.Point 0 -3409 45044 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3409 45044 0 0
+.Point 0 -3409 46331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10909 45044 0 0
+.Point 0 -9907 45149 0 0
+.Point 0 -8759 45219 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8150 43779 0 0
+.Point 0 -7773 44037 0 0
+.Point 0 -7659 44073 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8691 -11217 0 0
+.Point 0 8691 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8691 -9217 0 0
+.Point 0 4891 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4891 -9217 0 0
+.Point 0 4891 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4891 -11217 0 0
+.Point 0 8691 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35323 48984 0 0
+.Point 0 35374 48914 0 0
+.Point 0 35391 48833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 48861 0 0
+.Point 0 35191 39463 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 39436 0 0
+.Point 0 35391 48833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35323 48984 0 0
+.Point 0 35271 48937 0 0
+.Point 0 35191 48861 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 49033 0 0
+.Point 0 35271 49016 0 0
+.Point 0 35323 48984 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 49033 0 0
+.Point 0 35191 49033 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32940 37988 0 0
+.Point 0 32640 38004 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32640 38004 0 0
+.Point 0 32327 38009 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30456 38009 0 0
+.Point 0 30142 38004 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30142 38004 0 0
+.Point 0 29843 37988 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 24814 0 0
+.Point 0 26141 25383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 46919 0 0
+.Point 0 26141 47671 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 47671 0 0
+.Point 0 26141 47832 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 47832 0 0
+.Point 0 26141 47987 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 47987 0 0
+.Point 0 26141 48649 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26141 48649 0 0
+.Point 0 26141 49133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -48441 0 0
+.Point 0 30591 -48441 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 -48441 0 0
+.Point 0 30591 -47764 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 -47764 0 0
+.Point 0 32191 -47764 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -47764 0 0
+.Point 0 32191 -48441 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26641 44060 0 0
+.Point 0 26641 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20391 44060 0 0
+.Point 0 26641 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20391 44060 0 0
+.Point 0 18301 42780 0 0
+.Point 0 15891 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 44060 0 0
+.Point 0 9391 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9391 44060 0 0
+.Point 0 11391 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 -1167 0 0
+.Point 0 -16609 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 -1167 0 0
+.Point 0 -16909 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2591 -1167 0 0
+.Point 0 1341 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1341 -1167 0 0
+.Point 0 -2659 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5384 -1167 0 0
+.Point 0 -5597 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 -1167 0 0
+.Point 0 -11609 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35641 -40117 0 0
+.Point 0 35391 -40117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -40117 0 0
+.Point 0 27141 -40117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2791 48899 0 0
+.Point 0 2791 47484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2791 47484 0 0
+.Point 0 2791 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2791 46919 0 0
+.Point 0 2791 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -56967 0 0
+.Point 0 26391 -56242 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -53204 0 0
+.Point 0 26391 -53130 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -53130 0 0
+.Point 0 26391 -51894 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -32167 0 0
+.Point 0 26391 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -7417 0 0
+.Point 0 26391 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -1167 0 0
+.Point 0 26391 883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 23883 0 0
+.Point 0 26391 25183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 46919 0 0
+.Point 0 26391 48408 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 48408 0 0
+.Point 0 26391 49133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2891 3449 0 0
+.Point 0 -3109 3449 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3109 8717 0 0
+.Point 0 2891 8717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -47297 0 0
+.Point 0 35191 -56695 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -56695 0 0
+.Point 0 35191 -56695 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -47297 0 0
+.Point 0 27591 -56695 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 -51470 0 0
+.Point 0 34641 -52955 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 -52955 0 0
+.Point 0 28141 -51470 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35323 -56818 0 0
+.Point 0 35374 -56748 0 0
+.Point 0 35391 -56667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -56667 0 0
+.Point 0 35391 -47270 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -56695 0 0
+.Point 0 35271 -56771 0 0
+.Point 0 35323 -56818 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35323 -56818 0 0
+.Point 0 35271 -56850 0 0
+.Point 0 35191 -56867 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24109 42333 0 0
+.Point 0 -26519 42780 0 0
+.Point 0 -28609 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28609 44060 0 0
+.Point 0 -34859 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34859 24333 0 0
+.Point 0 -34859 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17609 44060 0 0
+.Point 0 -19609 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 44060 0 0
+.Point 0 -17609 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 -10517 0 0
+.Point 0 -18109 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4979 -2717 0 0
+.Point 0 8403 -2717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4979 -2717 0 0
+.Point 0 4979 -5117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4979 -5117 0 0
+.Point 0 8403 -5117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8403 -5117 0 0
+.Point 0 8403 -2717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8191 -2417 0 0
+.Point 0 4767 -2417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4471 7777 0 0
+.Point 0 4641 7743 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11091 -19917 0 0
+.Point 0 -11309 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11091 -11917 0 0
+.Point 0 11091 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 -19917 0 0
+.Point 0 -11309 -11917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8891 11783 0 0
+.Point 0 8891 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9109 11783 0 0
+.Point 0 -9109 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11891 -19917 0 0
+.Point 0 11338 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22891 -19917 0 0
+.Point 0 11891 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -23109 -19917 0 0
+.Point 0 -12109 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11555 -19917 0 0
+.Point 0 -12109 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -23109 -16262 0 0
+.Point 0 -23109 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22891 -19917 0 0
+.Point 0 22891 -16262 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39691 -17215 0 0
+.Point 0 39691 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39691 -31717 0 0
+.Point 0 11107 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 676 -31717 0 0
+.Point 0 -34909 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34909 -31717 0 0
+.Point 0 -34909 -17317 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 2683 0 0
+.Point 0 26391 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 6683 0 0
+.Point 0 30391 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 6683 0 0
+.Point 0 30391 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 2683 0 0
+.Point 0 26391 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15391 2683 0 0
+.Point 0 15391 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15391 6683 0 0
+.Point 0 19391 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19391 6683 0 0
+.Point 0 19391 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19391 2683 0 0
+.Point 0 15391 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -10517 0 0
+.Point 0 30391 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -14517 0 0
+.Point 0 26391 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -14517 0 0
+.Point 0 26391 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 -10517 0 0
+.Point 0 30391 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19391 -10517 0 0
+.Point 0 19391 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19391 -14517 0 0
+.Point 0 15391 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15391 -14517 0 0
+.Point 0 15391 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15391 -10517 0 0
+.Point 0 19391 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 11783 0 0
+.Point 0 9090 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 3583 0 0
+.Point 0 8891 3583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 1083 0 0
+.Point 0 30391 1083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 -417 0 0
+.Point 0 31891 -7417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -8917 0 0
+.Point 0 8991 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -8917 0 0
+.Point 0 8991 -10470 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -19617 0 0
+.Point 0 8991 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11891 -19917 0 0
+.Point 0 11891 -17071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11891 -17071 0 0
+.Point 0 39691 -17071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39691 -17071 0 0
+.Point 0 39691 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39691 9237 0 0
+.Point 0 11691 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 9237 0 0
+.Point 0 11691 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 2683 0 0
+.Point 0 -30609 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 6683 0 0
+.Point 0 -26609 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26609 6683 0 0
+.Point 0 -26609 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26609 2683 0 0
+.Point 0 -30609 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 2683 0 0
+.Point 0 -19609 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 6683 0 0
+.Point 0 -15609 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -15609 6683 0 0
+.Point 0 -15609 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -15609 2683 0 0
+.Point 0 -19609 2683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26609 -10517 0 0
+.Point 0 -26609 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26609 -14517 0 0
+.Point 0 -30609 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 -14517 0 0
+.Point 0 -30609 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 -10517 0 0
+.Point 0 -26609 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -15609 -10517 0 0
+.Point 0 -15609 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -15609 -14517 0 0
+.Point 0 -19609 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 -14517 0 0
+.Point 0 -19609 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 -10517 0 0
+.Point 0 -15609 -10517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11909 9237 0 0
+.Point 0 -34909 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34909 9237 0 0
+.Point 0 -34909 -17071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34909 -17071 0 0
+.Point 0 -12109 -17071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -17071 0 0
+.Point 0 -12109 -19917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9209 -19917 0 0
+.Point 0 -9209 -19617 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9209 -10470 0 0
+.Point 0 -9209 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9209 -8917 0 0
+.Point 0 -30609 -8917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -7417 0 0
+.Point 0 -32109 -417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 1083 0 0
+.Point 0 -8809 1083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9109 3583 0 0
+.Point 0 -8809 3583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9308 11783 0 0
+.Point 0 -11909 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11909 11783 0 0
+.Point 0 -11909 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 46919 0 0
+.Point 0 26891 39083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 47484 0 0
+.Point 0 26891 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 48899 0 0
+.Point 0 26891 47484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28426 28163 0 0
+.Point 0 28372 28120 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28372 28120 0 0
+.Point 0 28372 29119 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28372 29119 0 0
+.Point 0 28426 29163 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 31627 0 0
+.Point 0 30891 31636 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 31636 0 0
+.Point 0 30898 31638 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30898 31638 0 0
+.Point 0 30891 31643 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 31643 0 0
+.Point 0 30438 31477 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32179 31532 0 0
+.Point 0 31391 31684 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 31684 0 0
+.Point 0 31391 31678 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 31678 0 0
+.Point 0 31891 31636 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 31636 0 0
+.Point 0 31891 31627 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34357 29163 0 0
+.Point 0 34410 29119 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34410 29119 0 0
+.Point 0 34410 28120 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34410 28120 0 0
+.Point 0 34357 28163 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 25699 0 0
+.Point 0 31891 25602 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 25602 0 0
+.Point 0 30891 25602 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 25602 0 0
+.Point 0 30891 25699 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3791 -2117 0 0
+.Point 0 3791 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3791 283 0 0
+.Point 0 2441 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2441 283 0 0
+.Point 0 2441 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2441 -8117 0 0
+.Point 0 3791 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3791 -8117 0 0
+.Point 0 3791 -5717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4391 -5117 0 0
+.Point 0 4767 -5117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4767 -5117 0 0
+.Point 0 4767 -2717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4767 -2717 0 0
+.Point 0 4391 -2717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -27959 43083 0 0
+.Point 0 -27959 42783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30209 43083 0 0
+.Point 0 -27959 43083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30209 45483 0 0
+.Point 0 -30209 43083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30509 45483 0 0
+.Point 0 -30209 45483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30509 43083 0 0
+.Point 0 -30509 45483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30359 46033 0 0
+.Point 0 -31009 45904 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 49333 0 0
+.Point 0 -17009 49040 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 49333 0 0
+.Point 0 -17009 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 49040 0 0
+.Point 0 -11209 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 49040 0 0
+.Point 0 -11209 49040 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30041 -49126 0 0
+.Point 0 30148 -48595 0 0
+.Point 0 30361 -48280 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32695 -48536 0 0
+.Point 0 32735 -48595 0 0
+.Point 0 32841 -49126 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5109 -11217 0 0
+.Point 0 -5109 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5109 -9217 0 0
+.Point 0 -8909 -9217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8909 -9217 0 0
+.Point 0 -8909 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8909 -11217 0 0
+.Point 0 -5109 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -10717 0 0
+.Point 0 8991 -11217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10591 -10717 0 0
+.Point 0 8991 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10591 -12117 0 0
+.Point 0 10591 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10809 -10717 0 0
+.Point 0 -10809 -12117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9209 -10717 0 0
+.Point 0 -10809 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9209 -11217 0 0
+.Point 0 -9209 -10717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -11417 0 0
+.Point 0 4736 -11417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4964 -11417 0 0
+.Point 0 -9009 -11417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -22159 -31717 0 0
+.Point 0 -22159 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -22159 -36707 0 0
+.Point 0 -22159 -37817 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25059 -37817 0 0
+.Point 0 -25059 -36356 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25059 -32167 0 0
+.Point 0 -25059 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27691 -6367 0 0
+.Point 0 23791 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27691 -6367 0 0
+.Point 0 27691 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27691 -1467 0 0
+.Point 0 23791 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23791 -1467 0 0
+.Point 0 23791 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23791 -6667 0 0
+.Point 0 27691 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23791 -6367 0 0
+.Point 0 23791 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27691 -6667 0 0
+.Point 0 27691 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28091 -1167 0 0
+.Point 0 27938 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23791 -1167 0 0
+.Point 0 22991 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27691 -1167 0 0
+.Point 0 23791 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23291 -6667 0 0
+.Point 0 23791 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23491 -6367 0 0
+.Point 0 23491 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8191 -5717 0 0
+.Point 0 8191 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8191 -8117 0 0
+.Point 0 23291 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23291 -8117 0 0
+.Point 0 23291 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22991 -1167 0 0
+.Point 0 22991 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22991 283 0 0
+.Point 0 8591 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 283 0 0
+.Point 0 8591 -2117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 -2117 0 0
+.Point 0 8571 -2272 0 0
+.Point 0 8511 -2417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8511 -2417 0 0
+.Point 0 8661 -2417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8661 -2417 0 0
+.Point 0 9093 -2517 0 0
+.Point 0 9491 -2717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9491 -2717 0 0
+.Point 0 9491 -5117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9491 -5117 0 0
+.Point 0 9093 -5317 0 0
+.Point 0 8661 -5417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8661 -5417 0 0
+.Point 0 8111 -5417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8111 -5417 0 0
+.Point 0 8171 -5562 0 0
+.Point 0 8191 -5717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27791 -6667 0 0
+.Point 0 27791 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27791 -8117 0 0
+.Point 0 30891 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 -8117 0 0
+.Point 0 30891 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 283 0 0
+.Point 0 28091 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28091 283 0 0
+.Point 0 28091 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17235 47333 0 0
+.Point 0 -10983 47333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 25233 0 0
+.Point 0 35391 25033 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 32933 0 0
+.Point 0 35191 25233 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35333 33074 0 0
+.Point 0 35278 33019 0 0
+.Point 0 35191 32933 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35333 33074 0 0
+.Point 0 35372 33020 0 0
+.Point 0 35391 32933 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 25033 0 0
+.Point 0 35391 32933 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 32933 0 0
+.Point 0 27591 32933 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 32933 0 0
+.Point 0 27591 25233 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 25233 0 0
+.Point 0 35191 25233 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 33133 0 0
+.Point 0 35278 33113 0 0
+.Point 0 35333 33074 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 33133 0 0
+.Point 0 35191 33133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 34133 0 0
+.Point 0 27591 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 33133 0 0
+.Point 0 30567 33136 0 0
+.Point 0 30545 33143 0 0
+.Point 0 30514 33163 0 0
+.Point 0 30422 33312 0 0
+.Point 0 30391 33519 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 33519 0 0
+.Point 0 30391 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 34133 0 0
+.Point 0 27591 33133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 34133 0 0
+.Point 0 32391 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32391 34133 0 0
+.Point 0 32391 33519 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32391 33519 0 0
+.Point 0 32360 33312 0 0
+.Point 0 32312 33211 0 0
+.Point 0 32257 33155 0 0
+.Point 0 32225 33140 0 0
+.Point 0 32209 33135 0 0
+.Point 0 32191 33133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 33133 0 0
+.Point 0 35191 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24309 -6367 0 0
+.Point 0 -28209 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24309 -6667 0 0
+.Point 0 -24309 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28209 -6667 0 0
+.Point 0 -24309 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28421 -6579 0 0
+.Point 0 -28320 -6646 0 0
+.Point 0 -28209 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28209 -6367 0 0
+.Point 0 -28421 -6579 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28209 -6367 0 0
+.Point 0 -28209 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28209 -1467 0 0
+.Point 0 -24309 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24309 -1467 0 0
+.Point 0 -24309 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24009 -6367 0 0
+.Point 0 -24009 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -24309 -1167 0 0
+.Point 0 -28209 -1167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8809 -8117 0 0
+.Point 0 -8809 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 -6367 0 0
+.Point 0 -11309 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 -1467 0 0
+.Point 0 -16909 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 -1467 0 0
+.Point 0 -16909 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 283 0 0
+.Point 0 -30509 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30509 283 0 0
+.Point 0 -30509 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30509 -8117 0 0
+.Point 0 -16909 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 -8117 0 0
+.Point 0 -16909 -6367 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 -6367 0 0
+.Point 0 -11309 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 -8117 0 0
+.Point 0 -8809 -8117 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8809 283 0 0
+.Point 0 -11309 283 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11309 283 0 0
+.Point 0 -11309 -1467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 -6667 0 0
+.Point 0 -11609 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 -6367 0 0
+.Point 0 -16791 -6486 0 0
+.Point 0 -16715 -6560 0 0
+.Point 0 -16672 -6604 0 0
+.Point 0 -16640 -6635 0 0
+.Point 0 -16618 -6658 0 0
+.Point 0 -16609 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 -6667 0 0
+.Point 0 -11309 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5597 -6667 0 0
+.Point 0 -5384 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2659 -6667 0 0
+.Point 0 1841 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1841 -6667 0 0
+.Point 0 2591 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16909 -6667 0 0
+.Point 0 -16609 -6667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 33633 0 0
+.Point 0 31080 33633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 33684 0 0
+.Point 0 31080 33633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31892 33684 0 0
+.Point 0 30891 33684 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31702 33633 0 0
+.Point 0 31892 33684 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31702 33633 0 0
+.Point 0 32191 33633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 35126 0 0
+.Point 0 32191 33633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 34277 0 0
+.Point 0 30591 35126 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29096 33220 0 0
+.Point 0 29244 33056 0 0
+.Point 0 29425 32933 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33357 32933 0 0
+.Point 0 33539 33056 0 0
+.Point 0 33608 33133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 33633 0 0
+.Point 0 35191 39261 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 33433 0 0
+.Point 0 35391 39233 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 39261 0 0
+.Point 0 27591 39261 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 39261 0 0
+.Point 0 27591 33633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 34133 0 0
+.Point 0 28141 35472 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 35472 0 0
+.Point 0 34641 34133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17891 2683 0 0
+.Point 0 17891 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18891 2683 0 0
+.Point 0 18891 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 23883 0 0
+.Point 0 39891 9483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -17317 0 0
+.Point 0 39891 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 9237 0 0
+.Point 0 39891 -17071 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35581 55483 0 0
+.Point 0 35427 55483 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35382 56775 0 0
+.Point 0 35471 56691 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28909 -40417 0 0
+.Point 0 -28609 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 -40417 0 0
+.Point 0 -19309 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18863 -40417 0 0
+.Point 0 -18567 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29650 -40417 0 0
+.Point 0 -29355 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29650 -40417 0 0
+.Point 0 -30109 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 -40417 0 0
+.Point 0 -18567 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21433 -40417 0 0
+.Point 0 21891 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9891 -40417 0 0
+.Point 0 10350 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23391 -34167 0 0
+.Point 0 8391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 -32167 0 0
+.Point 0 23891 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 -34167 0 0
+.Point 0 8288 -34161 0 0
+.Point 0 8191 -34146 0 0
+.Point 0 8104 -34122 0 0
+.Point 0 8028 -34089 0 0
+.Point 0 7926 -34008 0 0
+.Point 0 7891 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 -33917 0 0
+.Point 0 7891 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 -32167 0 0
+.Point 0 23891 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 -33917 0 0
+.Point 0 23857 -34008 0 0
+.Point 0 23755 -34089 0 0
+.Point 0 23680 -34121 0 0
+.Point 0 23592 -34146 0 0
+.Point 0 23496 -34161 0 0
+.Point 0 23391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 -34167 0 0
+.Point 0 -31609 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31609 -34167 0 0
+.Point 0 -31609 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31609 -49667 0 0
+.Point 0 -16609 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 -49667 0 0
+.Point 0 -16609 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -33917 0 0
+.Point 0 -32109 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 -33917 0 0
+.Point 0 -16143 -34008 0 0
+.Point 0 -16245 -34089 0 0
+.Point 0 -16320 -34121 0 0
+.Point 0 -16408 -34146 0 0
+.Point 0 -16504 -34161 0 0
+.Point 0 -16609 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31609 -34167 0 0
+.Point 0 -31712 -34161 0 0
+.Point 0 -31809 -34146 0 0
+.Point 0 -31896 -34122 0 0
+.Point 0 -31972 -34089 0 0
+.Point 0 -32074 -34008 0 0
+.Point 0 -32109 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -32167 0 0
+.Point 0 -16109 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 -32167 0 0
+.Point 0 -16109 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 -49667 0 0
+.Point 0 23391 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23391 -49667 0 0
+.Point 0 23391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 -34167 0 0
+.Point 0 8391 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -50167 0 0
+.Point 0 -32109 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 -33917 0 0
+.Point 0 23891 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 -50167 0 0
+.Point 0 7891 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 -50167 0 0
+.Point 0 -12109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 -50167 0 0
+.Point 0 -32109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17235 -55167 0 0
+.Point 0 -10983 -55167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15891 -50167 0 0
+.Point 0 18301 -50614 0 0
+.Point 0 20391 -51894 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2765 -55167 0 0
+.Point 0 9017 -55167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 -50167 0 0
+.Point 0 7891 -34164 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 -32167 0 0
+.Point 0 3891 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 -34164 0 0
+.Point 0 3891 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34859 -51894 0 0
+.Point 0 -28609 -51894 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26641 -51894 0 0
+.Point 0 26641 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20391 -51894 0 0
+.Point 0 26641 -51894 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26641 -32167 0 0
+.Point 0 23891 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34859 -32167 0 0
+.Point 0 -34859 -51894 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -32167 0 0
+.Point 0 -16109 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 -34164 0 0
+.Point 0 -16109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28609 -51894 0 0
+.Point 0 -26519 -50614 0 0
+.Point 0 -24109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -32167 0 0
+.Point 0 -34859 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8609 44060 0 0
+.Point 0 -10609 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10609 44060 0 0
+.Point 0 -11009 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2791 44060 0 0
+.Point 0 2391 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2391 44060 0 0
+.Point 0 391 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10609 44060 0 0
+.Point 0 -10609 43060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10609 43060 0 0
+.Point 0 -8977 43060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8977 43060 0 0
+.Point 0 -6790 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1427 41833 0 0
+.Point 0 760 43060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 760 43060 0 0
+.Point 0 2391 43060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2391 43060 0 0
+.Point 0 2391 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 40607 0 0
+.Point 0 32191 40607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 40607 0 0
+.Point 0 32191 39930 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 39930 0 0
+.Point 0 30591 39930 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 39930 0 0
+.Point 0 30591 40607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8809 12083 0 0
+.Point 0 -8809 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5159 12083 0 0
+.Point 0 -8809 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8809 11783 0 0
+.Point 0 -5159 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4859 11783 0 0
+.Point 0 -4859 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11909 12083 0 0
+.Point 0 -23109 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5159 12083 0 0
+.Point 0 -1609 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9308 12083 0 0
+.Point 0 -11909 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8809 1383 0 0
+.Point 0 -8809 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5159 1383 0 0
+.Point 0 -8809 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 12083 0 0
+.Point 0 4941 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4941 12083 0 0
+.Point 0 1391 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22891 12083 0 0
+.Point 0 11691 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 12083 0 0
+.Point 0 9090 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 11783 0 0
+.Point 0 4941 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 11783 0 0
+.Point 0 8591 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4941 11783 0 0
+.Point 0 4941 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4941 1383 0 0
+.Point 0 8591 1383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8591 1383 0 0
+.Point 0 8591 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4641 1383 0 0
+.Point 0 4641 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1391 14779 0 0
+.Point 0 -1609 14779 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -23109 12083 0 0
+.Point 0 -23109 8428 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34909 9483 0 0
+.Point 0 -34909 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34909 23883 0 0
+.Point 0 676 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11107 23883 0 0
+.Point 0 39691 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39691 23883 0 0
+.Point 0 39691 9381 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1391 12083 0 0
+.Point 0 1391 14779 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1609 14779 0 0
+.Point 0 -1609 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4641 9583 0 0
+.Point 0 2891 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3109 9583 0 0
+.Point 0 -4859 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2891 9583 0 0
+.Point 0 -3109 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2891 9583 0 0
+.Point 0 2891 2583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2891 2583 0 0
+.Point 0 -3109 2583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3109 2583 0 0
+.Point 0 -3109 9583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5159 1083 0 0
+.Point 0 4941 1083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9948 22994 0 0
+.Point 0 9874 23014 0 0
+.Point 0 9811 23031 0 0
+.Point 0 9769 23042 0 0
+.Point 0 9755 23046 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2028 23046 0 0
+.Point 0 2013 23042 0 0
+.Point 0 1972 23031 0 0
+.Point 0 1909 23014 0 0
+.Point 0 1835 22994 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 42333 0 0
+.Point 0 3891 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 48670 0 0
+.Point 0 35541 48670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 48670 0 0
+.Point 0 39391 40463 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35941 40463 0 0
+.Point 0 39391 40463 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 48670 0 0
+.Point 0 35541 41583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 41583 0 0
+.Point 0 35941 41583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35941 41583 0 0
+.Point 0 35941 40463 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 50783 0 0
+.Point 0 39391 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 40463 0 0
+.Point 0 39391 39878 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 39878 0 0
+.Point 0 39391 39583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 39583 0 0
+.Point 0 39391 33083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 25183 0 0
+.Point 0 39391 24583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -32417 0 0
+.Point 0 39391 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -40917 0 0
+.Point 0 39391 -47768 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -48061 0 0
+.Point 0 39391 -48236 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -48236 0 0
+.Point 0 39391 -56443 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39041 -56917 0 0
+.Point 0 35541 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3541 48670 0 0
+.Point 0 -2459 48670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3541 46919 0 0
+.Point 0 3541 48670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2459 49083 0 0
+.Point 0 -2459 48670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10659 48670 0 0
+.Point 0 -10659 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -14659 49083 0 0
+.Point 0 -14659 48670 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 49083 0 0
+.Point 0 -2459 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3541 48670 0 0
+.Point 0 3541 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27341 49083 0 0
+.Point 0 25141 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25141 49083 0 0
+.Point 0 23141 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23141 49083 0 0
+.Point 0 22791 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21641 49083 0 0
+.Point 0 10641 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13941 -49917 0 0
+.Point 0 13941 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13941 -50528 0 0
+.Point 0 13941 -51917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10853 -42917 0 0
+.Point 0 11374 -42917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11900 -42917 0 0
+.Point 0 13941 -42917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 46083 0 0
+.Point 0 -18109 43083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 24583 0 0
+.Point 0 39315 24200 0 0
+.Point 0 39103 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34059 -32167 0 0
+.Point 0 -34033 -32034 0 0
+.Point 0 -33821 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -33821 23883 0 0
+.Point 0 -34033 24200 0 0
+.Point 0 -34109 24583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39103 -31717 0 0
+.Point 0 39315 -32034 0 0
+.Point 0 39391 -32417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1141 -49667 0 0
+.Point 0 1141 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1141 -52750 0 0
+.Point 0 1141 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11891 -56917 0 0
+.Point 0 8791 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 -56917 0 0
+.Point 0 1141 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1141 -56917 0 0
+.Point 0 -11209 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 -55917 0 0
+.Point 0 -18059 -55917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9571 -55631 0 0
+.Point 0 -9975 -54804 0 0
+.Point 0 -10109 -53917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14891 -53917 0 0
+.Point 0 14891 -50352 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14891 -50167 0 0
+.Point 0 14891 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11637 -51917 0 0
+.Point 0 13941 -51917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21406 -40554 0 0
+.Point 0 21593 -40477 0 0
+.Point 0 21634 -40465 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -559 51083 0 0
+.Point 0 -559 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -559 30133 0 0
+.Point 0 -559 35214 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26809 23883 0 0
+.Point 0 -26809 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15449 36883 0 0
+.Point 0 16141 36883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22891 24333 0 0
+.Point 0 22891 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20109 -39917 0 0
+.Point 0 -19700 -39957 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10133 -49667 0 0
+.Point 0 -10109 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28259 -39917 0 0
+.Point 0 -20109 -39917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20109 -41917 0 0
+.Point 0 -28060 -41917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8768 49083 0 0
+.Point 0 8641 48083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8641 48083 0 0
+.Point 0 8641 47115 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11109 51083 0 0
+.Point 0 -7533 51083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6796 51083 0 0
+.Point 0 -5877 51083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5227 51083 0 0
+.Point 0 -559 51083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2459 46234 0 0
+.Point 0 -3409 46234 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5421 49331 0 0
+.Point 0 -5421 50931 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5421 50931 0 0
+.Point 0 -5683 50931 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5683 50931 0 0
+.Point 0 -5944 50693 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5944 50693 0 0
+.Point 0 -5944 50420 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5944 50420 0 0
+.Point 0 -5683 50659 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5683 50659 0 0
+.Point 0 -5683 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5683 49331 0 0
+.Point 0 -5421 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6990 50931 0 0
+.Point 0 -7339 50931 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7339 50931 0 0
+.Point 0 -8036 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8036 49331 0 0
+.Point 0 -7775 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7775 49331 0 0
+.Point 0 -7600 49740 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7600 49740 0 0
+.Point 0 -6729 49740 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6729 49740 0 0
+.Point 0 -6554 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6554 49331 0 0
+.Point 0 -6293 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6293 49331 0 0
+.Point 0 -6990 50931 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27341 -56917 0 0
+.Point 0 27341 -54417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27341 -54417 0 0
+.Point 0 27591 -54417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28544 -54417 0 0
+.Point 0 34239 -54417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 46583 0 0
+.Point 0 27341 46583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9228 45083 0 0
+.Point 0 -8759 45083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5559 45083 0 0
+.Point 0 -5359 45083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3780 45083 0 0
+.Point 0 -2459 45083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9641 45279 0 0
+.Point 0 9641 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12641 51083 0 0
+.Point 0 39091 51083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31803 49484 0 0
+.Point 0 31803 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31803 49331 0 0
+.Point 0 32840 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32840 49331 0 0
+.Point 0 32840 49484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32840 49484 0 0
+.Point 0 32033 49484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32033 49484 0 0
+.Point 0 32754 50155 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32754 50155 0 0
+.Point 0 32811 50247 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32811 50247 0 0
+.Point 0 32840 50369 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32840 50369 0 0
+.Point 0 32840 50430 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32840 50430 0 0
+.Point 0 32811 50552 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32811 50552 0 0
+.Point 0 32696 50674 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32696 50674 0 0
+.Point 0 32581 50735 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32581 50735 0 0
+.Point 0 32408 50765 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32408 50765 0 0
+.Point 0 32293 50765 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32293 50765 0 0
+.Point 0 32091 50735 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32091 50735 0 0
+.Point 0 31976 50674 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31976 50674 0 0
+.Point 0 31860 50552 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31860 50552 0 0
+.Point 0 31831 50430 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31831 50430 0 0
+.Point 0 31976 50430 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31976 50430 0 0
+.Point 0 32033 50521 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32033 50521 0 0
+.Point 0 32120 50582 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32120 50582 0 0
+.Point 0 32264 50613 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32264 50613 0 0
+.Point 0 32379 50613 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32379 50613 0 0
+.Point 0 32523 50582 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32523 50582 0 0
+.Point 0 32610 50521 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32610 50521 0 0
+.Point 0 32667 50430 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32667 50430 0 0
+.Point 0 32667 50369 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32667 50369 0 0
+.Point 0 32610 50247 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32610 50247 0 0
+.Point 0 31803 49484 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31111 50765 0 0
+.Point 0 30880 50765 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30880 50765 0 0
+.Point 0 30419 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30419 49331 0 0
+.Point 0 30592 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30592 49331 0 0
+.Point 0 30707 49697 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30707 49697 0 0
+.Point 0 31284 49697 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31284 49697 0 0
+.Point 0 31399 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31399 49331 0 0
+.Point 0 31572 49331 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31572 49331 0 0
+.Point 0 31111 50765 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2059 29633 0 0
+.Point 0 -2059 28940 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -559 30133 0 0
+.Point 0 -1559 30133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10259 45083 0 0
+.Point 0 -10259 44060 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7786 30583 0 0
+.Point 0 -2459 30583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2459 30583 0 0
+.Point 0 -2459 36755 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5559 49331 0 0
+.Point 0 -5559 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26809 -31717 0 0
+.Point 0 -26809 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25809 -37917 0 0
+.Point 0 -20659 -37917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1477 -49667 0 0
+.Point 0 1543 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12641 -51917 0 0
+.Point 0 12641 -51128 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12641 -50167 0 0
+.Point 0 12641 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12641 -49917 0 0
+.Point 0 12676 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19891 -32167 0 0
+.Point 0 19891 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10641 47583 0 0
+.Point 0 17641 47583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17641 47583 0 0
+.Point 0 17641 49083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5852 50790 0 0
+.Point 0 -5635 50466 0 0
+.Point 0 -5559 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 36 0 0
+.Point 0 -32109 -170 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 -7664 0 0
+.Point 0 -32109 -7870 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 44583 0 0
+.Point 0 27591 39508 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34891 45083 0 0
+.Point 0 28091 45083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7267 -49667 0 0
+.Point 0 -7399 -49865 0 0
+.Point 0 -7459 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6359 11783 0 0
+.Point 0 -6359 12083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10641 12083 0 0
+.Point 0 10641 11783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 32583 0 0
+.Point 0 -18567 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29650 32583 0 0
+.Point 0 -30109 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31609 26333 0 0
+.Point 0 -16609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 24333 0 0
+.Point 0 -32109 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 26333 0 0
+.Point 0 -16505 26327 0 0
+.Point 0 -16408 26312 0 0
+.Point 0 -16322 26288 0 0
+.Point 0 -16245 26255 0 0
+.Point 0 -16143 26174 0 0
+.Point 0 -16109 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 26083 0 0
+.Point 0 -16109 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 24333 0 0
+.Point 0 -32109 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 26083 0 0
+.Point 0 -32074 26174 0 0
+.Point 0 -31972 26255 0 0
+.Point 0 -31898 26287 0 0
+.Point 0 -31809 26312 0 0
+.Point 0 -31713 26327 0 0
+.Point 0 -31609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 41833 0 0
+.Point 0 -31609 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31609 41833 0 0
+.Point 0 -31609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16609 26333 0 0
+.Point 0 -16609 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 26083 0 0
+.Point 0 -32109 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32109 42333 0 0
+.Point 0 -16109 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -40767 0 0
+.Point 0 35191 -33067 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -33067 0 0
+.Point 0 27591 -40767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -40767 0 0
+.Point 0 35191 -40767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -33067 0 0
+.Point 0 27591 -33067 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35333 -40908 0 0
+.Point 0 35372 -40853 0 0
+.Point 0 35391 -40767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35391 -40767 0 0
+.Point 0 35391 -32867 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -40767 0 0
+.Point 0 35278 -40853 0 0
+.Point 0 35333 -40908 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35333 -40908 0 0
+.Point 0 35278 -40947 0 0
+.Point 0 35191 -40967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32391 -41967 0 0
+.Point 0 35191 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -40967 0 0
+.Point 0 32216 -40970 0 0
+.Point 0 32238 -40978 0 0
+.Point 0 32269 -40997 0 0
+.Point 0 32360 -41146 0 0
+.Point 0 32391 -41353 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32391 -41353 0 0
+.Point 0 32391 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -41967 0 0
+.Point 0 35191 -40967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -41967 0 0
+.Point 0 30391 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -41967 0 0
+.Point 0 30391 -41353 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -41353 0 0
+.Point 0 30422 -41146 0 0
+.Point 0 30471 -41045 0 0
+.Point 0 30526 -40989 0 0
+.Point 0 30557 -40974 0 0
+.Point 0 30574 -40969 0 0
+.Point 0 30591 -40967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -40967 0 0
+.Point 0 27591 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5309 -67717 0 0
+.Point 0 -5309 -64217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2809 -64217 0 0
+.Point 0 -5309 -64217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1809 -59417 0 0
+.Point 0 -1809 -63217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13691 -63217 0 0
+.Point 0 13691 -59417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13691 -43960 0 0
+.Point 0 13691 -40770 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15691 -64217 0 0
+.Point 0 14691 -64217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15691 -64217 0 0
+.Point 0 15691 -67717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14691 -68717 0 0
+.Point 0 -4309 -68717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 191 -56717 0 0
+.Point 0 191 -51798 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1691 -63717 0 0
+.Point 0 1691 -59417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -809 -63717 0 0
+.Point 0 1691 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -809 -66217 0 0
+.Point 0 -809 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12691 -66217 0 0
+.Point 0 -809 -66217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12691 -63717 0 0
+.Point 0 12691 -66217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10191 -63717 0 0
+.Point 0 12691 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10191 -59417 0 0
+.Point 0 10191 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4191 -29517 0 0
+.Point 0 5391 -29517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6391 -29517 0 0
+.Point 0 7691 -29517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4191 -31417 0 0
+.Point 0 4191 -29517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -809 -65217 0 0
+.Point 0 191 -65217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 191 -65217 0 0
+.Point 0 191 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1691 -63717 0 0
+.Point 0 1691 -66217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10191 -66217 0 0
+.Point 0 10191 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 -63717 0 0
+.Point 0 11691 -65217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 -65217 0 0
+.Point 0 12691 -65217 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21433 32583 0 0
+.Point 0 21891 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9891 32583 0 0
+.Point 0 10350 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 26333 0 0
+.Point 0 23391 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23391 26333 0 0
+.Point 0 23391 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23391 41833 0 0
+.Point 0 8391 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 41833 0 0
+.Point 0 8391 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 26083 0 0
+.Point 0 23891 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 26083 0 0
+.Point 0 7926 26174 0 0
+.Point 0 8028 26255 0 0
+.Point 0 8102 26287 0 0
+.Point 0 8191 26312 0 0
+.Point 0 8287 26327 0 0
+.Point 0 8391 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23391 26333 0 0
+.Point 0 23495 26327 0 0
+.Point 0 23592 26312 0 0
+.Point 0 23678 26288 0 0
+.Point 0 23755 26255 0 0
+.Point 0 23857 26174 0 0
+.Point 0 23891 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 24333 0 0
+.Point 0 7891 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 24333 0 0
+.Point 0 7891 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 42333 0 0
+.Point 0 23891 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7891 42333 0 0
+.Point 0 23891 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 -49417 0 0
+.Point 0 35541 -56504 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35941 -49417 0 0
+.Point 0 35541 -49417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35941 -48297 0 0
+.Point 0 35941 -49417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39041 -48297 0 0
+.Point 0 35941 -48297 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39041 -56504 0 0
+.Point 0 39041 -48297 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 -56504 0 0
+.Point 0 39041 -56504 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28909 32583 0 0
+.Point 0 -28609 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -19609 32583 0 0
+.Point 0 -19309 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34357 -35998 0 0
+.Point 0 34410 -35954 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34410 -35954 0 0
+.Point 0 34410 -36953 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34410 -36953 0 0
+.Point 0 34357 -36997 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 -39461 0 0
+.Point 0 31891 -39471 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 -39471 0 0
+.Point 0 31885 -39472 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31885 -39472 0 0
+.Point 0 31891 -39478 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 -39478 0 0
+.Point 0 32344 -39311 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30604 -39366 0 0
+.Point 0 31391 -39518 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 -39518 0 0
+.Point 0 31391 -39512 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31391 -39512 0 0
+.Point 0 30891 -39471 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 -39471 0 0
+.Point 0 30891 -39461 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28426 -36997 0 0
+.Point 0 28372 -36953 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28372 -36953 0 0
+.Point 0 28372 -35954 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28372 -35954 0 0
+.Point 0 28426 -35998 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 -33533 0 0
+.Point 0 30891 -33436 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 -33436 0 0
+.Point 0 31891 -33436 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31891 -33436 0 0
+.Point 0 31891 -33533 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 46919 0 0
+.Point 0 -17009 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 46919 0 0
+.Point 0 -17009 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16109 24583 0 0
+.Point 0 -12109 24583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 41833 0 0
+.Point 0 -11209 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 46919 0 0
+.Point 0 2991 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 46919 0 0
+.Point 0 2991 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 41833 0 0
+.Point 0 8791 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 30083 0 0
+.Point 0 8391 30083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24491 26333 0 0
+.Point 0 24491 25383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 26333 0 0
+.Point 0 24491 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22991 46919 0 0
+.Point 0 22991 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26691 46919 0 0
+.Point 0 22991 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26691 39083 0 0
+.Point 0 26691 46919 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27041 39083 0 0
+.Point 0 26691 39083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27041 25383 0 0
+.Point 0 27041 39083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24491 25383 0 0
+.Point 0 27041 25383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8391 -37917 0 0
+.Point 0 7891 -37917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 -37917 0 0
+.Point 0 3391 -37917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 -49667 0 0
+.Point 0 2991 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -50062 0 0
+.Point 0 8791 -49773 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 -49773 0 0
+.Point 0 -17009 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -50167 0 0
+.Point 0 -11209 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -41467 0 0
+.Point 0 31702 -41467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31892 -41518 0 0
+.Point 0 31702 -41467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30891 -41518 0 0
+.Point 0 31892 -41518 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31080 -41467 0 0
+.Point 0 30891 -41518 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31080 -41467 0 0
+.Point 0 30591 -41467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30591 -42960 0 0
+.Point 0 30591 -42112 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32191 -41467 0 0
+.Point 0 32191 -42960 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33563 -40917 0 0
+.Point 0 33539 -40891 0 0
+.Point 0 33357 -40767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29425 -40767 0 0
+.Point 0 29244 -40891 0 0
+.Point 0 29220 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -47095 0 0
+.Point 0 35191 -47095 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35191 -47095 0 0
+.Point 0 35191 -41467 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 -41967 0 0
+.Point 0 34641 -43306 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28141 -43306 0 0
+.Point 0 28141 -41967 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -41467 0 0
+.Point 0 27591 -47095 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 19141 11949 0 0
+.Point 0 19141 12070 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8909 32583 0 0
+.Point 0 -8609 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 391 32583 0 0
+.Point 0 691 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1137 32583 0 0
+.Point 0 1433 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9650 32583 0 0
+.Point 0 -9355 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9650 32583 0 0
+.Point 0 -10109 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1891 32583 0 0
+.Point 0 1433 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 26333 0 0
+.Point 0 3391 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 41833 0 0
+.Point 0 -11609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 26333 0 0
+.Point 0 3391 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 41833 0 0
+.Point 0 -11609 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 26083 0 0
+.Point 0 -12068 26181 0 0
+.Point 0 -11972 26255 0 0
+.Point 0 -11892 26289 0 0
+.Point 0 -11802 26313 0 0
+.Point 0 -11706 26328 0 0
+.Point 0 -11609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 41833 0 0
+.Point 0 -11775 42000 0 0
+.Point 0 -11931 42155 0 0
+.Point 0 -12056 42280 0 0
+.Point 0 -12095 42318 0 0
+.Point 0 -12109 42333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 42333 0 0
+.Point 0 -12109 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 26333 0 0
+.Point 0 3495 26327 0 0
+.Point 0 3592 26312 0 0
+.Point 0 3678 26288 0 0
+.Point 0 3755 26255 0 0
+.Point 0 3857 26174 0 0
+.Point 0 3891 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 26083 0 0
+.Point 0 3891 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 24333 0 0
+.Point 0 -12109 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 24333 0 0
+.Point 0 -12109 26083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1137 -40417 0 0
+.Point 0 1433 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9650 -40417 0 0
+.Point 0 -9355 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10109 -40417 0 0
+.Point 0 -9650 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1433 -40417 0 0
+.Point 0 1891 -40417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 -34167 0 0
+.Point 0 -11609 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 -34167 0 0
+.Point 0 -11706 -34162 0 0
+.Point 0 -11802 -34147 0 0
+.Point 0 -11892 -34123 0 0
+.Point 0 -11972 -34089 0 0
+.Point 0 -12061 -34022 0 0
+.Point 0 -12109 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 -33917 0 0
+.Point 0 3857 -34008 0 0
+.Point 0 3755 -34089 0 0
+.Point 0 3680 -34121 0 0
+.Point 0 3592 -34146 0 0
+.Point 0 3496 -34161 0 0
+.Point 0 3391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -33917 0 0
+.Point 0 -12109 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -32167 0 0
+.Point 0 3891 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3891 -32167 0 0
+.Point 0 3891 -33917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 -34167 0 0
+.Point 0 -11609 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -33917 0 0
+.Point 0 -12109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 -50167 0 0
+.Point 0 -12095 -50152 0 0
+.Point 0 -12056 -50114 0 0
+.Point 0 -12003 -50062 0 0
+.Point 0 -11931 -49989 0 0
+.Point 0 -11775 -49834 0 0
+.Point 0 -11609 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11609 -49667 0 0
+.Point 0 3391 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3391 -49667 0 0
+.Point 0 3391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31209 -55460 0 0
+.Point 0 -31209 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31209 -56874 0 0
+.Point 0 -34109 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34109 -56874 0 0
+.Point 0 -34109 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34109 -55460 0 0
+.Point 0 -31209 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 46986 0 0
+.Point 0 21391 46986 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21391 46986 0 0
+.Point 0 21391 47323 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21391 47323 0 0
+.Point 0 21641 47323 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21641 47323 0 0
+.Point 0 21641 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21641 49333 0 0
+.Point 0 22991 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 49133 0 0
+.Point 0 22791 46986 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 45547 0 0
+.Point 0 22791 45279 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 45279 0 0
+.Point 0 20891 45279 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20891 45279 0 0
+.Point 0 20891 45547 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 20891 45547 0 0
+.Point 0 22791 45547 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11391 45279 0 0
+.Point 0 8991 45279 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 47063 0 0
+.Point 0 8991 49133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 49333 0 0
+.Point 0 10641 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10641 49333 0 0
+.Point 0 10641 47323 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10641 47323 0 0
+.Point 0 10891 47323 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 47323 0 0
+.Point 0 10891 46986 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 46986 0 0
+.Point 0 9991 46986 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9991 46986 0 0
+.Point 0 9991 46007 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9991 45547 0 0
+.Point 0 11391 45547 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11391 45547 0 0
+.Point 0 11391 45279 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 45180 0 0
+.Point 0 22791 45233 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 -57167 0 0
+.Point 0 -32809 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -34859 -32417 0 0
+.Point 0 -35109 -32417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 -32417 0 0
+.Point 0 -35109 -31862 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 24130 0 0
+.Point 0 -35109 24583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 41833 0 0
+.Point 0 -31009 43209 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35109 24583 0 0
+.Point 0 -32709 24583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32709 24583 0 0
+.Point 0 -32709 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -32709 26333 0 0
+.Point 0 -31609 26333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 44060 0 0
+.Point 0 -31009 48002 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 24183 0 0
+.Point 0 -31009 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 44833 0 0
+.Point 0 -31009 48333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 -55163 0 0
+.Point 0 26891 -57615 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 -46917 0 0
+.Point 0 26891 -55162 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 -31717 0 0
+.Point 0 26891 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 -49667 0 0
+.Point 0 22791 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 -51894 0 0
+.Point 0 22791 -55715 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23974 -55167 0 0
+.Point 0 26891 -55167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27041 -33017 0 0
+.Point 0 26641 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23891 -34167 0 0
+.Point 0 23391 -34167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 -46917 0 0
+.Point 0 27041 -46917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27041 -46917 0 0
+.Point 0 27041 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23974 -57167 0 0
+.Point 0 23591 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 42083 0 0
+.Point 0 -17209 42083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2791 42083 0 0
+.Point 0 -11009 42083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 -57167 0 0
+.Point 0 -31009 -56167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -31009 -49917 0 0
+.Point 0 -17209 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -33017 0 0
+.Point 0 39891 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35741 -40917 0 0
+.Point 0 39891 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -33017 0 0
+.Point 0 35741 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35741 -33017 0 0
+.Point 0 35741 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 33083 0 0
+.Point 0 39891 25183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35741 25183 0 0
+.Point 0 39891 25183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 33083 0 0
+.Point 0 35741 33083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35741 33083 0 0
+.Point 0 35741 25183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 25183 0 0
+.Point 0 39891 24868 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 24868 0 0
+.Point 0 39891 24130 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -31964 0 0
+.Point 0 39891 -32702 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -32702 0 0
+.Point 0 39891 -33017 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -40917 0 0
+.Point 0 39891 -41417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 -42347 0 0
+.Point 0 39891 -46417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 38583 0 0
+.Point 0 39891 33583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 33583 0 0
+.Point 0 39891 33083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -41417 0 0
+.Point 0 39891 -41417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 33583 0 0
+.Point 0 39391 33583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -56874 0 0
+.Point 0 2991 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -55460 0 0
+.Point 0 8791 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 -56874 0 0
+.Point 0 2991 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 -55460 0 0
+.Point 0 8791 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -56874 0 0
+.Point 0 -17009 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -55460 0 0
+.Point 0 -11209 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 -56874 0 0
+.Point 0 -17009 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 -55460 0 0
+.Point 0 -11209 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -57167 0 0
+.Point 0 -17009 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17009 -56874 0 0
+.Point 0 -17009 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -57167 0 0
+.Point 0 -11209 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 49333 0 0
+.Point 0 8791 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 49333 0 0
+.Point 0 2991 49040 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 49040 0 0
+.Point 0 8791 49040 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 49040 0 0
+.Point 0 8791 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -57167 0 0
+.Point 0 2991 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2991 -56874 0 0
+.Point 0 2991 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8791 -57167 0 0
+.Point 0 8791 -56874 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 641 -57167 0 0
+.Point 0 -10184 -57167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22791 49333 0 0
+.Point 0 22991 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22991 49333 0 0
+.Point 0 26691 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 25383 0 0
+.Point 0 26891 23833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26891 -53167 0 0
+.Point 0 24591 -53167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -33009 49333 0 0
+.Point 0 -31209 49333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 43259 0 0
+.Point 0 27241 50583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 38883 0 0
+.Point 0 35541 37583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33391 35583 0 0
+.Point 0 33891 35583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 35583 0 0
+.Point 0 33891 35454 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 35157 0 0
+.Point 0 33891 34860 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 34563 0 0
+.Point 0 33891 34266 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 30925 0 0
+.Point 0 33699 30701 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29083 30701 0 0
+.Point 0 28891 30925 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 34266 0 0
+.Point 0 28891 34563 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 34860 0 0
+.Point 0 28891 35157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 35454 0 0
+.Point 0 28891 35583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 35583 0 0
+.Point 0 29391 35583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27041 26480 0 0
+.Point 0 27591 26480 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28886 26480 0 0
+.Point 0 29186 26480 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29343 26480 0 0
+.Point 0 33439 26480 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34141 25233 0 0
+.Point 0 34141 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18391 43083 0 0
+.Point 0 18220 42222 0 0
+.Point 0 17960 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14323 41833 0 0
+.Point 0 14063 42222 0 0
+.Point 0 13891 43083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 -46917 0 0
+.Point 0 38891 -46917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10359 -55361 0 0
+.Point 0 -10656 -55361 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10359 -55361 0 0
+.Point 0 -10359 -57126 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9359 -56134 0 0
+.Point 0 -9359 -53997 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14684 -49667 0 0
+.Point 0 14741 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30359 -14517 0 0
+.Point 0 -30359 -11917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30359 -11917 0 0
+.Point 0 -30609 -11917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3554 -32167 0 0
+.Point 0 -3554 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6663 -31717 0 0
+.Point 0 -6663 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29359 -32167 0 0
+.Point 0 -29359 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9909 -49867 0 0
+.Point 0 -9909 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9909 -53644 0 0
+.Point 0 -9909 -54767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9909 -54767 0 0
+.Point 0 -10359 -54767 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39137 38838 0 0
+.Point 0 38961 39013 0 0
+.Point 0 38891 39083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 38583 0 0
+.Point 0 39137 38838 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39891 38583 0 0
+.Point 0 39391 38583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 38891 39083 0 0
+.Point 0 35541 39083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 8991 -49917 0 0
+.Point 0 22791 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29359 23883 0 0
+.Point 0 -29359 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6663 24333 0 0
+.Point 0 -6663 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3554 23883 0 0
+.Point 0 -3554 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 391 32583 0 0
+.Point 0 141 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -8359 32583 0 0
+.Point 0 -8609 32583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30609 4083 0 0
+.Point 0 -30359 4083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30359 4083 0 0
+.Point 0 -30359 6683 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34141 -31717 0 0
+.Point 0 34141 -33067 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34141 -34314 0 0
+.Point 0 33597 -34314 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33439 -34314 0 0
+.Point 0 29343 -34314 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 29138 -34314 0 0
+.Point 0 28886 -34314 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27591 -34314 0 0
+.Point 0 27241 -34314 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 -42991 0 0
+.Point 0 28891 -42694 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 -42397 0 0
+.Point 0 28891 -42100 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 28891 -38759 0 0
+.Point 0 29083 -38535 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33699 -38535 0 0
+.Point 0 33891 -38759 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 -42100 0 0
+.Point 0 33891 -42397 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 33891 -42694 0 0
+.Point 0 33891 -42917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35388 -45417 0 0
+.Point 0 35541 -45417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 -45417 0 0
+.Point 0 35541 -46917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27241 -35817 0 0
+.Point 0 27641 -35817 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 27641 -43317 0 0
+.Point 0 27391 -43317 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11141 53833 0 0
+.Point 0 20641 53833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5359 36833 0 0
+.Point 0 -4609 36833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 17891 -10517 0 0
+.Point 0 17891 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 18891 -10517 0 0
+.Point 0 18891 -14517 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 -11921 0 0
+.Point 0 -19609 -11921 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29109 -11921 0 0
+.Point 0 -29247 -11921 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13972 -40875 0 0
+.Point 0 13842 -40964 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -21259 -37817 0 0
+.Point 0 -21259 -37308 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -21259 -32167 0 0
+.Point 0 -21259 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3259 -50917 0 0
+.Point 0 -3380 -50305 0 0
+.Point 0 -3383 -50302 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -3472 -50167 0 0
+.Point 0 -3727 -49786 0 0
+.Point 0 -3905 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -11921 0 0
+.Point 0 29891 -11921 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30391 -12917 0 0
+.Point 0 29891 -12917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11691 11083 0 0
+.Point 0 11891 11083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14541 43083 0 0
+.Point 0 14645 42564 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14755 42333 0 0
+.Point 0 15010 41952 0 0
+.Point 0 15188 41833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14141 -59417 0 0
+.Point 0 14141 -55846 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9941 -59717 0 0
+.Point 0 9941 -59417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1941 -59717 0 0
+.Point 0 9941 -59717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9859 -55009 0 0
+.Point 0 -9859 -56417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13391 -40917 0 0
+.Point 0 13891 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 13391 -41917 0 0
+.Point 0 13391 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9109 -49667 0 0
+.Point 0 -9109 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9859 -56417 0 0
+.Point 0 -6859 -56417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -6859 -56417 0 0
+.Point 0 -6859 -56917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4359 -59417 0 0
+.Point 0 1941 -59417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1941 -59417 0 0
+.Point 0 1941 -59717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9941 -59417 0 0
+.Point 0 14141 -59417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31741 -31717 0 0
+.Point 0 31741 -33067 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31741 -33436 0 0
+.Point 0 31741 -34314 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 31741 -37460 0 0
+.Point 0 31741 -37891 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24941 -32167 0 0
+.Point 0 24941 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20659 -31717 0 0
+.Point 0 -20659 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20659 -37917 0 0
+.Point 0 -20659 -39917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -27459 -39917 0 0
+.Point 0 -27459 -37928 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -27459 -32167 0 0
+.Point 0 -27459 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7959 -50167 0 0
+.Point 0 -7861 -49673 0 0
+.Point 0 -7857 -49667 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1860 -49667 0 0
+.Point 0 -1856 -49673 0 0
+.Point 0 -1758 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1665 -50634 0 0
+.Point 0 -1609 -50917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2541 -50167 0 0
+.Point 0 2541 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2541 -49917 0 0
+.Point 0 2991 -49917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 3555 -36917 0 0
+.Point 0 4091 -34917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4091 -31417 0 0
+.Point 0 4091 -28180 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4091 -27917 0 0
+.Point 0 4680 -27917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7791 -28234 0 0
+.Point 0 7791 -31417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7791 -34917 0 0
+.Point 0 8327 -36917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9341 -49917 0 0
+.Point 0 9341 -50167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17859 50083 0 0
+.Point 0 -17859 47083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17859 54583 0 0
+.Point 0 -17859 52083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17859 52083 0 0
+.Point 0 -17859 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29459 6583 0 0
+.Point 0 -29354 6032 0 0
+.Point 0 -29109 5648 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 5083 0 0
+.Point 0 30391 5083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5359 30783 0 0
+.Point 0 -5359 36833 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11704 46083 0 0
+.Point 0 14891 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 38583 0 0
+.Point 0 39641 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -35359 57583 0 0
+.Point 0 -35359 -62417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -22359 59583 0 0
+.Point 0 -33359 59583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25941 23833 0 0
+.Point 0 25941 24183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25941 24183 0 0
+.Point 0 23941 24183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 23941 24183 0 0
+.Point 0 23367 24297 0 0
+.Point 0 23314 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30729 36492 0 0
+.Point 0 32341 36492 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32341 37233 0 0
+.Point 0 32414 37597 0 0
+.Point 0 32509 37739 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32670 37939 0 0
+.Point 0 32844 38055 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 32741 24183 0 0
+.Point 0 30741 24183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 30741 24183 0 0
+.Point 0 30741 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -28459 24183 0 0
+.Point 0 -29033 24297 0 0
+.Point 0 -29086 24333 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26459 23883 0 0
+.Point 0 -26459 24183 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -20359 47083 0 0
+.Point 0 -20359 57583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11704 46083 0 0
+.Point 0 11324 45860 0 0
+.Point 0 10891 45783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 10891 45783 0 0
+.Point 0 9991 45783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12109 50083 0 0
+.Point 0 -17859 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39391 -44917 0 0
+.Point 0 39641 -44917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 46083 0 0
+.Point 0 39641 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 54583 0 0
+.Point 0 39641 52083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 52083 0 0
+.Point 0 39641 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12141 49083 0 0
+.Point 0 12141 47583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 50083 0 0
+.Point 0 39391 50083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14891 46083 0 0
+.Point 0 16141 46305 0 0
+.Point 0 17391 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9941 -63717 0 0
+.Point 0 9941 -59717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1941 -63717 0 0
+.Point 0 9941 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 1941 -59717 0 0
+.Point 0 1941 -63717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 -56717 0 0
+.Point 0 39641 -62417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7859 52083 0 0
+.Point 0 -7859 53033 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7859 51083 0 0
+.Point 0 -7859 52083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 12141 52083 0 0
+.Point 0 12141 51038 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -26227 -37817 0 0
+.Point 0 -25959 -37817 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25959 -37817 0 0
+.Point 0 -25959 -36640 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -25959 -32167 0 0
+.Point 0 -25959 -31717 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25036 -6667 0 0
+.Point 0 24638 -6935 0 0
+.Point 0 23391 -7185 0 0
+.Point 0 23291 -7165 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 24337 53583 0 0
+.Point 0 24337 55157 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21677 55157 0 0
+.Point 0 21677 53583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 9641 49333 0 0
+.Point 0 9641 53033 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22592 52083 0 0
+.Point 0 39641 52083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 34641 59583 0 0
+.Point 0 -12859 59583 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17859 52083 0 0
+.Point 0 -7859 52083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5359 53033 0 0
+.Point 0 -5359 51083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5359 44783 0 0
+.Point 0 -5191 43941 0 0
+.Point 0 -5100 43805 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14641 -59917 0 0
+.Point 0 16707 -59917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25391 -61622 0 0
+.Point 0 25391 -67417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 25391 -67417 0 0
+.Point 0 34641 -67417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14141 -55917 0 0
+.Point 0 14641 -55917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 14641 -55917 0 0
+.Point 0 14641 -59917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -30359 -67417 0 0
+.Point 0 -21109 -67417 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -21109 -67417 0 0
+.Point 0 -21109 -61545 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -12296 -59917 0 0
+.Point 0 -10359 -59917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10359 -59917 0 0
+.Point 0 -10359 -54917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 11891 9783 0 0
+.Point 0 11691 9783 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16141 36383 0 0
+.Point 0 16141 28383 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 16141 24333 0 0
+.Point 0 16141 23883 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -23059 -31717 0 0
+.Point 0 -23059 -32167 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -23059 -36376 0 0
+.Point 0 -23059 -37817 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22891 12083 0 0
+.Point 0 22891 9237 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -16267 -55167 0 0
+.Point 0 -16267 -55460 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -11209 -55917 0 0
+.Point 0 -9779 -55917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 21332 -40924 0 0
+.Point 0 21578 -40810 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -2059 29633 0 0
+.Point 0 -7151 29633 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -1559 36187 0 0
+.Point 0 -1559 30133 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7791 -30962 0 0
+.Point 0 6391 -30962 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 5391 -30962 0 0
+.Point 0 4091 -30962 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 3316 0 0
+.Point 0 30391 3316 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 3316 0 0
+.Point 0 -19609 3316 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29109 3316 0 0
+.Point 0 -30609 3316 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 15391 -40917 0 0
+.Point 0 20042 -40917 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -18109 4144 0 0
+.Point 0 -19609 4144 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -29109 4144 0 0
+.Point 0 -29478 4144 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 26391 4144 0 0
+.Point 0 30391 4144 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 39641 46083 0 0
+.Point 0 39391 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 35541 46083 0 0
+.Point 0 27241 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 22991 46083 0 0
+.Point 0 17391 46083 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -17209 46083 0 0
+.Point 0 -18109 46083 0 0
+.end
+.arc 0 -17859 -54917 0 1 0 4781 1271 3313 250 0 0 0
+.arc 0 -17859 -54917 0 1 0 5000 1283 3327 250 0 0 0
+.arc 0 2141 50083 0 1 0 4781 3509 1678 250 0 0 0
+.arc 0 -268 47534 0 1 0 2104 474 970 250 0 0 0
+.arc 0 2141 50083 0 1 0 5000 3513 1683 250 0 0 0
+.arc 0 22141 -54917 0 1 0 4781 1277 3319 250 0 0 0
+.arc 0 22141 -54917 0 1 0 5000 1287 3333 250 0 0 0
+.arc 0 -17859 -54917 0 1 0 7500 1408 3398 250 0 0 0
+.arc 0 2141 50083 0 1 0 7500 900 1723 250 0 0 0
+.arc 0 2141 50083 0 1 0 7500 3541 900 250 0 0 0
+.arc 0 22141 -54917 0 1 0 7500 1400 1681 250 0 0 0
+.arc 0 22141 -54917 0 1 0 7500 1784 3444 250 0 0 0
+.arc 0 35116 56091 0 1 0 975 1136 1805 250 0 0 0
+.arc 0 31238 34590 0 1 0 3406 43 874 250 0 0 0
+.arc 0 31545 34590 0 1 0 3406 926 1757 250 0 0 0
+.arc 0 31391 34885 0 1 0 3250 3595 1805 250 0 0 0
+.arc 0 5891 -31917 0 1 0 700 0 1800 250 0 0 0
+.arc 0 34389 29559 0 1 0 498 897 1797 250 0 0 0
+.arc 0 35189 30538 0 1 0 453 2966 17 250 0 0 0
+.arc 0 35189 37101 0 1 0 453 3583 634 250 0 0 0
+.arc 0 27618 37146 0 1 0 438 869 1493 250 0 0 0
+.arc 0 28394 29559 0 1 0 498 3 903 250 0 0 0
+.arc 0 31454 33915 0 1 0 1540 81 923 250 0 0 0
+.arc 0 31329 33915 0 1 0 1540 877 1719 250 0 0 0
+.arc 0 15891 -40417 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 15891 -40417 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 15891 -40417 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 15891 -40417 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 28394 -37393 0 1 0 498 2697 3597 250 0 0 0
+.arc 0 27618 -38328 0 1 0 438 869 1493 250 0 0 0
+.arc 0 35144 -44919 0 1 0 498 2697 3597 250 0 0 0
+.arc 0 35189 -38373 0 1 0 453 3583 634 250 0 0 0
+.arc 0 34389 -37393 0 1 0 498 1803 2703 250 0 0 0
+.arc 0 31329 -41749 0 1 0 1540 1881 2723 250 0 0 0
+.arc 0 31454 -41749 0 1 0 1540 2677 3519 250 0 0 0
+.arc 0 31572 -49924 0 1 0 2349 2668 111 250 0 0 0
+.arc 0 31355 -49882 0 1 0 2389 1649 2721 250 0 0 0
+.arc 0 15891 32583 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 15891 32583 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 15891 32583 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 15891 32583 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 31545 -42424 0 1 0 3406 1843 2674 250 0 0 0
+.arc 0 31238 -42424 0 1 0 3406 2726 3557 250 0 0 0
+.arc 0 31391 -42719 0 1 0 3250 1795 5 250 0 0 0
+.arc 0 35191 39233 0 1 0 200 0 900 250 0 0 0
+.arc 0 35191 -47067 0 1 0 200 2700 3600 250 0 0 0
+.arc 0 -4859 -50917 0 1 0 3008 1896 2604 250 0 0 0
+.arc 0 -4872 -50961 0 1 0 3080 1885 107 250 0 0 0
+.arc 0 -4859 -50917 0 1 0 3008 2796 3504 250 0 0 0
+.arc 0 -6823 42964 0 1 0 2633 111 864 250 0 0 0
+.arc 0 -7442 43000 0 1 0 2614 948 1561 250 0 0 0
+.arc 0 -7316 43138 0 1 0 2755 971 1604 250 0 0 0
+.arc 0 -7142 42918 0 1 0 2993 99 807 250 0 0 0
+.arc 0 -7197 42659 0 1 0 600 2129 2737 250 0 0 0
+.arc 0 -7159 13668 0 1 0 32878 835 965 250 0 0 0
+.arc 0 -7050 42714 0 1 0 1414 222 740 250 0 0 0
+.arc 0 35240 39083 0 1 0 383 668 973 250 0 0 0
+.arc 0 15891 49058 0 1 0 6725 1979 2700 250 0 0 0
+.arc 0 35191 -46667 0 1 0 200 2925 3600 250 0 0 0
+.arc 0 31391 -52930 0 1 0 3250 1805 3595 250 0 0 0
+.arc 0 31126 -51348 0 1 0 2987 1003 1823 250 0 0 0
+.arc 0 31607 -51380 0 1 0 3036 3583 830 250 0 0 0
+.arc 0 35240 -46917 0 1 0 383 2626 2932 250 0 0 0
+.arc 0 -24109 49058 0 1 0 6725 2700 3421 250 0 0 0
+.arc 0 8138 -2680 0 1 0 268 3520 786 250 0 0 0
+.arc 0 4714 -2680 0 1 0 268 3520 786 250 0 0 0
+.arc 0 11107 -30517 0 1 0 1200 1950 2700 250 0 0 0
+.arc 0 5891 -31917 0 1 0 4200 150 1650 250 0 0 0
+.arc 0 676 -30517 0 1 0 1200 2700 3450 250 0 0 0
+.arc 0 8591 1383 0 1 0 300 2700 3600 250 0 0 0
+.arc 0 30391 -417 0 1 0 1500 0 900 250 0 0 0
+.arc 0 30391 -7417 0 1 0 1500 2700 3600 250 0 0 0
+.arc 0 -30609 -7417 0 1 0 1500 1800 2700 250 0 0 0
+.arc 0 -30609 -417 0 1 0 1500 900 1800 250 0 0 0
+.arc 0 -8809 1383 0 1 0 300 1800 2700 250 0 0 0
+.arc 0 31390 28662 0 1 0 3007 996 1704 250 0 0 0
+.arc 0 31359 28533 0 1 0 3069 1365 3537 250 0 0 0
+.arc 0 31921 28944 0 1 0 2475 45 646 250 0 0 0
+.arc 0 31392 28662 0 1 0 3007 96 804 250 0 0 0
+.arc 0 31392 28664 0 1 0 3007 2796 3504 250 0 0 0
+.arc 0 31390 28664 0 1 0 3007 1896 2604 250 0 0 0
+.arc 0 4391 -2117 0 1 0 600 1800 2700 250 0 0 0
+.arc 0 4391 -5717 0 1 0 600 900 1800 250 0 0 0
+.arc 0 -30359 43083 0 1 0 2950 1800 2475 250 0 0 0
+.arc 0 31441 -49115 0 1 0 1400 1805 3595 250 0 0 0
+.arc 0 -9010 -11218 0 1 0 199 1796 2704 250 0 0 0
+.arc 0 8793 -11218 0 1 0 199 2696 4 250 0 0 0
+.arc 0 23791 -6367 0 1 0 300 1800 2700 250 0 0 0
+.arc 0 23791 -1467 0 1 0 300 900 1800 250 0 0 0
+.arc 0 24891 -1467 0 1 0 300 0 900 250 0 0 0
+.arc 0 31391 28733 0 1 0 3400 2700 900 250 0 0 0
+.arc 0 31391 28733 0 1 0 3400 900 2700 250 0 0 0
+.arc 0 -25409 -1467 0 1 0 300 900 1800 250 0 0 0
+.arc 0 -24309 -1467 0 1 0 300 0 900 250 0 0 0
+.arc 0 -24309 -6367 0 1 0 300 2700 3600 250 0 0 0
+.arc 0 35191 33433 0 1 0 200 0 700 250 0 0 0
+.arc 0 35240 38881 0 1 0 383 668 974 250 0 0 0
+.arc 0 31391 35446 0 1 0 3250 5 1795 250 0 0 0
+.arc 0 31391 35183 0 1 0 3251 3590 1810 250 0 0 0
+.arc 0 35141 56083 0 1 0 1000 1800 3600 250 0 0 0
+.arc 0 35141 56083 0 1 0 1000 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 4500 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 15891 -40417 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 15891 -40417 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 15891 -40417 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 15891 -40417 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 15891 -56892 0 1 0 6725 900 1621 250 0 0 0
+.arc 0 -4109 -56892 0 1 0 6725 179 900 250 0 0 0
+.arc 0 9019 -54669 0 1 0 498 2698 3423 250 0 0 0
+.arc 0 2763 -54669 0 1 0 498 1977 2702 250 0 0 0
+.arc 0 -4109 -56892 0 1 0 6725 900 1621 250 0 0 0
+.arc 0 -24109 -56892 0 1 0 6725 179 900 250 0 0 0
+.arc 0 -10981 -54669 0 1 0 498 2698 3423 250 0 0 0
+.arc 0 -17237 -54669 0 1 0 498 1977 2702 250 0 0 0
+.arc 0 -4109 49058 0 1 0 6725 2700 3421 250 0 0 0
+.arc 0 -4109 49058 0 1 0 6725 1979 2700 250 0 0 0
+.arc 0 11693 11884 0 1 0 199 3596 904 250 0 0 0
+.arc 0 5891 24083 0 1 0 4200 1950 3450 250 0 0 0
+.arc 0 676 22683 0 1 0 1200 150 900 250 0 0 0
+.arc 0 11107 22683 0 1 0 1200 900 1650 250 0 0 0
+.arc 0 -11910 11884 0 1 0 199 896 1804 250 0 0 0
+.arc 0 -5158 11783 0 1 0 299 3599 901 250 0 0 0
+.arc 0 4941 1383 0 1 0 300 1800 2700 250 0 0 0
+.arc 0 5891 24083 0 1 0 4000 1950 3450 250 0 0 0
+.arc 0 -15109 46083 0 1 0 3000 900 1800 250 0 0 0
+.arc 0 -33109 41083 0 1 0 1000 900 1800 250 0 0 0
+.arc 0 11891 -53917 0 1 0 3000 2700 3600 250 0 0 0
+.arc 0 24175 -49148 0 1 0 8970 1179 1492 250 0 0 0
+.arc 0 28066 -38908 0 1 0 475 1281 1810 250 0 0 0
+.arc 0 -13050 50057 0 1 0 942 3036 16 250 0 0 0
+.arc 0 -11109 50083 0 1 0 1000 900 1800 250 0 0 0
+.arc 0 -2059 30133 0 1 0 500 2700 3600 250 0 0 0
+.arc 0 -25852 -36994 0 1 0 924 1912 2727 250 0 0 0
+.arc 0 23366 -48434 0 1 0 10117 1135 1557 250 0 0 0
+.arc 0 18999 -38383 0 1 0 841 2934 3364 250 0 0 0
+.arc 0 28091 44583 0 1 0 500 900 1800 250 0 0 0
+.arc 0 28015 31055 0 1 0 425 1762 2365 250 0 0 0
+.arc 0 34891 44583 0 1 0 500 0 900 250 0 0 0
+.arc 0 -4911 -51019 0 1 0 2649 1838 2711 250 0 0 0
+.arc 0 -4722 -51024 0 1 0 2647 2670 308 250 0 0 0
+.arc 0 16005 43190 0 1 0 2647 870 2108 250 0 0 0
+.arc 0 -24109 32583 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 -24109 32583 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 -24109 32583 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 31391 -36567 0 1 0 3400 900 2700 250 0 0 0
+.arc 0 31391 -36567 0 1 0 3400 2700 900 250 0 0 0
+.arc 0 35191 -41767 0 1 0 200 2700 3600 250 0 0 0
+.arc 0 -4309 -67717 0 1 0 1000 1800 2700 250 0 0 0
+.arc 0 -2809 -63217 0 1 0 1000 2700 3600 250 0 0 0
+.arc 0 14691 -63217 0 1 0 1000 1800 2700 250 0 0 0
+.arc 0 14691 -67717 0 1 0 1000 2700 3600 250 0 0 0
+.arc 0 15891 32583 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 15891 32583 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 15891 32583 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 15891 32583 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 -24109 32583 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 -24109 32583 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 4500 0 1800 250 0 0 0
+.arc 0 31392 -36496 0 1 0 3007 2796 3504 250 0 0 0
+.arc 0 31423 -36367 0 1 0 3069 3165 1737 250 0 0 0
+.arc 0 30908 -36728 0 1 0 2540 1834 2441 250 0 0 0
+.arc 0 31390 -36496 0 1 0 3007 1896 2604 250 0 0 0
+.arc 0 31390 -36498 0 1 0 3007 996 1704 250 0 0 0
+.arc 0 31392 -36498 0 1 0 3007 96 804 250 0 0 0
+.arc 0 35191 -41267 0 1 0 200 2900 3600 250 0 0 0
+.arc 0 31391 -43280 0 1 0 3250 1805 3595 250 0 0 0
+.arc 0 31391 -43018 0 1 0 3251 1790 10 250 0 0 0
+.arc 0 -4109 32583 0 1 0 4500 0 1800 250 0 0 0
+.arc 0 -4109 32583 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 -4109 32583 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 -4109 32583 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 -4109 32583 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 -4109 32583 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 -4109 32583 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 -4109 32583 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 -4109 32583 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 5246 1800 3600 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 5246 0 1800 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 4800 1800 3600 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 4800 0 1800 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 5542 0 1800 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 6000 1800 3600 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 5542 1800 3600 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 6000 0 1800 250 0 0 0
+.arc 0 22993 49131 0 1 0 202 905 1795 250 0 0 0
+.arc 0 8790 49132 0 1 0 201 3 897 250 0 0 0
+.arc 0 26691 49133 0 1 0 200 0 900 250 0 0 0
+.arc 0 24791 49133 0 1 0 200 900 1800 250 0 0 0
+.arc 0 35740 38884 0 1 0 199 896 1804 250 0 0 0
+.arc 0 31391 32237 0 1 0 2695 2340 3060 250 0 0 0
+.arc 0 15891 32583 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 15891 32583 0 1 0 4250 0 1800 250 0 0 0
+.arc 0 16141 43083 0 1 0 2250 0 1800 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 -4109 -40417 0 1 0 4250 0 1800 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 -24109 -40417 0 1 0 4250 0 1800 250 0 0 0
+.arc 0 -4109 32583 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 -24109 32583 0 1 0 4250 0 1800 250 0 0 0
+.arc 0 20641 51833 0 1 0 2000 0 900 250 0 0 0
+.arc 0 31391 -40071 0 1 0 2695 540 1260 250 0 0 0
+.arc 0 15891 -40417 0 1 0 4250 1800 3600 250 0 0 0
+.arc 0 15891 -40417 0 1 0 4250 0 1800 250 0 0 0
+.arc 0 11141 51833 0 1 0 2000 900 1800 250 0 0 0
+.arc 0 -4859 -50917 0 1 0 1600 1800 3600 250 0 0 0
+.arc 0 16141 43083 0 1 0 1600 0 1800 250 0 0 0
+.arc 0 16367 43001 0 1 0 1376 3019 34 250 0 0 0
+.arc 0 14641 -41917 0 1 0 1250 531 1269 250 0 0 0
+.arc 0 13590 -50718 0 1 0 199 1796 2704 250 0 0 0
+.arc 0 -4823 -50966 0 1 0 3214 1898 9 250 0 0 0
+.arc 0 14644 -41918 0 1 0 1253 1269 1799 250 0 0 0
+.arc 0 -20093 6543 0 1 0 1435 2897 16 250 0 0 0
+.arc 0 -33359 57583 0 1 0 2000 900 1800 250 0 0 0
+.arc 0 -22359 57583 0 1 0 2000 0 900 250 0 0 0
+.arc 0 -27859 52083 0 1 0 3250 0 1800 250 0 0 0
+.arc 0 -27859 52083 0 1 0 3250 1800 3600 250 0 0 0
+.arc 0 32813 25560 0 1 0 1379 2670 3463 250 0 0 0
+.arc 0 16026 43164 0 1 0 3132 1113 2051 250 0 0 0
+.arc 0 -19109 47083 0 1 0 1250 1800 3069 250 0 0 0
+.arc 0 14639 -41918 0 1 0 1253 1 531 250 0 0 0
+.arc 0 10889 47034 0 1 0 1252 3106 3600 250 0 0 0
+.arc 0 23610 -2835 0 1 0 2195 495 1064 250 0 0 0
+.arc 0 35141 56083 0 1 0 1200 1800 3600 250 0 0 0
+.arc 0 35141 56083 0 1 0 1200 0 1800 250 0 0 0
+.arc 0 7692 44695 0 1 0 1951 2991 26 250 0 0 0
+.arc 0 34641 54583 0 1 0 5000 0 900 250 0 0 0
+.arc 0 -12859 54583 0 1 0 5000 900 1800 250 0 0 0
+.arc 0 -6609 53033 0 1 0 1250 0 1800 250 0 0 0
+.arc 0 34641 -62417 0 1 0 5000 2700 3600 250 0 0 0
+.arc 0 -30359 -62417 0 1 0 5000 1800 2700 250 0 0 0
+.arc 0 23828 -48046 0 1 0 7466 1219 1506 250 0 0 0
+.end
+
