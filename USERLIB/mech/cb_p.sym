@@ -1,0 +1,234 @@
+﻿.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\mech\cb_p.sym 0 0 7994 38893 128 '15-03-2019 15:51:10' 0 V13.0
+.Title 'Automatinis jungiklis 1P' 1033
+.Name "" -7500 -15000 0 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" 0 -12500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" -2500 -15000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" -7500 -17500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 2500 -15000 0 0 0 18 12 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2494 3343 0 0
+.Point 0 2494 6210 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4506 3343 0 0
+.Point 0 2494 3343 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4506 3343 0 0
+.Point 0 -4506 6210 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4506 6210 0 0
+.Point 0 2494 6210 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6994 762 0 0
+.Point 0 6994 3629 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2494 3343 0 0
+.Point 0 6994 762 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2494 6210 0 0
+.Point 0 6994 3629 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4506 3343 0 0
+.Point 0 -9006 762 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9006 762 0 0
+.Point 0 -9006 3629 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -4506 6210 0 0
+.Point 0 -9006 3629 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -242 0 0
+.Point 0 -5006 -538 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9006 -242 0 0
+.Point 0 -5006 -242 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -9006 762 0 0
+.Point 0 -9006 -242 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6994 762 0 0
+.Point 0 6994 -242 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -242 0 0
+.Point 0 6994 -242 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -242 0 0
+.Point 0 2994 -538 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -4243 0 0
+.Point 0 2994 -4243 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 -7561 0 0
+.Point 0 7994 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -7561 0 0
+.Point 0 7994 -7561 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -538 0 0
+.Point 0 2994 -7561 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 6994 3348 0 0
+.Point 0 7994 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -7561 0 0
+.Point 0 -10006 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 3348 0 0
+.Point 0 -9006 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -7561 0 0
+.Point 0 -5006 -538 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -7561 0 0
+.Point 0 -5006 -7561 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -24607 0 0
+.Point 0 7994 -24607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -22607 0 0
+.Point 0 7994 -22607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 -24607 0 0
+.Point 0 7994 -22607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -24607 0 0
+.Point 0 -10006 -22607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 11393 0 0
+.Point 0 7994 11393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 11393 0 0
+.Point 0 7994 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 11393 0 0
+.Point 0 -10006 3348 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 19171 0 0
+.Point 0 7994 19171 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 11393 0 0
+.Point 0 7994 19171 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 11393 0 0
+.Point 0 -10006 19171 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -7607 0 0
+.Point 0 2994 -7607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 -7561 0 0
+.Point 0 7994 -22607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -7607 0 0
+.Point 0 2994 -7561 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -7561 0 0
+.Point 0 -10006 -22607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -7561 0 0
+.Point 0 -5006 -7607 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 20393 0 0
+.Point 0 7994 20393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 19171 0 0
+.Point 0 7994 20393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 19171 0 0
+.Point 0 -10006 20393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 -43107 0 0
+.Point 0 -10006 -43107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 -24607 0 0
+.Point 0 7994 -43107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 -24607 0 0
+.Point 0 -10006 -43107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 38893 0 0
+.Point 0 -10006 38893 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 7994 38893 0 0
+.Point 0 7994 20393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -10006 38893 0 0
+.Point 0 -10006 20393 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 4994 -44107 0 0
+.Point 0 4994 -43107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -46107 0 0
+.Point 0 2994 -46107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -7006 -43107 0 0
+.Point 0 -7006 -44107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -43107 0 0
+.Point 0 -5006 -44107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 -5006 -44107 0 0
+.Point 0 2994 -44107 0 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 2994 -44107 0 0
+.Point 0 2994 -43107 0 0
+.end
+.arc 0 -1006 -37307 0 1 0 3400 0 3600 250 0 0 0
+.arc 0 -1006 33093 0 1 0 3400 0 3600 250 0 0 0
+.arc 0 2994 -44107 0 1 0 2000 2700 3600 250 0 0 0
+.arc 0 -5006 -44107 0 1 0 2000 1800 2700 250 0 0 0
+.end
+
