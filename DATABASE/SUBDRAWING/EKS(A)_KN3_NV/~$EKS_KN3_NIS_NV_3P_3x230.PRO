@@ -1,3 +1,0 @@
-ITK2023
-
-alexanderponomarchuk

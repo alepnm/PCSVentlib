@@ -1,4 +1,4 @@
-﻿.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\sym\A3H_Remas.sym 0 0 383000 -1000 144 '25-03-2019 16:20:00' 0 V13.0
+﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas.sym 0 0 383000 -1000 16 '31-07-2019 08:40:26' 0 V13.0
 .Title A3 1033
 .Name "" -7250 -22000 0 0 0 25 14 0 0 0 0 0 0 0 0 0
 .Typ "" -5500 -22000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -15,8 +15,9 @@
 .Text Rev.: 362500 -262500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Text Filename: 329000 -2500 0 0 4 12 0 3 0 0 0 0 0 0 0 0
 .Text Approved: 165000 -261500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text 'Project number:' 300000 -262500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Field Date 276500 -241500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 2 0 ' ' 3 ""
+.Fdata "" 10 0 ' ' 3 ""
 .Field 'Project name' 222500 -248000 0 0 0 24 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
 .Field Constructor 181500 -258500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -25,8 +26,6 @@
 .Fdata "" 10 0 ' ' 3 ""
 .Field 'Date for last change' 323500 -259500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 24 0 ' ' 3 ""
-.Field 'Project number' 162500 -242000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
 .Field 'Used pages' 379000 -259500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 32 0 ' ' 3 ""
 .Field 'Page number' 373000 -259500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -43,6 +42,8 @@
 .Fdata "" 23 0 ' ' 4098 ""
 .Field Logo1 333100 -248100 0 0 4 150 655 4 0 0 0 0 0 0 0 0
 .Fdata "" 15 0 ' ' 19 ""
+.Field 'Project number' 332500 -262500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 2 ""
 .polyline 0 0 0 0 0 0 0 350 0 0 0
 .Point 0 -10000 -1000 0 0
 .Point 0 383000 -1000 0 0
