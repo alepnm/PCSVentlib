@@ -1,4 +1,4 @@
-﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWNING_new\project_template.PRO V13.0 4 261 1325368664 '31-07-2019 16:42:52' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWNING_new\project_template.PRO V13.0 1 261 1326666084 '19-08-2019 10:11:12' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Title 'Heater ''Project name''' 0
 .Born 2 0 13.0 1325288723
 
@@ -58,7 +58,7 @@
 .PageText Engineer ""
 
 
-.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 0 -170600 207835 15000 65531
+.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 0 -255600 300335 15000 65531
 
 .PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM -2500 -2500 2500 2500 160 '06-12-2010 13:27:54' 28 V13.0
 .Title 'Insertion point for Data Templates and Subdrawings' 1033
@@ -94,99 +94,7 @@
 .end
 .end
 
-.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM -10000 -263000 383000 0 144 '31-07-2019 05:40:58' 0 V13.0
-.Title A3_LT 1033
-.Name "" 0 -22000 -7250 0 0 25 14 0 0 0 0 0 0 0 0 0
-.Typ "" 0 -22000 -5500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 0 -22000 -9500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 0 -22000 -8500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.SymbRef 0 1 "" 0 0 0
-.SingleRef "" 0 -22000 -9500 0 0 18 12 0 0 0 0 0 0 0 0 0
-.Text Korėgavo: 0 -255500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Braižė: 0 -258500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Data: 0 -241500 267000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Pask. keitimas:' 0 -259500 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Lapas 0 -259500 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text / 0 -259500 376000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Rev.: 0 -262500 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Filename: 0 -2500 329000 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Text Patvirtino: 0 -261500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Projekto numeris:' 0 -262500 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Field Date 0 -241500 276500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' 0 -248000 222500 0 0 24 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Constructor 0 -258500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Engineer 0 -255500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Date for last change' 0 -259500 326250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 24 0 ' ' 3 ""
-.Field 'Used pages' 0 -259500 379000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 32 0 ' ' 3 ""
-.Field 'Page number' 0 -259500 373000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 22 0 ' ' 3 ""
-.Field Revision 0 -262500 377500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'File name' 0 -2500 340500 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 12 0 ' ' 3 ""
-.Field 'Approved by' 0 -261500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' 0 -2500 -8500 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Title 0 -12500 -2500 0 4 35 0 0 0 3 0 0 0 0 0 0
-.Fdata "" 23 0 ' ' 4098 ""
-.Field Logo1 0 -248100 333100 0 4 150 655 4 0 0 0 0 0 0 0 0
-.Fdata "" 15 0 ' ' 19 ""
-.Field 'Project number' 0 -262500 332500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 2 ""
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 0 -1000 -10000 0
-.Point 0 0 -1000 383000 0
-.Point 0 0 -263000 383000 0
-.Point 0 0 -263000 -10000 0
-.Point 0 0 -1000 -10000 0
-.end
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 0 -239000 383000 0
-.Point 0 0 -239000 161500 0
-.Point 0 0 -263000 161500 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -239000 296000 0
-.Point 0 0 -263000 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -260000 296000 0
-.Point 0 0 -260000 383000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -257000 296000 0
-.Point 0 0 -257000 383000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -242500 161500 0
-.Point 0 0 -242500 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -239000 262500 0
-.Point 0 0 -242500 262500 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -257000 362000 0
-.Point 0 0 -263000 362000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -252000 161500 0
-.Point 0 0 -252000 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 0 -4000 -10000 0
-.Point 0 0 -4000 383000 0
-.end
-.end
-
-.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas_LT.SYM 0 -178000 285500 11500 144 '31-07-2019 05:39:50' 0 V13.0
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas_LT.SYM 0 -178000 285500 11500 144 '19-08-2019 05:05:48' 0 V13.0
 .Title A4_LT 1033
 .Name "" 0 -1500 2750 0 0 25 14 0 0 0 0 0 0 0 0 0
 .Typ "" 0 -1500 4500 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -194,7 +102,7 @@
 .Func "" 0 -1500 1500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
 .SingleRef "" 0 -1500 10500 0 0 18 12 0 0 0 0 0 0 0 0 0
-.Text Korėgavo: 0 -170500 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Koregavo: 0 -170500 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Text Braižė: 0 -173500 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Text Data: 0 -156500 169500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Text 'Pask. keitimas:' 0 -174500 200000 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -278,8 +186,100 @@
 .end
 .end
 
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM -10000 -263000 383000 0 144 '19-08-2019 05:05:30' 0 V13.0
+.Title A3_LT 1033
+.Name "" 0 -22000 -7250 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" 0 -22000 -5500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 0 -22000 -9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 -22000 -8500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -22000 -9500 0 0 18 12 0 0 0 0 0 0 0 0 0
+.Text Koregavo: 0 -255500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Braižė: 0 -258500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Data: 0 -241500 267000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text 'Pask. keitimas:' 0 -259500 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Lapas 0 -259500 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text / 0 -259500 376000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Rev.: 0 -262500 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Filename: 0 -2500 329000 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Text Patvirtino: 0 -261500 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text 'Projekto numeris:' 0 -262500 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Date 0 -241500 276500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field 'Project name' 0 -248000 222500 0 0 24 0 4 0 0 0 9 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field Constructor 0 -258500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field Engineer 0 -255500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field 'Date for last change' 0 -259500 326250 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 24 0 ' ' 3 ""
+.Field 'Used pages' 0 -259500 379000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 32 0 ' ' 3 ""
+.Field 'Page number' 0 -259500 373000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 22 0 ' ' 3 ""
+.Field Revision 0 -262500 377500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field 'File name' 0 -2500 340500 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Fdata "" 12 0 ' ' 3 ""
+.Field 'Approved by' 0 -261500 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field 'Project name' 0 -2500 -8500 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
+.Field Title 0 -12500 -2500 0 4 35 0 0 0 3 0 0 0 0 0 0
+.Fdata "" 23 0 ' ' 4098 ""
+.Field Logo1 0 -248100 333100 0 4 150 655 4 0 0 0 0 0 0 0 0
+.Fdata "" 15 0 ' ' 19 ""
+.Field 'Project number' 0 -262500 332500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 2 ""
+.polyline 0 0 0 0 0 0 0 350 0 0 0
+.Point 0 0 -1000 -10000 0
+.Point 0 0 -1000 383000 0
+.Point 0 0 -263000 383000 0
+.Point 0 0 -263000 -10000 0
+.Point 0 0 -1000 -10000 0
+.end
+.polyline 0 0 0 0 0 0 0 350 0 0 0
+.Point 0 0 -239000 383000 0
+.Point 0 0 -239000 161500 0
+.Point 0 0 -263000 161500 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -239000 296000 0
+.Point 0 0 -263000 296000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -260000 296000 0
+.Point 0 0 -260000 383000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -257000 296000 0
+.Point 0 0 -257000 383000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -242500 161500 0
+.Point 0 0 -242500 296000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -239000 262500 0
+.Point 0 0 -242500 262500 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -257000 362000 0
+.Point 0 0 -263000 362000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -252000 161500 0
+.Point 0 0 -252000 296000 0
+.end
+.polyline 0 0 0 0 0 0 0 180 0 0 0
+.Point 0 0 -4000 -10000 0
+.Point 0 0 -4000 383000 0
+.end
+.end
 
-.PageNo 1 1 '31-07-2019 08:42:02' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '13-03-2019 16:14:00'
+
+.PageNo 1 1 '19-08-2019 10:11:08' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '13-03-2019 16:14:00'
 .Title Gamybai 0
 .Born 2 0 13.0 1325288723
 
@@ -376,7 +376,7 @@
 
 .end
 
-.PageNo 3 3 '31-07-2019 08:42:18' 4 10000 1 1 300 1 1 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.PageNo 3 3 '19-08-2019 10:10:32' 4 10000 1 1 300 1 1 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Title 'Tenu trumpinimas' 0
 .Born 2 0 13.0 1325288723
 
@@ -421,7 +421,7 @@
 
 .end
 
-.PageNo 4 4 '31-07-2019 16:42:44' 4 10000 1 0 300 1 4 160 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.PageNo 4 4 '19-08-2019 10:10:16' 4 10000 1 0 300 1 4 160 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Title KS 0
 .Born 2 0 13.0 1325288723
 
