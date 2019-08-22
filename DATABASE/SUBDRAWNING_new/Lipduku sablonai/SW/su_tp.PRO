@@ -1,11 +1,11 @@
-﻿.PCsCADProject 'C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWNING_new\Lipduku sablonai\SW\su_tp.PRO' V13.0 1 257 1326870945 '22-08-2019 14:13:06' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject 'C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWNING_new\Lipduku sablonai\SW\su_tp.PRO' V13.0 1 257 1326871671 '22-08-2019 14:35:42' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Born 2 0 13.0 1326870869
 
 
 
 .Revision 0 0
 
-.LayTab 0 'Lay 0' 129
+.LayTab 0 'Lay 0' 1
 .LayTab 1 'Lay 1' 129
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -57,7 +57,7 @@
 .PageText Engineer ""
 
 
-.Picture C:\Work\Git\PCSVentlib\files\ventmatika_logo.jpg 129 0 0 0 11445 50000
+.Picture C:\WORK\GIT\PCSVENTLIB\FILES\VENTMATIKA_LOGO.JPG 129 0 0 0 11445 50000
 
 .PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\EKR_KNX.SYM -47500 -15000 52500 7500 193 '02-07-2019 13:11:06' 0 V13.0
 .Title 'EKR-KN su LED su 4 pakopom' 1033
@@ -700,33 +700,6 @@
 .PinDes "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
 .end
 
-.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\02-15-03.SYM -4500 -12000 4500 0 129 '08-03-2010 08:46:18' 0 V13.0
-.Title 'Protective earth, protective ground' 1033
-.Title 'Beskyttende jord (jordforbindelse)' 1030
-.Title 'Ochranné uzemnění' 1029
-.Name "" 0 7000 -4500 0 0 25 14 0 0 0 0 0 0 0 0 0
-.Typ "" 0 7000 -8500 0 4 18 12 6 0 0 0 0 0 0 0 0
-.Art "" 0 7000 -11500 0 4 18 12 6 0 0 0 0 0 0 0 0
-.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
-.polyline 0 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 0 -7500 0
-.Point 0 0 0 0 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -2500 -7500 0
-.Point 0 0 2500 -7500 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -750 -10000 0
-.Point 0 0 750 -10000 0
-.end
-.polyline 0 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -1500 -8750 0
-.Point 0 0 1500 -8750 0
-.end
-.arc 1 0 0 -7500 0 0 4500 0 3600 250 0 0 0
-.end
-
 .PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM -500 500 500 -500 130 '13-12-2010 10:41:18' 10 V13.0
 .Title 'Signal symbol Reference symbol hidden in the line' 1033
 .Title 'Signalsymbol Henvisningssymbol, som er skjult i en streg' 1030
@@ -1222,8 +1195,38 @@
 .PinDes "" 0 10000 0 0 4 18 12 6 0 0 0 0 0 0 0 0
 .end
 
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\pe.SYM -3000 -10500 3000 0 128 '02-05-2019 07:34:22' 0 V13.0
+.Title PE 1033
+.Title 'Beskyttende jord (jordforbindelse)' 1030
+.Title 'Ochranné uzemnění' 1029
+.Name "" 0 2750 -1500 0 2 18 0 4 0 1 0 0 0 0 0 0
+.Typ "" 0 7000 -6000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 7000 -9000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 5000 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 7000 -5000 0 0 18 12 0 0 0 0 0 0 0 0 0
+.Text PE 0 -1250 -10500 0 2 16 0 0 0 1 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -5000 0
+.Point 0 0 2500 -5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -750 -7500 0
+.Point 0 0 750 -7500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -1500 -6250 0
+.Point 0 0 1500 -6250 0
+.end
+.arc 0 0 0 -5500 0 0 3000 0 3600 250 0 0 0
+.end
 
-.PageNo 1 1 '22-08-2019 14:12:44' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+
+.PageNo 1 1 '22-08-2019 14:28:22' 4 10000 1 0 300 1 1 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Born 2 0 13.0 1326870869
 
 
@@ -1878,27 +1881,6 @@
 .Point 0 0 102500 150000 0
 .Point 0 0 97500 150000 0
 .Point 0 0 97500 172500 208
-.end
-
-.com C:\PCSELCAD\SYMBOL\EN60617\02-15-03.SYM 0 0 170000 55000 0 1 0 0 0.500 0 1 0 0 0 0
-.Name "" 0 173500 52750 0 0 12 7 0 0 528 0 0 0 0 0 0
-.Typ "" 0 173500 50750 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Art "" 0 173500 49250 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Func "" 0 170000 55000 0 4 9 0 0 0 16 0 0 0 0 0 0
-.end
-
-.com C:\PCSELCAD\SYMBOL\EN60617\02-15-03.SYM 0 0 107500 65000 0 1 0 0 0.500 0 1 0 0 0 0
-.Name "" 0 111000 62750 0 0 12 7 0 0 528 0 0 0 0 0 0
-.Typ "" 0 111000 60750 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Art "" 0 111000 59250 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Func "" 0 107500 65000 0 4 9 0 0 0 16 0 0 0 0 0 0
-.end
-
-.com C:\PCSELCAD\SYMBOL\EN60617\02-15-03.SYM 0 0 15000 100000 0 1 0 0 0.500 0 1 0 0 0 0
-.Name "" 0 18500 97750 0 0 12 7 0 0 528 0 0 0 0 0 0
-.Typ "" 0 18500 95750 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Art "" 0 18500 94250 0 4 9 6 6 0 0 0 0 0 0 0 0
-.Func "" 0 15000 100000 0 4 9 0 0 0 16 0 0 0 0 0 0
 .end
 
 .com C:\Work\Git\PCSVentlib\USERLIB\sym\heater_simple_big.sym 0 0 175000 127500 900 1 350 0 1 0 1 0 0 0 0
@@ -2845,8 +2827,8 @@
 .end
 
 .com C:\PCSELCAD\SYMBOL\EN60617\04-01-01.SYM 0 0 222500 67500 900 1 250 0 1 0 1 0 0 0 0
-.Name R 0 218300 68600 0 0 25 14 1 1800 512 0 0 0 0 0 0
-.Typ '1.2 kOm' 0 222500 85000 0 0 18 12 7 900 16384 0 0 0 0 0 0
+.Name R 0 217500 62500 0 0 18 0 1 900 512 0 0 0 0 0 0
+.Typ '1.2 kOm' 0 217500 72500 0 0 18 12 7 2700 16384 0 0 0 0 0 0
 .Art "" 0 227500 67500 0 4 18 12 7 900 0 0 0 0 0 0 0
 .Func "" 0 222500 67500 0 4 18 0 0 900 16 0 0 0 0 0 0
 .con 1 0 222500 62500 0 36 0
@@ -2980,13 +2962,13 @@
 .PinDes "" 0 137500 172500 0 4 18 0 3 900 144 0 0 0 0 0 0
 .end
 
-.com C:\PCSELCAD\SYMBOL\EN60617\H7313-03.SYM 128 0 202500 32500 1800 1 250 4 1 0 1 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\EN60617\H7313-03.SYM 1158 0 202500 32500 1800 1 250 4 1 0 1 0 0 0 0
 .Name S 0 210000 32500 0 0 25 14 3 1800 512 0 0 0 0 0 0
 .Typ "" 0 208500 35250 0 4 18 12 8 1800 0 0 0 0 0 0 0
 .Art "" 0 208500 38000 0 4 18 12 8 1800 0 0 0 0 0 0 0
 .Func "" 0 202500 32500 0 4 18 0 2 1800 16 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef .2 0 193500 35500 0 0 18 12 3 1800 0 0 0 0 0 0 0
+.SingleRef .2 0 193500 35500 0 0 18 12 3 1800 128 0 0 0 0 0 0
 .con 1 0 197500 25000 0 142 0
 .PinName 1 0 196750 26750 0 4 18 12 2 900 128 0 0 0 0 0 0
 .PinFunc "" 0 197500 25000 0 4 18 12 2 1800 16 0 0 0 0 0 0
@@ -3019,13 +3001,13 @@
 .PinDes "" 0 207500 40000 0 4 18 0 2 1800 16 0 0 0 0 0 0
 .end
 
-.com C:\PCSELCAD\SYMBOL\EN60617\H7313-03.SYM 128 0 127500 32500 1800 1 250 4 1 0 1 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\EN60617\H7313-03.SYM 1158 0 127500 32500 1800 1 250 4 1 0 1 0 0 0 0
 .Name S 0 135000 32500 0 0 25 14 3 1800 512 0 0 0 0 0 0
 .Typ "" 0 133500 35250 0 4 18 12 8 1800 0 0 0 0 0 0 0
 .Art "" 0 133500 38000 0 4 18 12 8 1800 0 0 0 0 0 0 0
 .Func "" 0 127500 32500 0 4 18 0 2 1800 16 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef .4 0 118500 35500 0 0 18 12 3 1800 0 0 0 0 0 0 0
+.SingleRef .4 0 118500 35500 0 0 18 12 3 1800 128 0 0 0 0 0 0
 .con 1 0 122500 25000 0 62 0
 .PinName 1 0 121750 26750 0 4 18 12 2 900 128 0 0 0 0 0 0
 .PinFunc "" 0 122500 25000 0 4 18 12 2 1800 16 0 0 0 0 0 0
@@ -3064,7 +3046,7 @@
 .Art "" 0 163500 75500 0 4 18 12 8 1800 0 0 0 0 0 0 0
 .Func B50 0 145500 76000 0 0 18 0 2 1800 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef .1 0 148500 73000 0 0 18 12 3 1800 0 0 0 0 0 0 0
+.SingleRef .1 0 148500 73000 0 0 18 12 3 1800 128 0 0 0 0 0 0
 .con 1 0 152500 62500 0 130 0
 .PinName 1 0 151750 64250 0 4 18 12 2 900 128 0 0 0 0 0 0
 .PinFunc "" 0 152500 62500 0 4 18 12 2 1800 16 0 0 0 0 0 0
@@ -3267,6 +3249,27 @@
 .PinDes "" 0 100000 82500 0 4 18 0 0 0 16 0 0 0 0 0 0
 .end
 
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\pe.SYM 0 0 107500 65000 0 1 0 0 1 0 1 0 0 0 0
+.Name "" 0 110250 63500 0 2 18 0 4 0 529 0 0 0 0 0 0
+.Typ "" 0 114500 59000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 114500 56000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 112500 57500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\pe.SYM 0 0 170000 55000 0 1 0 0 1 0 1 0 0 0 0
+.Name "" 0 172750 53500 0 2 18 0 4 0 529 0 0 0 0 0 0
+.Typ "" 0 177000 49000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 177000 46000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 175000 47500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\pe.SYM 0 0 15000 100000 0 1 0 0 1 0 1 0 0 0 0
+.Name "" 0 17750 98500 0 2 18 0 4 0 529 0 0 0 0 0 0
+.Typ "" 0 22000 94000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 22000 91000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 20000 92500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
 .Text GND 0 217800 52300 1 0 16 0 7 900 0 0 0 0 0 0 0
 .Text Function(resistor) 0 225000 61500 1 0 16 0 7 900 0 0 0 0 0 0 0
 .Text Dig.input(Overheat) 0 235000 62500 1 0 16 0 7 900 0 0 0 0 0 0 0
@@ -3298,7 +3301,7 @@
 .Text 'S - User side circuit breaker' 0 207500 175000 1 0 18 0 3 0 0 0 0 0 0 0 0
 .Text 'TT1,TT2 - Overheat protection for triac' 0 207500 180000 1 0 18 0 3 0 0 0 0 0 0 0 0
 .Text 'K1 - Internal Overheat protection contactor' 0 207500 172500 1 0 18 0 3 0 0 0 0 0 0 0 0
-.Text 'NTC-10K - Internal temperature sensor' 0 207500 170000 1 0 18 0 3 0 0 0 0 0 0 0 0
+.Text 'TJ-K10K - Internal temperature sensor' 0 207500 170000 1 0 18 0 3 0 0 0 0 0 0 0 0
 .Text 'STEP1 (27kW)' 0 85000 145000 1 0 18 0 3 0 0 0 0 0 0 0 0
 .Text 'STEP2 (27kW)' 0 147500 145000 1 0 18 0 3 0 0 0 0 0 0 0 0
 .Text 'STEP3 (27kW)' 0 170000 145000 1 0 18 0 3 0 0 0 0 0 0 0 0
