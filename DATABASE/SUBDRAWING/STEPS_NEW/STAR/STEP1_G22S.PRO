@@ -1,12 +1,34 @@
-﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\project_template.PRO V13.0 4 261 1327262399 '28-08-2019 13:21:58' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
-.Title 'Heater ''Project name''' 0
-.Born 2 0 13.0 1325288723
+﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\STEPS_NEW\STAR\STEP1_G22S.PRO V13.0 1 261 1327655115 '02-09-2019 13:06:18' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+.Born 2 0 13.0 1323464808
 
 
+.AppData [LastDB]
+.AppData DatabaseOn=Yes
+.AppData DatabaseFile=C:\Work\Git\PCSVentlib\DATABASE\pcs_ventlib.mdb
+.AppData DbAlias=
+.AppData DBTable=Components
+.AppData dfArt=VENTCODE
+.AppData dfAltArt=ALTCODE
+.AppData dfType=TYPE
+.AppData dfFunction=FUNCTION
+.AppData dfSymbol=PCSTYPE
+.AppData dfSymbolRef=REFID
+.AppData dfPinName=PINDATA
+.AppData dfMecSymbol=MECTYPE
+.AppData dfPrice1=SAVIKAINA
+.AppData dfPrice2=PARDKAINA
+.AppData dfSearch=PCSTYPE
+.AppData dfSearch2=ALTCODE
+.AppData dfFabrikat=MANUFACTUR
+.AppData dfApproved=APPROVED
+.AppData dfObsolete=OBSOLETE
+.AppData dfDescription=DESCRIPT
+.AppData dfSLDSymbol=SINGLELINESYMBOL
+.AppData dfSubDrawing=SUBDRAWING
 
 .Revision 0 0
 
-.LayTab 0 'Lay 0' 129
+.LayTab 0 'Lay 0' 1
 .LayTab 1 'Lay 1' 129
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -31,7 +53,7 @@
 .RefDispFormat FLN|FLN
 
 .ProText 'Project number' ""
-.ProText 'Customer name' Customer
+.ProText 'Customer name' ""
 .ProText Address ""
 .ProText 'Postal code' ""
 .ProText City ""
@@ -39,12 +61,12 @@
 .ProText Telefax ""
 .ProText 'Subject name' ""
 .ProText 'Drawing no.' ""
-.ProText Constructor 'A. Ponomarchuk'
+.ProText Constructor ""
 .ProText 'Approved by' ""
 .ProText Date ""
-.ProText Revision 001
+.ProText Revision ""
 .ProText Engineer ""
-.ProText 'Project name' 'Project Name'
+.ProText 'Project name' ""
 
 .PageText "" ""
 .PageText Approved ""
@@ -57,8 +79,176 @@
 .PageText 'Drawing no. ' ""
 .PageText Engineer ""
 
+.Database VENTCODE;ALTCODE
+.DbIndex 1;2
 
-.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 -170600 0 207835 15000 65531
+.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 0 0 0 11445 50000
+
+.PCsCADSymbol C:\PCSELCAD\BranchFig.sym -5000 -5000 5000 800 145 '30-03-2010 06:37:00' 32 V13.0
+.Title 1,1,1,1,2,0,1,1 1030
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 0 0 -5000 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 -5000 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 2
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 2
+.Point 0 -5000 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 3
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 3
+.Point 0 -5000 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 4
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 4
+.Point 0 -5000 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 0 -5000 0
+.Point 0 0 0 5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 0 5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 0 5000 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 7
+.Point 0 0 0 5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 8
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.arc 9 0 0 0 0 0 800 0 3600 100 0 0 1
+.arc 1 -5000 0 -5000 0 0 5000 0 900 250 0 0 7
+.arc 4096 -5000 0 5000 0 0 5000 900 1800 250 0 0 8
+.con 1 0 0 -5000 0 0 32
+.PinName 1 1000 0 -5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 -5000 0 0 0 0 16
+.PinName 2 -4000 0 0 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 0 0 5000 0 0 32
+.PinName 3 1000 0 5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym -750 -750 750 750 128 '04-03-2019 11:40:20' 15 V13.0
+.Title 'Wire properties' 1033
+.Title 'SUPPORT SYMBOL' 1030
+.Title 'SYMBOL - NÁHRADA' 1029
+.Name "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Typ "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Art "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Func "" 1000 0 0 0 4 10 0 1 0 2 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 750 0 0 0
+.end
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 0 0 -750 0
+.Point 0 0 0 750 0
+.end
+.end
+
+.PCsCADSymbol C:\PCSELCAD\BranchFig?1.sym -5000 -5000 5000 800 145 '30-03-2010 07:37:00' 32 V13.0
+.Title 1,1,1,1,2,0,1,1 1030
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 0 0 -5000 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 -5000 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 2
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 2
+.Point 0 -5000 0 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 3
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 3
+.Point 0 -5000 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 4
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 4
+.Point 0 -5000 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 0 -5000 0
+.Point 0 0 0 5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 0 5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 0 5000 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 7
+.Point 0 0 0 5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 8
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.Point 0 -5000 0 0 0
+.end
+.arc 9 0 0 0 0 0 800 0 3600 100 0 0 1
+.arc 1 -5000 0 -5000 0 0 5000 0 900 250 0 0 7
+.arc 4096 -5000 0 5000 0 0 5000 900 1800 250 0 0 8
+.con 1 0 0 -5000 0 0 32
+.PinName 1 1000 0 -5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 -5000 0 0 0 0 16
+.PinName 2 -4000 0 0 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 0 0 5000 0 0 32
+.PinName 3 1000 0 5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.end
 
 .PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM -2500 -2500 2500 2500 160 '06-12-2010 13:27:54' 28 V13.0
 .Title 'Insertion point for Data Templates and Subdrawings' 1033
@@ -77,1234 +267,976 @@
 .end
 .end
 
-.PCsCADSymbol INSPUNKT.SYM -2500 -2500 2500 2500 160 '19-03-2002 06:41:12' 28 V13.0
-.Title 'Insertion point for sub drawings' 1033
-.Title 'Insætningspunkt til Dataskabeloner og deltegninger' 1030
-.Name "" 0 0 0 0 0 25 14 4 0 128 0 0 0 0 0 0
-.Typ "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.polyline 0 0 0 0 0 14 0 250 0 0 0
-.Point 0 -2500 0 0 0
-.Point 0 2500 0 0 0
-.end
-.polyline 0 0 0 0 0 14 0 250 0 0 0
-.Point 0 0 0 -2500 0
-.Point 0 0 0 2500 0
-.end
-.end
-
-.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas_LT.SYM 0 -178000 285500 11500 144 '19-08-2019 05:05:48' 0 V13.0
-.Title A4_LT 1033
-.Name "" -1500 0 2750 0 0 25 14 0 0 0 0 0 0 0 0 0
-.Typ "" -1500 0 4500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" -1500 0 10500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" -1500 0 1500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM -7500 -2000 7500 2000 129 '04-03-2019 11:40:20' 0 V13.0
+.Title 'Heating element big symbol' 1033
+.Title Varmelegeme 1030
+.Title 'Rezistor topný' 1029
+.Name "" 0 0 0 0 4 25 0 4 0 0 0 0 0 0 0 0
+.Typ "" -2250 0 0 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Art "" -5000 0 0 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef "" -1500 0 10500 0 0 18 12 0 0 0 0 0 0 0 0 0
-.Text Koregavo: -170500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Braižė: -173500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Data: -156500 0 169500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Pask. keitimas:' -174500 0 200000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Lapas -174500 0 265000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text / -174500 0 278500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Rev.: -177500 0 265000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Filename: 10000 0 231500 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Text Patvirtino: -176500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Projekto numeris:' -177500 0 200000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Field Date -156500 0 179000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' -163000 0 145000 0 0 24 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Constructor -173500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Engineer -170500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Date for last change' -174500 0 230500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 24 0 ' ' 3 ""
-.Field 'Used pages' -174500 0 281500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 32 0 ' ' 3 ""
-.Field 'Page number' -174500 0 275500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 22 0 ' ' 3 ""
-.Field Revision -177500 0 280000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'File name' 10000 0 243000 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 12 0 ' ' 3 ""
-.Field 'Approved by' -176500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' 10000 0 4000 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Title 2500 0 10000 0 4 35 0 0 0 3 0 0 0 0 0 0
-.Fdata "" 23 0 ' ' 4098 ""
-.Field Logo1 -163100 0 240600 0 4 150 655 4 0 0 0 0 0 0 0 0
-.Fdata "" 15 0 ' ' 19 ""
-.Field 'Project number' -177500 0 235000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 2 ""
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 11500 0 2500 0
-.Point 0 11500 0 285500 0
-.Point 0 -178000 0 285500 0
-.Point 0 -178000 0 2500 0
-.Point 0 11500 0 2500 0
+.SingleRef "" -1250 0 0 0 4 25 0 1 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 192 2000 0 -5250 0
+.Point 192 2000 0 5250 0
 .end
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 -154000 0 285500 0
-.Point 0 -154000 0 97000 0
-.Point 0 -178000 0 97000 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2000 0 5250 0
+.Point 0 2000 0 5250 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -154000 0 198500 0
-.Point 0 -178000 0 198500 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2000 0 -5250 0
+.Point 0 -2000 0 5250 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -175000 0 198500 0
-.Point 0 -175000 0 285500 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2000 0 -5250 0
+.Point 0 2000 0 -5250 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -172000 0 198500 0
-.Point 0 -172000 0 285500 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -7500 0
+.Point 0 0 0 -5250 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -157600 0 96900 0
-.Point 0 -157600 0 198500 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 5250 0
+.Point 0 0 0 7500 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -154000 0 164000 0
-.Point 0 -157500 0 164000 0
+.polyline 0 0 0 0 0 15 0 180 0 0 0
+.Point 0 -2000 0 0 0
+.Point 0 2000 0 0 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -172000 0 264500 0
-.Point 0 -178000 0 264500 0
+.polyline 0 0 0 0 0 15 0 180 0 0 0
+.Point 192 -2000 0 -2750 0
+.Point 192 2000 0 -2750 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -167500 0 97000 0
-.Point 0 -167500 0 198500 0
+.polyline 0 0 0 0 0 15 0 180 0 0 0
+.Point 0 -2000 0 2750 0
+.Point 0 2000 0 2750 0
 .end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 8500 0 2500 0
-.Point 0 8500 0 285500 0
-.end
-.end
-
-.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM -10000 -263000 383000 0 144 '19-08-2019 05:05:30' 0 V13.0
-.Title A3_LT 1033
-.Name "" -22000 0 -7250 0 0 25 14 0 0 0 0 0 0 0 0 0
-.Typ "" -22000 0 -5500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" -22000 0 -9500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" -22000 0 -8500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.SymbRef 0 1 "" 0 0 0
-.SingleRef "" -22000 0 -9500 0 0 18 12 0 0 0 0 0 0 0 0 0
-.Text Koregavo: -255500 0 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Braižė: -258500 0 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Data: -241500 0 267000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Pask. keitimas:' -259500 0 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Lapas -259500 0 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text / -259500 0 376000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Rev.: -262500 0 362500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Filename: -2500 0 329000 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Text Patvirtino: -261500 0 165000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Projekto numeris:' -262500 0 297500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Field Date -241500 0 276500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' -248000 0 222500 0 0 24 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Constructor -258500 0 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Engineer -255500 0 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Date for last change' -259500 0 326250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 24 0 ' ' 3 ""
-.Field 'Used pages' -259500 0 379000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 32 0 ' ' 3 ""
-.Field 'Page number' -259500 0 373000 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 22 0 ' ' 3 ""
-.Field Revision -262500 0 377500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'File name' -2500 0 340500 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 12 0 ' ' 3 ""
-.Field 'Approved by' -261500 0 186500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' -2500 0 -8500 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-.Field Title -12500 0 -2500 0 4 35 0 0 0 3 0 0 0 0 0 0
-.Fdata "" 23 0 ' ' 4098 ""
-.Field Logo1 -248100 0 333100 0 4 150 655 4 0 0 0 0 0 0 0 0
-.Fdata "" 15 0 ' ' 19 ""
-.Field 'Project number' -262500 0 332500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 2 ""
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 -1000 0 -10000 0
-.Point 0 -1000 0 383000 0
-.Point 0 -263000 0 383000 0
-.Point 0 -263000 0 -10000 0
-.Point 0 -1000 0 -10000 0
-.end
-.polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 -239000 0 383000 0
-.Point 0 -239000 0 161500 0
-.Point 0 -263000 0 161500 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -239000 0 296000 0
-.Point 0 -263000 0 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -260000 0 296000 0
-.Point 0 -260000 0 383000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -257000 0 296000 0
-.Point 0 -257000 0 383000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -242500 0 161500 0
-.Point 0 -242500 0 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -239000 0 262500 0
-.Point 0 -242500 0 262500 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -257000 0 362000 0
-.Point 0 -263000 0 362000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -252000 0 161500 0
-.Point 0 -252000 0 296000 0
-.end
-.polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 -4000 0 -10000 0
-.Point 0 -4000 0 383000 0
-.end
+.con 1 0 0 -7500 0 0 0
+.PinName 1 750 0 -7000 0 4 18 12 2 0 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 7500 0 0 0
+.PinName 2 750 0 7000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
 .end
 
 
-.PageNo 1 1 '19-08-2019 10:11:08' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 '13-03-2019 16:14:00'
-.Title Gamybai 0
-.Born 2 0 13.0 1325288723
+.PageNo 1 1 '02-09-2019 13:06:18' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.Born 2 0 13.0 1323464808
 
-.Comment GAMYBAI
 
 .AppData [ModelTag]
-.AppData [DataTemplates]
-.AppData Sec0=project_template
+.AppData Tag=/@980
+.AppData [TagValues]
+.AppData Titles=12kW/400V;24kW/400V;27kW/400V
+.AppData 5=HE1;HE1;HE1
+.AppData 6=1.0kW/230V;2.0kW/230V;3.0kW/230V
+.AppData 7=ZKE038;ZKES001;ZKES002
+.AppData 10=HE2;HE2;HE2
+.AppData 11=1.0kW/230V;2.0kW/230V;3.0kW/230V
+.AppData 12=ZKE038;ZKES001;ZKES002
+.AppData 15=HE3;HE3;HE3
+.AppData 16=1.0kW/230V;2.0kW/230V;3.0kW/230V
+.AppData 17=ZKE038;ZKES001;ZKES002
+.AppData 20=HE4;HE4;HE4
+.AppData 21=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 22=ZKE038;ZKES001;ZKES001
+.AppData 25=HE5;HE5;HE5
+.AppData 26=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 27=ZKE038;ZKES001;ZKES001
+.AppData 30=HE6;HE6;HE6
+.AppData 31=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 32=ZKE038;ZKES001;ZKES001
+.AppData 35=HE7;HE7;HE7
+.AppData 36=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 37=ZKE038;ZKES001;ZKES001
+.AppData 40=HE8;HE8;HE8
+.AppData 41=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 42=ZKE038;ZKES001;ZKES001
+.AppData 45=HE9;HE9;HE9
+.AppData 46=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 47=ZKE038;ZKES001;ZKES001
+.AppData 50=HE10;HE10;HE10
+.AppData 51=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 52=ZKE038;ZKES001;ZKES001
+.AppData 55=HE11;HE11;HE11
+.AppData 56=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 57=ZKE038;ZKES001;ZKES001
+.AppData 60=HE12;HE12;HE12
+.AppData 61=1.0kW/230V;2.0kW/230V;2.0kW/230V
+.AppData 62=ZKE038;ZKES001;ZKES001
+.AppData '305="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 306=ZLAL078;ZLAL071;ZLAL071
+.AppData 307=BL/1.5;BL/2.5;BL/2.5
+.AppData '310="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 311=ZLAL078;ZLAL071;ZLAL071
+.AppData 312=BL/1.5;BL/2.5;BL/2.5
+.AppData '315="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 316=ZLAL078;ZLAL071;ZLAL071
+.AppData 317=BL/1.5;BL/2.5;BL/2.5
+.AppData '320="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 321=ZLAL078;ZLAL071;ZLAL071
+.AppData 322=BL/1.5;BL/2.5;BL/2.5
+.AppData '325="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 326=ZLAL078;ZLAL071;ZLAL071
+.AppData 327=BL/1.5;BL/2.5;BL/2.5
+.AppData '330="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 331=ZLAL078;ZLAL071;ZLAL071
+.AppData 332=BL/1.5;BL/2.5;BL/2.5
+.AppData '335="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 336=ZLAL078;ZLAL071;ZLAL071
+.AppData 337=BL/1.5;BL/2.5;BL/2.5
+.AppData '340="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 341=ZLAL078;ZLAL071;ZLAL071
+.AppData 342=BL/1.5;BL/2.5;BL/2.5
+.AppData '350="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 351=ZLAL078;ZLAL071;ZLAL071
+.AppData 352=BL/1.5;BL/2.5;BL/2.5
+.AppData '353="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 354=ZLAL078;ZLAL071;ZLAL071
+.AppData 355=BL/1.5;BL/2.5;BL/2.5
+.AppData '360="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 361=ZLAL078;ZLAL071;ZLAL071
+.AppData 362=BL/1.5;BL/2.5;BL/2.5
+.AppData '365="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 366=ZLAL078;ZLAL071;ZLAL071
+.AppData 367=BL/1.5;BL/2.5;BL/2.5
+.AppData '370="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 371=ZLAL078;ZLAL071;ZLAL071
+.AppData 372=BL/1.5;BL/2.5;BL/2.5
+.AppData '375="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 376=ZLAL078;ZLAL071;ZLAL071
+.AppData 377=BL/1.5;BL/2.5;BL/2.5
+.AppData '380="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 4.0"'
+.AppData 381=ZLAL078;ZLAL071;ZLAL072
+.AppData 382=BL/1.5;BL/2.5;BL/4.0
+.AppData '385="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 4.0"'
+.AppData 386=ZLAL078;ZLAL071;ZLAL072
+.AppData 387=BL/1.5;BL/2.5;BL/4.0
+.AppData '390="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 4.0"'
+.AppData 391=ZLAL078;ZLAL071;ZLAL072
+.AppData 392=BL/1.5;BL/2.5;BL/4.0
+.AppData '395="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 396=ZLAL078;ZLAL071;ZLAL071
+.AppData 397=BL/1.5;BL/2.5;BL/2.5
+.AppData '400="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 401=ZLAL078;ZLAL071;ZLAL071
+.AppData 402=BL/1.5;BL/2.5;BL/2.5
+.AppData '405="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 406=ZLAL078;ZLAL071;ZLAL071
+.AppData 407=BL/1.5;BL/2.5;BL/2.5
+.AppData '902="12.0 kW";"24.0 kW";"27.0 kW"'
 
 .Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 57500 30000
 
-.polyline 128 0 0 0 1 4 0 250 0 0 0
-.Point 0 77500 0 367500 1
-.Point 0 77500 0 405000 0
-.Point 0 50000 0 405000 0
-.Point 0 50000 0 367500 0
-.Point 0 77500 0 367500 1
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 105000 2
+.Point 0 177500 0 105000 0
+.Point 1 177500 0 110500 1
 .end
-.polyline 0 0 0 0 1 15 1 250 0 0 0
-.Point 0 270000 0 22500 0
-.Point 0 270000 0 402500 0
-.Point 0 130000 0 402500 0
-.Point 0 130000 0 22500 0
-.Point 0 270000 0 22500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 177500 0 139500 6
+.Point 0 177500 0 145000 0
+.Point 0 172500 0 145000 9
 .end
-
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM 0 287000 0 25000 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 265000 0 17750 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 265000 0 19500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 265000 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 265000 0 16500 0 4 18 12 0 0 16 0 0 0 0 0 0
-.SField "" 1 0
-.SField "" 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField "" 5 0
-.SField "" 6 0
-.SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
-.SField "" 11 0
-.SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 137500 11
+.Point 0 175500 0 137500 7
 .end
-
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 265000 0 402500 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 265000 0 402500 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 265000 0 402500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 265000 0 402500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 265000 0 402500 0 4 18 12 4 0 144 0 0 0 0 0 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 130000 13
+.Point 0 177500 0 130000 0
+.Point 1 177500 0 135500 5
 .end
-
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 265000 0 22500 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 265000 0 22500 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 265000 0 22500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 265000 0 22500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 265000 0 22500 0 4 18 12 4 0 144 0 0 0 0 0 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 177500 0 114500 3
+.Point 0 177500 0 120000 0
+.Point 0 172500 0 120000 15
 .end
-
-.Text 'WT - WHITE' 72500 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'OR - ORANGE' 70000 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'BU - BLUE' 67500 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'GN - GREEN' 65000 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'BN - BROWN' 62500 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'YE - YELLOW' 60000 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'Y/G - YELLOW/GREEN' 57500 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'BL - BLACK' 55000 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'NV - NAVY' 52500 0 370000 1 4 18 0 0 0 0 0 0 0 0 0 0
-.Text 'RG1 - Controller  EKR-x  x' 70000 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'V1,V2 - Triacs' 67500 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'AT1 - Thermostat  with  automatic  reset' 65000 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'MT - Thermostat  with  manual  reset' 62500 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'HE1-HEn - Heating  elements' 60000 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'S - User side circuit breaker' 57500 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text 'T, J - User Control switchs' 55000 0 277500 1 4 18 0 3 0 0 0 0 0 0 0 0
-.Text '1. Pasirenkam valdiklio schemą pagal tipą ir pagrindinės pakopos galingumą^2. Pasirenkam pagrindinės pakopos šildytuvus pagal galingumą ir grupių skaičių^3. Pasirenkam antrunių pakopų modulius pagal jų galingumą ir grupių skaičių^4. t.t.' 60000 0 30000 1 4 18 0 0 0 0 0 17 0 0 0 0
-
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 112500 17
+.Point 0 175500 0 112500 4
 .end
-
-.PageNo 2 2 '30-07-2019 09:40:38' 4 10000 1 0 300 1 1 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
-.Title Lipdukas 0
-.Born 2 0 13.0 1325288723
-
-.Comment LIPDUKAS
-
-
-.Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 57500 30000
-
-
-.Field 'Project name' 167500 0 132500 1 4 18 12 0 0 0 0 0 0 0 0 0
-.Fdata "" 10 0 ' ' 3 ""
-
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 177500 0 164500 19
+.Point 0 177500 0 170000 0
+.Point 0 172500 0 170000 20
 .end
-
-.PageNo 3 3 '19-08-2019 10:10:32' 4 10000 1 1 300 1 1 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
-.Title 'Tenu trumpinimas' 0
-.Born 2 0 13.0 1325288723
-
-
-.AppData [MechLoad]
-.AppData DBField=MECTYPE
-.AppData SearchStr=K2
-
-.Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 55000 30000
-
-
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
-.SField "" 1 0
-.SField "" 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField "" 5 0
-.SField "" 6 0
-.SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
-.SField "" 11 0
-.SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 162500 22
+.Point 0 175500 0 162500 21
 .end
-
-.com INSPUNKT.SYM 0 260000 0 35400 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 260000 0 35400 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 260000 0 35400 0 4 18 12 4 0 144 0 0 0 0 0 0
-.Art "" 260000 0 35400 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 260000 0 35400 0 4 18 12 4 0 144 0 0 0 0 0 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 155000 24
+.Point 0 177500 0 155000 0
+.Point 1 177500 0 160500 23
 .end
-
-.Field Remarks 32500 0 12500 1 4 25 0 3 0 0 0 0 0 0 0 0
-.Fdata "" 17 0 ' ' 4099 ""
-
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 130000 14
+.Point 1 147500 0 130000 0
+.Point 1 147500 0 107000 29
 .end
-
-.PageNo 4 4 '28-08-2019 13:21:50' 4 10000 1 0 300 1 4 160 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
-.Title KS 0
-.Born 2 0 13.0 1325288723
-
-
-.AppData [PageTitle]
-.AppData 'Format2=%s %s..%s'
-.AppData LastItem=
-.AppData FirstItem=
-.AppData [DataTemplates]
-.AppData Sec1=MyPartList
-.AppData DBart1=ZLAL070
-.AppData SecLink1=0
-
-.Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 57500 30000
-.Mdata 4 4 63 "" "" 0 63 "" "" 0 1 291
-
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 178500 0 22000 0
-.Point 0 178500 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 137500 12
+.Point 1 142500 0 137500 0
+.Point 1 142500 0 114500 32
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 35000 0
-.Point 0 54500 0 35000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 145000 10
+.Point 1 137500 0 145000 0
+.Point 1 137500 0 122000 35
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 53000 0
-.Point 0 54500 0 53000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 149500 0 105000 28
+.Point 0 157500 0 105000 8
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 197000 0
-.Point 0 54500 0 197000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 147500 0 85000 0
+.Point 1 147500 0 93000 46
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 224000 0
-.Point 0 54500 0 224000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 144500 0 112500 31
+.Point 0 157500 0 112500 18
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 242000 0
-.Point 0 54500 0 242000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 142500 0 110500 33
+.Point 1 142500 0 102000 50
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 173000 0 22000 0
-.Point 0 173000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 139500 0 120000 34
+.Point 0 157500 0 120000 16
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 170000 0 22000 0
-.Point 0 170000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 137500 0 118000 36
+.Point 1 137500 0 107000 53
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 167000 0 22000 0
-.Point 0 167000 0 273500 0
+.polyline 128 0 0 0 1 15 1 250 0 0 0
+.Point 0 187500 0 87500 0
+.Point 0 187500 0 202500 0
+.Point 0 117500 0 202500 0
+.Point 0 117500 0 87500 0
+.Point 1 187500 0 87500 0
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 164000 0 22000 0
-.Point 0 164000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 177500 0 189500 37
+.Point 0 177500 0 195000 0
+.Point 0 172500 0 195000 38
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 158000 0 22000 0
-.Point 0 158000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 187500 40
+.Point 0 175500 0 187500 39
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 155000 0 22000 0
-.Point 0 155000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 172500 0 180000 42
+.Point 0 177500 0 180000 0
+.Point 1 177500 0 185500 41
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 152000 0 22000 0
-.Point 0 152000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 180000 43
+.Point 0 132500 0 180000 0
+.Point 1 132500 0 157000 63
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 149000 0 22000 0
-.Point 0 149000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 187500 44
+.Point 0 127500 0 187500 0
+.Point 1 127500 0 164500 60
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 143000 0 22000 0
-.Point 0 143000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 157500 0 195000 45
+.Point 0 122500 0 195000 0
+.Point 1 122500 0 172000 56
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 140000 0 22000 0
-.Point 0 140000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 147500 0 97000 47
+.Point 0 147500 0 103000 30
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 137000 0 22000 0
-.Point 0 137000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 145500 0 95000 48
+.Point 0 132500 0 95000 0
+.Point 1 132500 0 153000 61
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 134000 0 22000 0
-.Point 0 134000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 142500 0 98000 49
+.Point 0 142500 0 85000 0
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 128000 0 22000 0
-.Point 0 128000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 140500 0 100000 51
+.Point 0 127500 0 100000 0
+.Point 1 127500 0 160500 58
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 125000 0 22000 0
-.Point 0 125000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 137500 0 103000 52
+.Point 0 137500 0 85000 0
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 122000 0 22000 0
-.Point 0 122000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 135500 0 105000 54
+.Point 0 122500 0 105000 0
+.Point 0 122500 0 168000 57
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 119000 0 22000 0
-.Point 0 119000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 124500 0 170000 55
+.Point 0 157500 0 170000 27
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 113000 0 22000 0
-.Point 0 113000 0 273500 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 129500 0 162500 59
+.Point 0 157500 0 162500 26
 .end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 110000 0 22000 0
-.Point 0 110000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 107000 0 22000 0
-.Point 0 107000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 104000 0 22000 0
-.Point 0 104000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 98000 0 22000 0
-.Point 0 98000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 95000 0 22000 0
-.Point 0 95000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 92000 0 22000 0
-.Point 0 92000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 89000 0 22000 0
-.Point 0 89000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 83000 0 22000 0
-.Point 0 83000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 80000 0 22000 0
-.Point 0 80000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 77000 0 22000 0
-.Point 0 77000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 74000 0 22000 0
-.Point 0 74000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 68000 0 22000 0
-.Point 0 68000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 65000 0 22000 0
-.Point 0 65000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 62000 0 22000 0
-.Point 0 62000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 59000 0 22000 0
-.Point 0 59000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 161000 0 22000 0
-.Point 0 161000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 146000 0 22000 0
-.Point 0 146000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 131000 0 22000 0
-.Point 0 131000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 116000 0 22000 0
-.Point 0 116000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 101000 0 22000 0
-.Point 0 101000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 86000 0 22000 0
-.Point 0 86000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 71000 0 22000 0
-.Point 0 71000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 56000 0 22000 0
-.Point 0 56000 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 177500 0 22000 0
-.Point 0 177500 0 273500 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 131000 0
-.Point 0 54500 0 131000 0
-.end
-.polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 183500 0 260000 0
-.Point 0 54500 0 260000 0
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 134500 0 155000 62
+.Point 0 157500 0 155000 25
 .end
 
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
-.SField "" 1 0
-.SField "" 2 0
-.SField "" 3 0
-.SField "" 4 0
-.SField "" 5 0
-.SField "" 6 0
-.SField "" 7 0
-.SField "" 8 0
-.SField "" 9 0
-.SField "" 10 0
-.SField "" 11 0
-.SField "" 12 0
-.SField "" 13 0
-.SField "" 14 0
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 190000 0 85000 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 190000 0 85000 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 190000 0 85000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 190000 0 85000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 190000 0 85000 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.Text Kiekis 179400 0 244300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Kodas 179400 0 37300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Pavadinimas 179400 0 79300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Tipas 179400 0 205300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Gamint. 179400 0 225300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Num. 179400 0 25300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Aprašymas 179400 0 151300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Matas 179400 0 261300 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text '*Pastaba: šis komponentų sąrašas yra peliminarus, nes komponentų duomenų bazė yra tvarkoma. Visi pagrindiniai elektriniai komponentai atitinka tikrovės, mechaniniai^atitinka dalinai' 40000 0 105000 1 4 10 0 0 0 2 0 0 0 0 0 0
-.Field Quantity 174200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 174200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 174200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 173200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 174200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 174200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 171200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 171200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 171200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 170200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 171200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 171200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 168200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 168200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 168200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 167200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 168200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 168200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 165200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 165200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 165200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 164200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 165200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 165200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 162200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 162200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 162200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 161200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 162200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 162200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 159200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 159200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 159200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 158200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 159200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 159200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 156200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 156200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 156200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 155200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 156200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 156200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 153200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 153200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 153200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 152200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 153200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 153200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 150200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 150200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 150200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 149200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 150200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 150200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 147200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 147200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 147200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 146200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 147200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 147200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 144200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 144200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 144200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 143200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 144200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 144200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 141200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 141200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 141200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 140200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 141200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 141200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 138200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 138200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 138200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 137200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 138200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 138200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 135200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 135200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 135200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 134200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 135200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 135200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 132200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 132200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 132200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 131200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 132200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 132200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 129200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 129200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 129200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 128200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 129200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 129200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 126200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 126200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 126200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 125200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 126200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 126200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 123200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 123200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 123200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 122200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 123200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 123200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 120200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 120200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 120200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 119200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 120200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 120200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 117200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 117200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 117200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 116200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 117200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 117200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 114200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 114200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 114200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 113200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 114200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 114200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 111200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 111200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 111200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 110200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 111200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 111200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 108200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 108200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 108200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 107200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 108200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 108200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 105200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 105200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 105200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 104200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 105200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 105200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 102200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 102200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 102200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 101200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 102200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 102200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 99200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 99200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 99200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 98200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 99200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 99200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 96200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 96200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 96200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 95200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 96200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 96200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 93200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 93200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 93200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 92200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 93200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 93200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 90200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 90200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 90200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 89200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 90200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 90200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 87200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 87200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Description 87200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field Type 86200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 87200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 87200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field NAME 174200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 171200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 168200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 162200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 159200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 156200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 153200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 150200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 147200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 144200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 141200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 138200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 135200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 132200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 129200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 126200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 123200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 120200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 117200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 114200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 111200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 108200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 105200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 102200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 99200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 96200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 93200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 90200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 87200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 165200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 57200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 60200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 63200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 66200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 69200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 72200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 75200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 78200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 81200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field NAME 84200 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
-.Fdata "" 60 45 ' ' 5 ""
-.Field MANUFACTUR 57200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 57200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 56200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 57200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 57200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 57200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 60200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 60200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 59200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 60200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 60200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 60200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 63200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 63200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 62200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 63200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 63200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 63200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 66200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 66200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 65200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 66200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 66200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 66200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 69200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 69200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 68200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 69200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 69200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 69200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 72200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 72200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 71200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 72200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 72200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 72200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 75200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 75200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 74200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 75200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 75200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 75200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 78200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 78200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 77200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 78200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 78200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 78200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 81200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 81200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 80200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 81200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 81200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 81200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 84200 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
-.Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 84200 0 29500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 85 0 ' ' 389 ""
-.Field Type 83200 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
-.Fdata "" 62 15 ' ' 5 ""
-.Field Description 84200 0 133000 1 0 18 0 3 0 2 0 9 45 0 0 0
-.Fdata "" 88 45 ' ' 5 ""
-.Field 'Article No.' 84200 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
-.Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 84200 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 69 0 ' ' 5 ""
-.Field MATOVNT 174200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 171200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 168200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 165200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 162200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 159200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 156200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 153200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 150200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 147200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 144200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 141200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 138200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 135200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 132200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 129200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 126200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 123200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 120200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 117200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 114200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 111200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 108200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 105200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 102200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 99200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 96200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 93200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 90200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 87200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 57200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 60200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 63200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 66200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 69200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 72200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 75200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 78200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 81200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 84200 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
-.Fdata "" 60 0 ' ' 5 ""
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 190000 0 205000 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 190000 0 205000 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 190000 0 205000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 190000 0 205000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 190000 0 205000 0 4 18 12 4 0 144 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 130000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 130000 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@350 152500 0 130000 0 14 10 0 4 900 0 0 0 0 350 0 0
+.Art /@351 152500 0 130000 0 14 10 0 4 900 0 0 0 0 351 0 0
+.Func /@352 152500 0 129000 0 4 10 0 1 900 2 2 0 0 352 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 117500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 117500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@310 177500 0 117500 0 14 10 0 4 0 128 0 0 0 310 0 0
+.Art /@311 177500 0 117500 0 14 10 0 4 0 128 0 0 0 311 0 0
+.Func /@312 178500 0 117500 0 4 8 0 1 0 2 2 0 0 312 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 142500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 142500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@320 177500 0 142500 0 14 10 0 4 0 128 0 0 0 320 0 0
+.Art /@321 177500 0 142500 0 14 10 0 4 0 128 0 0 0 321 0 0
+.Func /@322 178500 0 142500 0 4 8 0 1 0 2 2 0 0 322 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 132500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 132500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@315 177500 0 132500 0 14 10 0 4 0 128 0 0 0 315 0 0
+.Art /@316 177500 0 132500 0 14 10 0 4 0 128 0 0 0 316 0 0
+.Func /@317 178500 0 132500 0 4 8 0 1 0 2 2 0 0 317 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 137500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 137500 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@353 152500 0 137500 0 14 10 0 4 900 0 0 0 0 353 0 0
+.Art /@354 152500 0 137500 0 14 10 0 4 900 0 0 0 0 354 0 0
+.Func /@355 152500 0 136500 0 4 10 0 1 900 2 2 0 0 355 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 107500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 107500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@305 177500 0 107500 0 14 10 0 4 0 128 0 0 0 305 0 0
+.Art /@306 177500 0 107500 0 14 10 0 4 0 128 0 0 0 306 0 0
+.Func /@307 178500 0 107500 0 4 8 0 1 0 2 2 0 0 307 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 145000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 145000 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@360 152500 0 145000 0 14 10 0 4 900 0 0 0 0 360 0 0
+.Art /@361 152500 0 145000 0 14 10 0 4 900 0 0 0 0 361 0 0
+.Func /@362 152500 0 144000 0 4 10 0 1 900 2 2 0 0 362 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig?1.sym 0 177500 0 112500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 177500 0 113000 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 178500 0 113000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 175900 0 113000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 177500 0 112500 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 177500 0 110500 0 1 32
+.PinName 1 177900 0 110500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 110500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 110500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 110500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 175500 0 112500 0 4 16
+.PinName 2 175900 0 112500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 174400 0 112500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 175500 0 112500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 175500 0 112500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 177500 0 114500 0 3 32
+.PinName 3 177900 0 114500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 114500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 114500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 114500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig?1.sym 0 177500 0 137500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 177500 0 138000 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 178500 0 138000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 175900 0 138000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 177500 0 137500 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 177500 0 135500 0 5 32
+.PinName 1 177900 0 135500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 135500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 135500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 135500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 175500 0 137500 0 7 16
+.PinName 2 175900 0 137500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 174400 0 137500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 175500 0 137500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 175500 0 137500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 177500 0 139500 0 6 32
+.PinName 3 177900 0 139500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 139500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 139500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 139500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 105000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@5 165000 0 105000 0 4 25 0 4 900 512 0 0 0 5 0 0
+.Typ /@6 165000 0 107250 0 4 10 0 7 900 16384 0 0 0 6 0 0
+.Art /@7 165000 0 110000 0 4 18 12 7 900 128 0 0 0 7 0 0
+.Func "" 164800 0 107400 0 4 10 0 7 900 144 0 0 0 0 0 0
+.con 1 157500 0 105000 0 8 0
+.PinName 1 158000 0 104250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 105000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 105000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 105000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 105000 0 2 0
+.PinName 2 172000 0 104250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 105000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 105000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 105000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 112500 900 1 250 0 1 0 1 1 0 0 0
+.Name /@10 165000 0 112500 0 4 25 0 4 900 512 0 0 0 10 0 0
+.Typ /@11 165000 0 114750 0 4 10 0 7 900 16384 0 0 0 11 0 0
+.Art /@12 165000 0 117500 0 4 18 12 7 900 128 0 0 0 12 0 0
+.Func "" 165000 0 112500 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 112500 0 18 0
+.PinName 1 158000 0 111750 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 112500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 112500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 112500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 112500 0 17 0
+.PinName 2 172000 0 111750 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 112500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 112500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 112500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 120000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@15 165000 0 120000 0 4 25 0 4 900 512 0 0 0 15 0 0
+.Typ /@16 165000 0 122250 0 4 10 0 7 900 16384 0 0 0 16 0 0
+.Art /@17 165000 0 125000 0 4 18 12 7 900 128 0 0 0 17 0 0
+.Func "" 165000 0 120000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 120000 0 16 0
+.PinName 1 158000 0 119250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 120000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 120000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 120000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 120000 0 15 0
+.PinName 2 172000 0 119250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 120000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 120000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 120000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 130000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@20 165000 0 130000 0 4 25 0 4 900 512 0 0 0 20 0 0
+.Typ /@21 165000 0 132250 0 4 10 0 7 900 16384 0 0 0 21 0 0
+.Art /@22 165000 0 135000 0 4 18 12 7 900 128 0 0 0 22 0 0
+.Func "" 165000 0 130000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 130000 0 14 0
+.PinName 1 158000 0 129250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 130000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 130000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 130000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 130000 0 13 0
+.PinName 2 172000 0 129250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 130000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 130000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 130000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 137500 900 1 250 0 1 0 1 1 0 0 0
+.Name /@25 165000 0 137500 0 4 25 0 4 900 512 0 0 0 25 0 0
+.Typ /@26 165000 0 139750 0 4 10 0 7 900 16384 0 0 0 26 0 0
+.Art /@27 165000 0 142500 0 4 18 12 7 900 128 0 0 0 27 0 0
+.Func "" 165000 0 137500 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 137500 0 12 0
+.PinName 1 158000 0 136750 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 137500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 137500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 137500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 137500 0 11 0
+.PinName 2 172000 0 136750 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 137500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 137500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 137500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 145000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@30 165000 0 145000 0 4 25 0 4 900 512 0 0 0 30 0 0
+.Typ /@31 165000 0 147250 0 4 10 0 7 900 16384 0 0 0 31 0 0
+.Art /@32 165000 0 150000 0 4 18 12 7 900 128 0 0 0 32 0 0
+.Func "" 165000 0 145000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 145000 0 10 0
+.PinName 1 158000 0 144250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 145000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 145000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 145000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 145000 0 9 0
+.PinName 2 172000 0 144250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 145000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 145000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 145000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 132500 0 112500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 132500 0 112500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@395 132500 0 112500 0 14 10 0 4 0 128 0 0 0 395 0 0
+.Art /@396 132500 0 112500 0 14 10 0 4 0 128 0 0 0 396 0 0
+.Func /@397 133500 0 112500 0 4 10 0 1 0 2 2 0 0 397 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 167500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 167500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@330 177500 0 167500 0 14 10 0 4 0 128 0 0 0 330 0 0
+.Art /@331 177500 0 167500 0 14 10 0 4 0 128 0 0 0 331 0 0
+.Func /@332 178500 0 167500 0 4 8 0 1 0 2 2 0 0 332 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 157500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 157500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@325 177500 0 157500 0 14 10 0 4 0 128 0 0 0 325 0 0
+.Art /@326 177500 0 157500 0 14 10 0 4 0 128 0 0 0 326 0 0
+.Func /@327 178500 0 157500 0 4 8 0 1 0 2 2 0 0 327 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 127500 0 112500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 127500 0 112500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@400 127500 0 112500 0 14 10 0 4 0 128 0 0 0 400 0 0
+.Art /@401 127500 0 112500 0 14 10 0 4 0 128 0 0 0 401 0 0
+.Func /@402 128500 0 112500 0 4 10 0 1 0 2 2 0 0 402 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 122500 0 112500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 122500 0 112500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@405 122500 0 112500 0 14 10 0 4 0 128 0 0 0 405 0 0
+.Art /@406 122500 0 112500 0 14 10 0 4 0 128 0 0 0 406 0 0
+.Func /@407 123500 0 112500 0 4 10 0 1 0 2 2 0 0 407 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig?1.sym 0 177500 0 162500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 177500 0 163000 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 178500 0 163000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 175900 0 163000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 177500 0 162500 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 177500 0 160500 0 23 32
+.PinName 1 177900 0 160500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 160500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 160500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 160500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 175500 0 162500 0 21 16
+.PinName 2 175900 0 162500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 174400 0 162500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 175500 0 162500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 175500 0 162500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 177500 0 164500 0 19 32
+.PinName 3 177900 0 164500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 164500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 164500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 164500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 155000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@35 165000 0 155000 0 4 25 0 4 900 512 0 0 0 35 0 0
+.Typ /@36 165000 0 157250 0 4 10 0 7 900 16384 0 0 0 36 0 0
+.Art /@37 165000 0 160000 0 4 18 12 7 900 128 0 0 0 37 0 0
+.Func "" 165000 0 155000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 155000 0 25 0
+.PinName 1 158000 0 154250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 155000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 155000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 155000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 155000 0 24 0
+.PinName 2 172000 0 154250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 155000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 155000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 155000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 162500 900 1 250 0 1 0 1 1 0 0 0
+.Name /@40 165000 0 162500 0 4 25 0 4 900 512 0 0 0 40 0 0
+.Typ /@41 165000 0 164750 0 4 10 0 7 900 16384 0 0 0 41 0 0
+.Art /@42 165000 0 167500 0 4 18 12 7 900 128 0 0 0 42 0 0
+.Func "" 165000 0 162500 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 162500 0 26 0
+.PinName 1 158000 0 161750 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 162500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 162500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 162500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 162500 0 22 0
+.PinName 2 172000 0 161750 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 162500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 162500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 162500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 170000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@45 165000 0 170000 0 4 25 0 4 900 512 0 0 0 45 0 0
+.Typ /@46 165000 0 172250 0 4 10 0 7 900 16384 0 0 0 46 0 0
+.Art /@47 165000 0 175000 0 4 18 12 7 900 128 0 0 0 47 0 0
+.Func "" 165000 0 170000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 170000 0 27 0
+.PinName 1 158000 0 169250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 170000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 170000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 170000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 170000 0 20 0
+.PinName 2 172000 0 169250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 170000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 170000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 170000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 147500 0 105000 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 147500 0 105500 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 146500 0 105500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 149100 0 105500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 147500 0 105000 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 147500 0 103000 0 30 32
+.PinName 1 147100 0 103000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 148600 0 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 147500 0 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 147500 0 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 149500 0 105000 0 28 16
+.PinName 2 149100 0 105000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 150600 0 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 149500 0 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 149500 0 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 147500 0 107000 0 29 32
+.PinName 3 147100 0 107000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 148600 0 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 147500 0 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 147500 0 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 142500 0 112500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 142500 0 113000 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 141500 0 113000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 144100 0 113000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 142500 0 112500 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 142500 0 110500 0 33 32
+.PinName 1 142100 0 110500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 143600 0 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 142500 0 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 142500 0 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 144500 0 112500 0 31 16
+.PinName 2 144100 0 112500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 145600 0 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 144500 0 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 144500 0 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 142500 0 114500 0 32 32
+.PinName 3 142100 0 114500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 143600 0 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 142500 0 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 142500 0 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 137500 0 120000 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 137500 0 120500 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 136500 0 120500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 139100 0 120500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 137500 0 120000 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 137500 0 118000 0 36 32
+.PinName 1 137100 0 118000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 138600 0 118000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 137500 0 118000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 118000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 139500 0 120000 0 34 16
+.PinName 2 139100 0 120000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 140600 0 120000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 139500 0 120000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 139500 0 120000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 137500 0 122000 0 35 32
+.PinName 3 137100 0 122000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 138600 0 122000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 137500 0 122000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 122000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 192500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 192500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@340 177500 0 192500 0 14 10 0 4 0 128 0 0 0 340 0 0
+.Art /@341 177500 0 192500 0 14 10 0 4 0 128 0 0 0 341 0 0
+.Func /@342 178500 0 192500 0 4 8 0 1 0 2 2 0 0 342 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 177500 0 182500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 177500 0 182500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@335 177500 0 182500 0 14 10 0 4 0 128 0 0 0 335 0 0
+.Art /@336 177500 0 182500 0 14 10 0 4 0 128 0 0 0 336 0 0
+.Func /@337 178500 0 182500 0 4 8 0 1 0 2 2 0 0 337 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig?1.sym 0 177500 0 187500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 177500 0 188000 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 178500 0 188000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 175900 0 188000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 177500 0 187500 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 177500 0 185500 0 41 32
+.PinName 1 177900 0 185500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 185500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 185500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 185500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 175500 0 187500 0 39 16
+.PinName 2 175900 0 187500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 174400 0 187500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 175500 0 187500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 175500 0 187500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.con 1 177500 0 189500 0 37 32
+.PinName 3 177900 0 189500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 176400 0 189500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinLab "" 177500 0 189500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinDes "" 177500 0 189500 0 4 7 5 0 0 128 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 180000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@50 165000 0 180000 0 4 25 0 4 900 512 0 0 0 50 0 0
+.Typ /@51 165000 0 182250 0 4 10 0 7 900 16384 0 0 0 51 0 0
+.Art /@52 165000 0 185000 0 4 18 12 7 900 128 0 0 0 52 0 0
+.Func "" 165000 0 180000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 180000 0 43 0
+.PinName 1 158000 0 179250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 180000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 180000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 180000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 180000 0 42 0
+.PinName 2 172000 0 179250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 180000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 180000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 180000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 187500 900 1 250 0 1 0 1 1 0 0 0
+.Name /@55 165000 0 187500 0 4 25 0 4 900 512 0 0 0 55 0 0
+.Typ /@56 165000 0 189750 0 4 10 0 7 900 16384 0 0 0 56 0 0
+.Art /@57 165000 0 192500 0 4 18 12 7 900 128 0 0 0 57 0 0
+.Func "" 165000 0 187500 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 187500 0 44 0
+.PinName 1 158000 0 186750 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 187500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 187500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 187500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 187500 0 40 0
+.PinName 2 172000 0 186750 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 187500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 187500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 187500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 165000 0 195000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@60 165000 0 195000 0 4 25 0 4 900 512 0 0 0 60 0 0
+.Typ /@61 165000 0 197250 0 4 10 0 7 900 16384 0 0 0 61 0 0
+.Art /@62 165000 0 200000 0 4 18 12 7 900 128 0 0 0 62 0 0
+.Func "" 165000 0 195000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 157500 0 195000 0 45 0
+.PinName 1 158000 0 194250 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 157500 0 195000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 157500 0 195000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 157500 0 195000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 172500 0 195000 0 38 0
+.PinName 2 172000 0 194250 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 172500 0 195000 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 172500 0 195000 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 172500 0 195000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 180000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 180000 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@365 152500 0 180000 0 14 10 0 4 900 0 0 0 0 365 0 0
+.Art /@366 152500 0 180000 0 14 10 0 4 900 0 0 0 0 366 0 0
+.Func /@367 152500 0 179000 0 4 10 0 1 900 2 2 0 0 367 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 187500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 187500 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@370 152500 0 187500 0 14 10 0 4 900 0 0 0 0 370 0 0
+.Art /@371 152500 0 187500 0 14 10 0 4 900 0 0 0 0 371 0 0
+.Func /@372 152500 0 186500 0 4 10 0 1 900 2 2 0 0 372 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 152500 0 195000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 152500 0 195000 0 14 10 0 4 900 528 0 0 0 0 0 0
+.Typ /@375 152500 0 195000 0 14 10 0 4 900 0 0 0 0 375 0 0
+.Art /@376 152500 0 195000 0 14 10 0 4 900 0 0 0 0 376 0 0
+.Func /@377 152500 0 194000 0 4 10 0 1 900 2 2 0 0 377 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 147500 0 95000 0 1 250 32 0.400 0 0 250 0 0 6
+.Name "" 147500 0 95500 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 148500 0 95500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 145900 0 95500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 147500 0 95000 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 147500 0 93000 0 46 32
+.PinName 1 147900 0 93000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 146400 0 93000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 147500 0 93000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 147500 0 93000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 145500 0 95000 0 48 16
+.PinName 2 145900 0 95000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 144400 0 95000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 145500 0 95000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 145500 0 95000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 147500 0 97000 0 47 32
+.PinName 3 147900 0 97000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 146400 0 97000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 147500 0 97000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 147500 0 97000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 142500 0 100000 0 1 250 32 0.400 0 0 250 0 0 6
+.Name "" 142500 0 100500 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 143500 0 100500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 140900 0 100500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 142500 0 100000 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 142500 0 98000 0 49 32
+.PinName 1 142900 0 98000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 141400 0 98000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 142500 0 98000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 142500 0 98000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 140500 0 100000 0 51 16
+.PinName 2 140900 0 100000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 139400 0 100000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 140500 0 100000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 140500 0 100000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 142500 0 102000 0 50 32
+.PinName 3 142900 0 102000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 141400 0 102000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 142500 0 102000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 142500 0 102000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 137500 0 105000 0 1 250 32 0.400 0 0 250 0 0 6
+.Name "" 137500 0 105500 0 0 10 6 0 0 16 0 0 0 0 0 0
+.Typ "" 138500 0 105500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Art "" 135900 0 105500 0 4 7 5 0 0 0 0 0 0 0 0 0
+.Func "" 137500 0 105000 0 4 7 5 0 0 16 0 0 0 0 0 0
+.con 1 137500 0 103000 0 52 32
+.PinName 1 137900 0 103000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 136400 0 103000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 137500 0 103000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 103000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 135500 0 105000 0 54 16
+.PinName 2 135900 0 105000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 134400 0 105000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 135500 0 105000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 135500 0 105000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.con 1 137500 0 107000 0 53 32
+.PinName 3 137900 0 107000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.PinFunc "" 136400 0 107000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinLab "" 137500 0 107000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 107000 0 4 7 5 0 0 0 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 147500 0 97500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 147500 0 97500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@380 147500 0 97500 0 14 10 0 4 0 128 0 0 0 380 0 0
+.Art /@381 147500 0 97500 0 14 10 0 4 0 128 0 0 0 381 0 0
+.Func /@382 148500 0 97500 0 4 10 0 1 0 2 2 0 0 382 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 142500 0 105000 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 142500 0 105000 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@385 142500 0 105000 0 14 10 0 4 0 128 0 0 0 385 0 0
+.Art /@386 142500 0 105000 0 14 10 0 4 0 128 0 0 0 386 0 0
+.Func /@387 143500 0 105000 0 4 10 0 1 0 2 2 0 0 387 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 137500 0 110000 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 137500 0 110000 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@390 137500 0 110000 0 14 10 0 4 0 128 0 0 0 390 0 0
+.Art /@391 137500 0 110000 0 14 10 0 4 0 128 0 0 0 391 0 0
+.Func /@392 138500 0 110000 0 4 10 0 1 0 2 2 0 0 392 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 122500 0 170000 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 122500 0 170500 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 121500 0 170500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 124100 0 170500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 122500 0 170000 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 122500 0 168000 0 57 32
+.PinName 1 122100 0 168000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 123600 0 168000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 122500 0 168000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 122500 0 168000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 124500 0 170000 0 55 16
+.PinName 2 124100 0 170000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 125600 0 170000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 124500 0 170000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 124500 0 170000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 122500 0 172000 0 56 32
+.PinName 3 122100 0 172000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 123600 0 172000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 122500 0 172000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 122500 0 172000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 127500 0 162500 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 127500 0 163000 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 126500 0 163000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 129100 0 163000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 127500 0 162500 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 127500 0 160500 0 58 32
+.PinName 1 127100 0 160500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 128600 0 160500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 127500 0 160500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 160500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 129500 0 162500 0 59 16
+.PinName 2 129100 0 162500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 130600 0 162500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 129500 0 162500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 129500 0 162500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 127500 0 164500 0 60 32
+.PinName 3 127100 0 164500 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 128600 0 164500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 127500 0 164500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 164500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 132500 0 155000 0 1 250 32 0.400 0 0 250 0 0 4
+.Name "" 132500 0 155500 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 131500 0 155500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 134100 0 155500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 132500 0 155000 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 132500 0 153000 0 61 32
+.PinName 1 132100 0 153000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 133600 0 153000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 132500 0 153000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 153000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 134500 0 155000 0 62 16
+.PinName 2 134100 0 155000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 135600 0 155000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 134500 0 155000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 134500 0 155000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 132500 0 157000 0 63 32
+.PinName 3 132100 0 157000 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 133600 0 157000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 132500 0 157000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 157000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.Text STEP1 182500 0 92500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text </@902>¤¤</@902>¤¤ 182500 0 187500 1 4 25 0 0 0 0 0 0 0 902 0 0
 
 .end
 
