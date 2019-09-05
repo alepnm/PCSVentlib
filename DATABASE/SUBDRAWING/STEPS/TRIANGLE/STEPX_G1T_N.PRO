@@ -1,4 +1,4 @@
-﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\STEPS\STEP1_2GS.PRO V13.0 1 261 1327269575 '28-08-2019 16:54:10' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\STEPS\STEPX_G1T_N.PRO V13.0 1 261 1327388759 '30-08-2019 11:02:42' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Born 2 0 13.0 1323464808
 
 
@@ -33,17 +33,17 @@
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FieldVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .NAMEVis¤¤¤¤ 0 0 1250 0 0 25 14 0 0 0 0 0 0 0 0 0
-.DefText .TypInv¤¤¤¤ 0 2500 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .ArtInv¤¤¤¤ 0 -4000 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .NAMEVis¤¤¤¤ 1250 0 0 0 0 25 14 0 0 0 0 0 0 0 0 0
+.DefText .TypInv¤¤¤¤ 1250 0 2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .ArtInv¤¤¤¤ 1250 0 -4000 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FuncVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PINNAMEVis¤¤¤¤ 0 1000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PinFuncVis¤¤¤¤ 0 -2750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PINNAMEVis¤¤¤¤ 0 0 1000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinFuncVis¤¤¤¤ 0 0 -2750 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinLabInv¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinDesVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 4 18 0 0 0 0 0 0 0 0 0 0
 .DefText .XRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 .DefText .YRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 
@@ -87,74 +87,74 @@
 .PCsCADSymbol C:\PCSELCAD\BranchFig.sym -5000 -5000 5000 800 145 '30-03-2010 06:37:00' 32 V13.0
 .Title 1,1,1,1,2,0,1,1 1030
 .polyline 1 0 0 0 0 0 0 250 0 0 1
-.Point 0 0 0 -5000 0
-.Point 0 0 0 5000 0
+.Point 0 -5000 0 0 0
+.Point 0 5000 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 1
-.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
 .Point 0 0 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 2
+.Point 0 -5000 0 0 0
 .Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 2
-.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
 .Point 0 0 0 0 0
-.Point 0 0 0 5000 0
+.Point 0 5000 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 3
-.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
 .Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 3
-.Point 0 0 -5000 0 0
-.Point 0 0 0 5000 0
+.Point 0 0 0 -5000 0
+.Point 0 5000 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 4
+.Point 0 -5000 0 0 0
 .Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 4
-.Point 0 0 -5000 0 0
-.Point 0 0 0 5000 0
+.Point 0 0 0 -5000 0
+.Point 0 5000 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 5
-.Point 0 0 0 -5000 0
-.Point 0 0 0 5000 0
+.Point 0 -5000 0 0 0
+.Point 0 5000 0 0 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 5
-.Point 0 0 0 5000 0
-.Point 0 0 -5000 0 0
+.Point 0 5000 0 0 0
+.Point 0 0 0 -5000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 6
-.Point 0 0 0 5000 0
-.Point 0 0 0 -5000 0
+.Point 0 5000 0 0 0
+.Point 0 -5000 0 0 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 6
+.Point 0 -5000 0 0 0
 .Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
 .end
 .polyline 4096 0 0 0 0 0 0 250 0 0 7
-.Point 0 0 0 5000 0
+.Point 0 5000 0 0 0
 .Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 8
-.Point 0 0 0 -5000 0
+.Point 0 -5000 0 0 0
 .Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
 .end
 .arc 9 0 0 0 0 0 800 0 3600 100 0 0 1
-.arc 1 0 -5000 -5000 0 0 5000 0 900 250 0 0 7
-.arc 4096 0 -5000 5000 0 0 5000 900 1800 250 0 0 8
-.con 1 0 0 -5000 0 0 32
-.PinName 1 0 1000 -5000 0 4 18 12 0 0 128 0 0 0 0 0 0
-.con 1 0 -5000 0 0 0 16
-.PinName 2 0 -4000 0 0 4 18 12 0 0 128 0 0 0 0 0 0
-.con 1 0 0 5000 0 0 32
-.PinName 3 0 1000 5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.arc 1 -5000 0 -5000 0 0 5000 0 900 250 0 0 7
+.arc 4096 5000 0 -5000 0 0 5000 900 1800 250 0 0 8
+.con 1 -5000 0 0 0 0 32
+.PinName 1 -5000 0 1000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 0 0 -5000 0 0 16
+.PinName 2 0 0 -4000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 5000 0 0 0 0 32
+.PinName 3 5000 0 1000 0 4 18 12 0 0 128 0 0 0 0 0 0
 .end
 
 .PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym -750 -750 750 750 128 '04-03-2019 11:40:20' 15 V13.0
@@ -164,90 +164,275 @@
 .Name "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
 .Typ "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
 .Art "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
-.Func "" 0 1000 0 0 4 10 0 1 0 2 2 0 0 0 0 0
+.Func "" 0 0 1000 0 4 10 0 1 0 2 2 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
 .SingleRef "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
-.polyline 0 0 0 0 0 14 0 180 0 0 0
-.Point 0 0 -750 0 0
-.Point 0 0 750 0 0
-.end
 .polyline 0 0 0 0 0 14 0 180 0 0 0
 .Point 0 0 0 -750 0
 .Point 0 0 0 750 0
 .end
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 -750 0 0 0
+.Point 0 750 0 0 0
+.end
 .end
 
-.PCsCADSymbol C:\PCSELCAD\BranchFig?1.sym -5000 -5000 5000 800 145 '30-03-2010 07:37:00' 32 V13.0
-.Title 1,1,1,1,2,0,1,1 1030
-.polyline 1 0 0 0 0 0 0 250 0 0 1
-.Point 0 0 0 -5000 0
-.Point 0 0 0 5000 0
-.end
-.polyline 1 0 0 0 0 0 0 250 0 0 1
-.Point 0 0 -5000 0 0
-.Point 0 0 0 0 0
-.end
-.polyline 1 0 0 0 0 0 0 250 0 0 2
-.Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
-.end
-.polyline 4096 0 0 0 0 0 0 250 0 0 2
-.Point 0 0 -5000 0 0
-.Point 0 0 0 0 0
-.Point 0 0 0 5000 0
-.end
-.polyline 1 0 0 0 0 0 0 250 0 0 3
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\pe.SYM -3000 -10500 3000 0 128 '04-03-2019 11:40:20' 0 V13.0
+.Title PE 1033
+.Title 'Beskyttende jord (jordforbindelse)' 1030
+.Title 'Ochranné uzemnění' 1029
+.Name "" 2750 0 -1500 0 2 18 0 4 0 1 0 0 0 0 0 0
+.Typ "" 7000 0 -6000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 7000 0 -9000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 5000 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 7000 0 -5000 0 0 18 12 0 0 0 0 0 0 0 0 0
+.Text PE -1250 0 -10500 0 2 16 0 0 0 1 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
 .Point 0 0 0 -5000 0
 .Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
 .end
-.polyline 4096 0 0 0 0 0 0 250 0 0 3
-.Point 0 0 -5000 0 0
-.Point 0 0 0 5000 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -2500 0 -5000 0
+.Point 0 2500 0 -5000 0
 .end
-.polyline 1 0 0 0 0 0 0 250 0 0 4
-.Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -750 0 -7500 0
+.Point 0 750 0 -7500 0
 .end
-.polyline 4096 0 0 0 0 0 0 250 0 0 4
-.Point 0 0 -5000 0 0
-.Point 0 0 0 5000 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -1500 0 -6250 0
+.Point 0 1500 0 -6250 0
 .end
-.polyline 1 0 0 0 0 0 0 250 0 0 5
-.Point 0 0 0 -5000 0
-.Point 0 0 0 5000 0
+.arc 0 0 0 -5500 0 0 3000 0 3600 250 0 0 0
 .end
-.polyline 4096 0 0 0 0 0 0 250 0 0 5
-.Point 0 0 0 5000 0
-.Point 0 0 -5000 0 0
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM -500 500 500 -500 130 '13-12-2010 10:41:18' 10 V13.0
+.Title 'Signal symbol Reference symbol hidden in the line' 1033
+.Title 'Signalsymbol Henvisningssymbol, som er skjult i en streg' 1030
+.Name SIGNAL 1000 0 500 0 0 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" -2500 0 0 0 4 18 12 5 0 0 0 0 0 0 0 0
+.con 17 0 0 0 0 0 0
 .end
-.polyline 1 0 0 0 0 0 0 250 0 0 6
-.Point 0 0 0 5000 0
-.Point 0 0 0 -5000 0
+
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\sym\circuit_breaker_ppp.SYM -7250 -22500 7000 0 128 '06-03-2019 09:02:42' 0 V13.0
+.Title 'Three pole circuit disconnector with over-current release' 1033
+.Title 'Tre-polet motorværn, håndbetjent (drejehåndtag)' 1030
+.Name "" -15000 0 -7500 0 0 25 14 2 1800 0 0 0 0 0 0 0
+.Typ "" -10000 0 -20000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.Art "" -10000 0 -17500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" -12500 0 -15000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -12500 0 -12500 0 0 18 12 2 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -22500 0
+.Point 0 -5000 0 -18750 0
 .end
-.polyline 4096 0 0 0 0 0 0 250 0 0 6
-.Point 0 0 0 -5000 0
-.Point 0 0 -5000 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -22500 0
+.Point 0 0 0 -18750 0
 .end
-.polyline 4096 0 0 0 0 0 0 250 0 0 7
-.Point 0 0 0 5000 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -22500 0
+.Point 0 5000 0 -18750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -14750 0
+.Point 0 -5000 0 -13750 0
+.Point 0 -3250 0 -13750 0
+.Point 0 -3250 0 -12000 0
+.Point 0 -5000 0 -12000 0
+.Point 0 -5000 0 -10250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -14750 0
+.Point 0 0 0 -13750 0
+.Point 0 1750 0 -13750 0
+.Point 0 1750 0 -12000 0
+.Point 0 0 0 -12000 0
+.Point 0 0 0 -10250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -14750 0
+.Point 0 5000 0 -13750 0
+.Point 0 6750 0 -13750 0
+.Point 0 6750 0 -12000 0
+.Point 0 5000 0 -12000 0
+.Point 0 5000 0 -10250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -10250 0
+.Point 0 -7250 0 -5250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5750 0 -5750 0
+.Point 0 -5000 0 -5750 0
+.Point 0 -5000 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -750 0 -5750 0
+.Point 0 0 0 -5750 0
 .Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
 .end
-.polyline 1 0 0 0 0 0 0 250 0 0 8
-.Point 0 0 0 -5000 0
-.Point 0 0 0 0 0
-.Point 0 0 -5000 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 4250 0 -5750 0
+.Point 0 5000 0 -5750 0
+.Point 0 5000 0 0 0
 .end
-.arc 9 0 0 0 0 0 800 0 3600 100 0 0 1
-.arc 1 0 -5000 -5000 0 0 5000 0 900 250 0 0 7
-.arc 4096 0 -5000 5000 0 0 5000 900 1800 250 0 0 8
-.con 1 0 0 -5000 0 0 32
-.PinName 1 0 1000 -5000 0 4 18 12 0 0 128 0 0 0 0 0 0
-.con 1 0 -5000 0 0 0 16
-.PinName 2 0 -4000 0 0 4 18 12 0 0 128 0 0 0 0 0 0
-.con 1 0 0 5000 0 0 32
-.PinName 3 0 1000 5000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 9 250 0 0 0
+.Point 0 -5995 0 -8039 0
+.Point 0 4000 0 -8000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -10250 0
+.Point 0 -2250 0 -5250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -10250 0
+.Point 0 2750 0 -5250 0
+.end
+.arc 0 -5000 0 -16750 0 0 2000 2700 900 250 0 0 0
+.arc 0 0 0 -16750 0 0 2000 2700 900 250 0 0 0
+.arc 0 5000 0 -16750 0 0 2000 2700 900 250 0 0 0
+.con 1 -5000 0 0 0 0 0
+.PinName 1 -5750 0 -2250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" -5000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 -5000 0 -22500 0 0 0
+.PinName 2 -5500 0 -20000 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" -5000 0 -22500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0
+.PinName 3 -750 0 -2250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -22500 0 0 0
+.PinName 4 -500 0 -20000 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -22500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 0 0 0 0
+.PinName 5 4250 0 -2250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 5000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 -22500 0 0 0
+.PinName 6 4500 0 -20000 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 5000 0 -22500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM -1250 -1250 1250 1250 129 '08-03-2010 09:46:18' 11 V13.0
+.Title 'Terminal, DK standard (2 connections points)' 1033
+.Title 'Klemme, dansk symbol, udgået' 1030
+.Title 'Svorka, dánský standard, 2 připojovací body' 1029
+.Name X -2750 0 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" -2750 0 -2500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art "" -2750 0 -5250 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 64 -1250 0 -1250 0
+.Point 64 1250 0 1250 0
+.end
+.arc 1 0 0 0 0 0 1250 0 3600 250 0 0 0
+.con 17 0 0 1250 0 0 34
+.PinName 0 -750 0 2000 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 0 0 1250 0 4 18 12 1 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 0 1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.con 17 0 0 -1250 0 0 18
+.PinName 0 -750 0 -2000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinLab "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\H7313-02.SYM -8500 -7500 5000 7500 129 '08-03-2010 08:46:18' 4 V13.0
+.Title 'Three pole contactor (open in unoperated pos.)' 1033
+.Title 'Tre-polet kontaktor' 1030
+.Title '3 pólový kontakt stykače, v klidové poloze rozpojené' 1029
+.Name K -9000 0 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 6250 0 -2750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 6250 0 -5750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -7500 0
+.Point 0 -5000 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 2500 0
+.Point 0 -5000 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -2500 0
+.Point 0 -8500 0 3750 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -7500 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 -3500 0 3750 0
+.end
+.polyline 1 0 0 0 0 0 9 250 0 0 0
+.Point 0 -6369 0 -55 0
+.Point 64 3500 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -7500 0
+.Point 0 5000 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 2500 0
+.Point 0 5000 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -2500 0
+.Point 0 1500 0 3750 0
+.end
+.arc 1 -5000 0 3500 0 0 1000 900 2700 250 0 0 0
+.arc 1 0 0 3500 0 0 1000 900 2700 250 0 0 0
+.arc 1 5000 0 3500 0 0 1000 900 2700 250 0 0 0
+.con 1 -5000 0 7500 0 0 0
+.PinName 1 -5750 0 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" -5000 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 -5000 0 -7500 0 0 0
+.PinName 2 -5750 0 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" -5000 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -5000 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -5000 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 7500 0 0 0
+.PinName 3 -750 0 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -7500 0 0 0
+.PinName 4 -750 0 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 7500 0 0 0
+.PinName 5 4250 0 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 5000 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 5000 0 -7500 0 0 0
+.PinName 6 4250 0 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 5000 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 5000 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 5000 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
 .end
 
 .PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM -2500 -2500 2500 2500 160 '06-12-2010 13:27:54' 28 V13.0
@@ -258,12 +443,12 @@
 .Art "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .Func "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .polyline 0 0 0 0 0 14 0 250 0 0 0
-.Point 0 0 -2500 0 0
-.Point 0 0 2500 0 0
-.end
-.polyline 0 0 0 0 0 14 0 250 0 0 0
 .Point 0 0 0 -2500 0
 .Point 0 0 0 2500 0
+.end
+.polyline 0 0 0 0 0 14 0 250 0 0 0
+.Point 0 -2500 0 0 0
+.Point 0 2500 0 0 0
 .end
 .end
 
@@ -272,469 +457,752 @@
 .Title Varmelegeme 1030
 .Title 'Rezistor topný' 1029
 .Name "" 0 0 0 0 4 25 0 4 0 0 0 0 0 0 0 0
-.Typ "" 0 -2250 0 0 4 18 12 7 0 0 0 0 0 0 0 0
-.Art "" 0 -5000 0 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Typ "" 0 0 -2250 0 4 18 12 7 0 0 0 0 0 0 0 0
+.Art "" 0 0 -5000 0 4 18 12 7 0 0 0 0 0 0 0 0
 .Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef "" 0 -1250 0 0 4 25 0 1 0 0 0 0 0 0 0 0
+.SingleRef "" 0 0 -1250 0 4 25 0 1 0 0 0 0 0 0 0 0
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 192 0 2000 -5250 0
-.Point 192 0 2000 5250 0
+.Point 192 -5250 0 2000 0
+.Point 192 5250 0 2000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -2000 5250 0
-.Point 0 0 2000 5250 0
+.Point 0 5250 0 -2000 0
+.Point 0 5250 0 2000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -2000 -5250 0
-.Point 0 0 -2000 5250 0
+.Point 0 -5250 0 -2000 0
+.Point 0 5250 0 -2000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 -2000 -5250 0
-.Point 0 0 2000 -5250 0
+.Point 0 -5250 0 -2000 0
+.Point 0 -5250 0 2000 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 0 -7500 0
-.Point 0 0 0 -5250 0
+.Point 0 -7500 0 0 0
+.Point 0 -5250 0 0 0
 .end
 .polyline 1 0 0 0 0 0 0 250 0 0 0
-.Point 0 0 0 5250 0
-.Point 0 0 0 7500 0
+.Point 0 5250 0 0 0
+.Point 0 7500 0 0 0
 .end
 .polyline 0 0 0 0 0 15 0 180 0 0 0
-.Point 0 0 -2000 0 0
-.Point 0 0 2000 0 0
+.Point 0 0 0 -2000 0
+.Point 0 0 0 2000 0
 .end
 .polyline 0 0 0 0 0 15 0 180 0 0 0
-.Point 192 0 -2000 -2750 0
-.Point 192 0 2000 -2750 0
+.Point 192 -2750 0 -2000 0
+.Point 192 -2750 0 2000 0
 .end
 .polyline 0 0 0 0 0 15 0 180 0 0 0
-.Point 0 0 -2000 2750 0
-.Point 0 0 2000 2750 0
+.Point 0 2750 0 -2000 0
+.Point 0 2750 0 2000 0
 .end
-.con 1 0 0 -7500 0 0 0
-.PinName 1 0 750 -7000 0 4 18 12 2 0 128 0 0 0 0 0 0
-.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
-.con 1 0 0 7500 0 0 0
-.PinName 2 0 750 7000 0 4 18 12 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
-.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
-.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 -7500 0 0 0 0 0
+.PinName 1 -7000 0 750 0 4 18 12 2 0 128 0 0 0 0 0 0
+.PinFunc "" -7500 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" -7500 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" -7500 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 7500 0 0 0 0 0
+.PinName 2 7000 0 750 0 4 18 12 0 0 128 0 0 0 0 0 0
+.PinFunc "" 7500 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 7500 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 7500 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\07-15N01.SYM -5000 -5000 5000 5000 129 '08-03-2010 08:46:18' 0 V13.0
+.Title 'Operating device without make/break cross' 1033
+.Title 'Aktiveringsspole (relæspole UDEN slutte/bryde kors)' 1030
+.Title 'Ovládací prvek bez propojení' 1029
+.Name K -6000 0 2500 0 0 25 14 2 0 0 0 0 0 0 0 0
+.Typ "" 6000 0 2500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 6000 0 -2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 2500 0
+.Point 0 5000 0 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 5000 0 -2500 0
+.Point 0 5000 0 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -2500 0
+.Point 0 5000 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 0 -2500 0
+.Point 0 -5000 0 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -5000 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 5000 0
+.end
+.con 1 0 0 5000 0 0 0
+.PinName A1 -750 0 3250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 5000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -5000 0 0 0
+.PinName A2 -750 0 -3250 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -5000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -5000 0 4 18 0 0 0 0 0 0 0 0 0 0
 .end
 
 
-.PageNo 1 1 '28-08-2019 16:54:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.PageNo 1 1 '30-08-2019 11:02:42' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Born 2 0 13.0 1323464808
 
 
 .AppData [ModelTag]
 .AppData Tag=/@980
 .AppData [TagValues]
-.AppData Titles=6.0kW/230V/S;9.0kW/230V/S;12kW/230V/S;15kW/230V/S;18kW/230V/S
-.AppData 5=HE1;HE1;HE1;HE1;HE1
-.AppData 6=1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V;3.0kW/230V
-.AppData 7=ZKE038;ZKES001;ZKES001;ZKES002;ZKES002
-.AppData '8=1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V;"3.0 kW/230V"'
-.AppData 9=HE2;HE2;HE2;HE2;HE2
-.AppData 10=1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V;3.0kW/230V
-.AppData 11=ZKE038;ZKES001;ZKES001;ZKES002;ZKES002
-.AppData '12=1.0kW/230V;2.0kW/230V;2.0kW/230V;"3.0 kW/230V";"3.0 kW/230V"'
-.AppData 13=HE3;HE3;HE3;HE3;HE3
-.AppData 14=1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V;3.0kW/230V
-.AppData 15=ZKE038;ZKES001;ZKES001;ZKES002;ZKES002
-.AppData 16=1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V;3.0kW/230V
-.AppData 17=HE4;HE4;HE4;HE4;HE4
-.AppData 18=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData 19=ZKE038;ZKE038;ZKES001;ZKES001;ZKES002
-.AppData 20=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData 21=HE5;HE5;HE5;HE5;HE5
-.AppData 22=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData 23=ZKE038;ZKE038;ZKES001;ZKES001;ZKES002
-.AppData 24=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData 25=HE6;HE6;HE6;HE6;HE6
-.AppData 26=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData 27=ZKE038;ZKE038;ZKES001;ZKES001;ZKES002
-.AppData 28=1.0kW/230V;1.0kW/230V;2.0kW/230V;2.0kW/230V;3.0kW/230V
-.AppData '310="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 311=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 312=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '313="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 314=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 315=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '316="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 317=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 318=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '319="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 320=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 321=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '322="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 323=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 324=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '325="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 326=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 327=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData '328="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 2.5"'
-.AppData 329=ZLAL071;ZLAL071;ZLAL071;ZLAL071;ZLAL071
-.AppData 330=BL/2.5;BL/2.5;BL/2.5;BL/2.5;BL/2.5
-.AppData 902=6;9;12;15;18
+.AppData Titles=6kW/230V;9kW/230V;3kW/400V;4.5kW/400V
+.AppData 5=HE1;HE1;HE1;HE1
+.AppData 6=2.0kW/230V;3.0kW/230V;1.0kW/400V;1.5kW/400V
+.AppData 7=ZKES001;ZKES002;ZKE039;ZKE037
+.AppData 10=HE2;HE2;HE2;HE2
+.AppData 11=2.0kW/230V;3.0kW/230V;1.0kW/400V;1.5kW/400V
+.AppData 12=ZKES001;ZKES002;ZKE039;ZKE037
+.AppData 15=HE3;HE3;HE3;HE3
+.AppData 16=2.0kW/230V;3.0kW/230V;1.0kW/400V;1.5kW/400V
+.AppData 17=ZKES001;ZKES002;ZKE039;ZKE037
+.AppData 100=K1;K1;K1;K1
+.AppData 101=NC1123P10-230;NC1183P10-230;NC1123P10-230;NC1123P10-230
+.AppData 102=ZRL002;ZRL003;ZRL002;ZRL002
+.AppData 103=12A;18A;12A;12A
+.AppData 105=K1;K1;K1;K1
+.AppData 106=NC1123P10-230;NC1183P10-230;NC1123P10-230;NC1123P10-230
+.AppData 107=ZRL002;ZRL003;ZRL002;ZRL002
+.AppData 200=X2;X2;X2;X2
+.AppData 202=ZAJ423;ZAJ423;ZAJ423;ZAJ423
+.AppData 203=PE;PE;PE;PE
+.AppData 204=1;1;1;1
+.AppData 205=X2;X2;X2;X2
+.AppData 207=ZAJ423;ZAJ423;ZAJ423;ZAJ423
+.AppData 208=N;N;N;N
+.AppData 209=2;2;2;2
+.AppData 215=X2;X2;X2;X2
+.AppData 217=ZAJ423;ZAJ423;ZAJ423;ZAJ423
+.AppData 218=L1;L1;L1;L1
+.AppData 219=3;3;3;3
+.AppData 220=X2;X2;X2;X2
+.AppData 222=ZAJ423;ZAJ423;ZAJ423;ZAJ423
+.AppData 223=L2;L2;L2;L2
+.AppData 224=4;4;4;4
+.AppData 225=X2;X2;X2;X2
+.AppData 227=ZAJ423;ZAJ423;ZAJ423;ZAJ423
+.AppData 228=L3;L3;L3;L3
+.AppData 229=5;5;5;5
+.AppData '301="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 1.5";"H07Z-K 1.5"'
+.AppData 302=ZLAL071;ZLAL071;ZLAL078;ZLAL078
+.AppData 303=BL/2.5;BL/2.5;BL/1.5;BL/1.5
+.AppData '305="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 1.5";"H07Z-K 1.5"'
+.AppData 306=ZLAL071;ZLAL071;ZLAL078;ZLAL078
+.AppData 307=BL/2.5;BL/2.5;BL/1.5;BL/1.5
+.AppData '310="H07Z-K 2.5";"H07Z-K 2.5";"H07Z-K 1.5";"H07Z-K 1.5"'
+.AppData 311=ZLAL071;ZLAL071;ZLAL078;ZLAL078
+.AppData 312=BL/2.5;BL/2.5;BL/1.5;BL/1.5
+.AppData '390="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 391=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 392=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData '395="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 396=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 397=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData '400="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 401=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 402=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData '450="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 451=ZLAL082;ZLAL086;ZLAL080;ZLAL080
+.AppData 452=YG/6.0;YG/16;YG/2.5;YG/2.5
+.AppData '460="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 461=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 462=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData '465="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 466=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 467=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData '470="H07Z-K 6.0";"H07Z-K 16.0";"H07Z-K 2.5";"H07Z-K 2.5"'
+.AppData 471=ZLAL074;ZLAL085;ZLAL071;ZLAL071
+.AppData 472=BL/6.0;BL/16;BL/2.5;BL/2.5
+.AppData 901=STEP1;STEP1;STEP1;STEP1
+.AppData '904="6.0 kW";"9.0 kW";"3.0 kW";"4.5 kW"'
+.AppData 905=230VAC;230VAC;400VAC;400VAC
 
 .Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 57500 30000
 
 .polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 175000 97500 2
-.Point 0 0 180000 97500 0
-.Point 1 0 180000 103000 1
+.Point 0 127500 0 100000 1
+.Point 0 127500 0 71250 2
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 1 0 180000 132000 6
-.Point 0 0 180000 137500 0
-.Point 0 0 175000 137500 9
+.Point 0 132500 0 100000 3
+.Point 0 132500 0 71250 4
 .end
 .polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 175000 130000 11
-.Point 0 0 178000 130000 7
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 175000 122500 13
-.Point 0 0 180000 122500 0
-.Point 1 0 180000 128000 5
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 1 0 180000 107000 3
-.Point 0 0 180000 112500 0
-.Point 0 0 175000 112500 15
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 175000 105000 17
-.Point 0 0 178000 105000 4
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 160000 122500 14
-.Point 1 0 147500 122500 0
-.Point 1 0 147500 99500 20
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 160000 130000 12
-.Point 1 0 142500 130000 0
-.Point 1 0 142500 107000 23
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 160000 137500 10
-.Point 1 0 137500 137500 0
-.Point 1 0 137500 114500 26
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 1 0 149500 97500 19
-.Point 0 0 160000 97500 8
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 147500 85000 0
-.Point 0 0 147500 95500 21
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 1 0 144500 105000 22
-.Point 0 0 160000 105000 18
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 142500 103000 24
-.Point 0 0 142500 85000 0
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 1 0 139500 112500 25
-.Point 0 0 160000 112500 16
-.end
-.polyline 128 0 0 0 1 0 0 250 0 0 0
-.Point 0 0 137500 110500 27
-.Point 0 0 137500 85000 0
+.Point 0 137500 0 100000 5
+.Point 0 137500 0 71250 6
 .end
 .polyline 128 0 0 0 1 15 1 250 0 0 0
-.Point 0 0 190000 87500 0
-.Point 0 0 190000 145000 0
-.Point 0 0 132500 145000 0
-.Point 0 0 132500 87500 0
-.Point 1 0 190000 87500 0
+.Point 0 100000 0 195000 7
+.Point 0 142500 0 195000 0
+.Point 0 142500 0 150000 0
+.Point 0 100000 0 150000 0
+.Point 0 100000 0 195000 7
+.end
+.polyline 128 0 0 0 1 0 10 250 0 0 0
+.Point 0 107500 0 82500 8
+.Point 0 107500 0 90000 0
+.Point 0 117500 0 90000 0
+.Point 0 117500 0 71250 9
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 127500 0 62500 10
+.Point 0 127500 0 68750 11
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 132500 0 62500 12
+.Point 0 132500 0 68750 13
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 137500 0 62500 14
+.Point 0 137500 0 68750 15
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 127500 0 40000 17
+.Point 0 127500 0 35000 16
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 132500 0 40000 19
+.Point 0 132500 0 35000 18
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 137500 0 40000 21
+.Point 0 137500 0 35000 20
+.end
+.polyline 128 0 0 0 1 4 10 250 0 0 0
+.Point 0 117500 0 68750 23
+.Point 0 117500 0 35000 22
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 112500 0 112500 24
+.Point 0 112500 0 120000 25
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 107500 0 167500 29
+.Point 1 107500 0 164500 36
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 117500 0 167500 30
+.Point 1 117500 0 159500 42
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 107500 0 182500 32
+.Point 0 107500 0 185000 0
+.Point 0 112500 0 185000 0
+.Point 1 112500 0 154500 39
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 109500 0 162500 35
+.Point 1 122500 0 162500 0
+.Point 0 122500 0 185000 0
+.Point 0 117500 0 185000 0
+.Point 0 117500 0 182500 33
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 114500 0 152500 38
+.Point 1 127500 0 152500 0
+.Point 0 127500 0 167500 31
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 119500 0 157500 41
+.Point 1 132500 0 157500 0
+.Point 0 132500 0 185000 0
+.Point 0 127500 0 185000 0
+.Point 0 127500 0 182500 34
+.end
+.polyline 128 0 0 0 1 4 0 250 0 0 0
+.Point 0 122500 0 68750 45
+.Point 0 122500 0 35000 46
+.end
+.polyline 128 0 0 0 1 4 0 250 0 0 0
+.Point 0 122500 0 71250 47
+.Point 0 122500 0 95000 48
+.end
+.polyline 128 0 0 0 1 4 0 250 0 0 0
+.Point 0 122500 0 95000 48
+.Point 0 112500 0 95000 0
+.Point 0 112500 0 102500 44
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 127500 0 115000 26
+.Point 1 127500 0 130000 0
+.Point 0 107500 0 130000 0
+.Point 0 107500 0 160500 37
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 132500 0 115000 27
+.Point 1 132500 0 135000 0
+.Point 0 112500 0 135000 0
+.Point 0 112500 0 150500 40
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 137500 0 115000 28
+.Point 1 137500 0 140000 0
+.Point 0 117500 0 140000 0
+.Point 0 117500 0 155500 43
 .end
 
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 0 190000 85000 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 0 190000 85000 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 0 190000 85000 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 0 190000 85000 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 0 190000 85000 0 4 18 12 4 0 144 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 97500 0 195000 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 97500 0 195000 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 97500 0 195000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 97500 0 195000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 97500 0 195000 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 0 190000 147500 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 0 190000 147500 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 0 190000 147500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 0 190000 147500 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 0 190000 147500 0 4 18 12 4 0 144 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 145000 0 195000 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 145000 0 195000 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 145000 0 195000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 145000 0 195000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 145000 0 195000 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 155000 122500 900 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 155000 122500 0 14 10 0 4 900 528 0 0 0 0 0 0
-.Typ /@310 0 155000 122500 0 14 10 0 4 900 0 0 0 0 310 0 0
-.Art /@311 0 155000 122500 0 14 10 0 4 900 0 0 0 0 311 0 0
-.Func /@312 0 155000 121500 0 4 10 0 1 900 2 2 0 0 312 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\pe.SYM 0 107500 0 82500 0 1 0 0 1 0 1 0 0 0 0
+.Name "" 110250 0 81000 0 2 18 0 4 0 529 0 0 0 0 0 0
+.Typ "" 114500 0 76500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 114500 0 73500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 112500 0 75000 0 4 18 0 0 0 16 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 180000 110000 0 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 180000 110000 0 14 10 0 4 0 656 0 0 0 0 0 0
-.Typ /@322 0 180000 110000 0 14 10 0 4 0 128 0 0 0 322 0 0
-.Art /@323 0 180000 110000 0 14 10 0 4 0 128 0 0 0 323 0 0
-.Func /@324 0 181000 110000 0 4 8 0 1 0 2 2 0 0 324 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 122500 0 152500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 122500 0 152500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@310 122500 0 152500 0 14 10 0 4 0 128 0 0 0 310 0 0
+.Art /@311 122500 0 152500 0 14 10 0 4 0 128 0 0 0 311 0 0
+.Func /@312 122500 0 153500 0 4 10 0 1 0 2 2 0 0 312 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 180000 135000 0 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 180000 135000 0 14 10 0 4 0 656 0 0 0 0 0 0
-.Typ /@328 0 180000 135000 0 14 10 0 4 0 128 0 0 0 328 0 0
-.Art /@329 0 180000 135000 0 14 10 0 4 0 128 0 0 0 329 0 0
-.Func /@330 0 181000 135000 0 4 8 0 1 0 2 2 0 0 330 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 117500 0 80000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 117500 0 80000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@450 117500 0 80000 0 14 10 0 4 900 128 0 0 0 450 0 0
+.Art /@451 117500 0 80000 0 14 10 0 4 900 128 0 0 0 451 0 0
+.Func /@452 116500 0 80000 0 4 10 0 1 900 2 2 0 0 452 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 180000 125000 0 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 180000 125000 0 14 10 0 4 0 656 0 0 0 0 0 0
-.Typ /@325 0 180000 125000 0 14 10 0 4 0 128 0 0 0 325 0 0
-.Art /@326 0 180000 125000 0 14 10 0 4 0 128 0 0 0 326 0 0
-.Func /@327 0 181000 125000 0 4 8 0 1 0 2 2 0 0 327 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 127500 0 80000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 127500 0 80000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@460 127500 0 80000 0 14 10 0 4 900 128 0 0 0 460 0 0
+.Art /@461 127500 0 80000 0 14 10 0 4 900 128 0 0 0 461 0 0
+.Func /@462 126500 0 80000 0 4 10 0 1 900 2 2 0 0 462 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 155000 130000 900 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 155000 130000 0 14 10 0 4 900 528 0 0 0 0 0 0
-.Typ /@313 0 155000 130000 0 14 10 0 4 900 0 0 0 0 313 0 0
-.Art /@314 0 155000 130000 0 14 10 0 4 900 0 0 0 0 314 0 0
-.Func /@315 0 155000 129000 0 4 10 0 1 900 2 2 0 0 315 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 115000 0 162500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 115000 0 162500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@301 115000 0 162500 0 14 10 0 4 0 128 0 0 0 301 0 0
+.Art /@302 115000 0 162500 0 14 10 0 4 0 128 0 0 0 302 0 0
+.Func /@303 115000 0 163500 0 4 10 0 1 0 2 2 0 0 303 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 180000 100000 0 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 180000 100000 0 14 10 0 4 0 656 0 0 0 0 0 0
-.Typ /@319 0 180000 100000 0 14 10 0 4 0 128 0 0 0 319 0 0
-.Art /@320 0 180000 100000 0 14 10 0 4 0 128 0 0 0 320 0 0
-.Func /@321 0 181000 100000 0 4 8 0 1 0 2 2 0 0 321 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 137500 0 80000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 137500 0 80000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@470 137500 0 80000 0 14 10 0 4 900 128 0 0 0 470 0 0
+.Art /@471 137500 0 80000 0 14 10 0 4 900 128 0 0 0 471 0 0
+.Func /@472 136500 0 80000 0 4 10 0 1 900 2 2 0 0 472 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 155000 137500 900 1 0 15 1 0 0 1 0 0 0
-.Name "" 0 155000 137500 0 14 10 0 4 900 528 0 0 0 0 0 0
-.Typ /@316 0 155000 137500 0 14 10 0 4 900 0 0 0 0 316 0 0
-.Art /@317 0 155000 137500 0 14 10 0 4 900 0 0 0 0 317 0 0
-.Func /@318 0 155000 136500 0 4 10 0 1 900 2 2 0 0 318 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 122500 0 157500 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 122500 0 157500 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ /@305 122500 0 157500 0 14 10 0 4 0 128 0 0 0 305 0 0
+.Art /@306 122500 0 157500 0 14 10 0 4 0 128 0 0 0 306 0 0
+.Func /@307 122500 0 158500 0 4 10 0 1 0 2 2 0 0 307 0 0
 .end
 
-.com C:\PCSELCAD\BranchFig?1.sym 0 0 180000 105000 0 1 250 32 0.400 0 0 250 0 0 4
-.Name "" 0 180000 105500 0 0 10 6 0 0 16 0 0 0 0 0 0
-.Typ "" 0 181000 105500 0 4 7 5 0 0 0 0 0 0 0 0 0
-.Art "" 0 178400 105500 0 4 7 5 0 0 0 0 0 0 0 0 0
-.Func "" 0 180000 105000 0 4 7 5 0 0 16 0 0 0 0 0 0
-.con 1 0 180000 103000 0 1 32
-.PinName 1 0 180400 103000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 178900 103000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 180000 103000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 180000 103000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.con 1 0 178000 105000 0 4 16
-.PinName 2 0 178400 105000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 176900 105000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 178000 105000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 178000 105000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.con 1 0 180000 107000 0 3 32
-.PinName 3 0 180400 107000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 178900 107000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 180000 107000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 180000 107000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 132500 0 80000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 132500 0 80000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@465 132500 0 80000 0 14 10 0 4 900 128 0 0 0 465 0 0
+.Art /@466 132500 0 80000 0 14 10 0 4 900 128 0 0 0 466 0 0
+.Func /@467 131500 0 80000 0 4 10 0 1 900 2 2 0 0 467 0 0
 .end
 
-.com C:\PCSELCAD\BranchFig?1.sym 0 0 180000 130000 0 1 250 32 0.400 0 0 250 0 0 4
-.Name "" 0 180000 130500 0 0 10 6 0 0 16 0 0 0 0 0 0
-.Typ "" 0 181000 130500 0 4 7 5 0 0 0 0 0 0 0 0 0
-.Art "" 0 178400 130500 0 4 7 5 0 0 0 0 0 0 0 0 0
-.Func "" 0 180000 130000 0 4 7 5 0 0 16 0 0 0 0 0 0
-.con 1 0 180000 128000 0 5 32
-.PinName 1 0 180400 128000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 178900 128000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 180000 128000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 180000 128000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.con 1 0 178000 130000 0 7 16
-.PinName 2 0 178400 130000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 176900 130000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 178000 130000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 178000 130000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.con 1 0 180000 132000 0 6 32
-.PinName 3 0 180400 132000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinFunc "" 0 178900 132000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinLab "" 0 180000 132000 0 4 7 5 0 0 128 0 0 0 0 0 0
-.PinDes "" 0 180000 132000 0 4 7 5 0 0 128 0 0 0 0 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 107500 0 175000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@5 107500 0 175000 0 4 25 0 4 900 512 0 0 0 5 0 0
+.Typ /@6 109750 0 175000 0 4 10 0 7 900 16384 0 0 0 6 0 0
+.Art /@7 112500 0 175000 0 4 18 12 7 900 128 0 0 0 7 0 0
+.Func "" 109900 0 174800 0 4 10 0 7 900 144 0 0 0 0 0 0
+.con 1 107500 0 167500 0 29 0
+.PinName 1 106750 0 168000 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 107500 0 167500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 107500 0 167500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 107500 0 167500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 107500 0 182500 0 32 0
+.PinName 2 106750 0 182000 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 107500 0 182500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 107500 0 182500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 107500 0 182500 0 4 18 0 0 900 16 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 97500 900 1 250 0 1 0 1 1 0 0 0
-.Name /@5 0 167500 97500 0 4 25 0 4 900 512 0 0 0 5 0 0
-.Typ /@6 0 167500 99750 0 4 10 0 7 900 16384 0 0 0 6 0 0
-.Art /@7 0 167500 102500 0 4 18 12 7 900 128 0 0 0 7 0 0
-.Func /@8 0 167300 99900 0 4 10 0 7 900 128 0 0 0 8 0 0
-.con 1 0 160000 97500 0 8 0
-.PinName 1 0 160500 96750 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 97500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 97500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 97500 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 97500 0 2 0
-.PinName 2 0 174500 96750 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 97500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 97500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 97500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 117500 0 175000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@10 117500 0 175000 0 4 25 0 4 900 512 0 0 0 10 0 0
+.Typ /@11 119750 0 175000 0 4 10 0 7 900 16384 0 0 0 11 0 0
+.Art /@12 122500 0 175000 0 4 18 12 7 900 128 0 0 0 12 0 0
+.Func "" 117500 0 175000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 117500 0 167500 0 30 0
+.PinName 1 116750 0 168000 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 117500 0 167500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 117500 0 167500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 117500 0 167500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 117500 0 182500 0 33 0
+.PinName 2 116750 0 182000 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 117500 0 182500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 117500 0 182500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 117500 0 182500 0 4 18 0 0 900 16 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 105000 900 1 250 0 1 0 1 1 0 0 0
-.Name /@9 0 167500 105000 0 4 25 0 4 900 512 0 0 0 9 0 0
-.Typ /@10 0 167500 107250 0 4 10 0 7 900 16384 0 0 0 10 0 0
-.Art /@11 0 167500 110000 0 4 18 12 7 900 128 0 0 0 11 0 0
-.Func /@12 0 167500 105000 0 4 18 0 0 900 128 0 0 0 12 0 0
-.con 1 0 160000 105000 0 18 0
-.PinName 1 0 160500 104250 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 105000 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 105000 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 105000 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 105000 0 17 0
-.PinName 2 0 174500 104250 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 105000 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 105000 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 105000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 127500 0 175000 900 1 250 0 1 0 1 1 0 0 0
+.Name /@15 127500 0 175000 0 4 25 0 4 900 512 0 0 0 15 0 0
+.Typ /@16 129750 0 175000 0 4 10 0 7 900 16384 0 0 0 16 0 0
+.Art /@17 132500 0 175000 0 4 18 12 7 900 128 0 0 0 17 0 0
+.Func "" 127500 0 175000 0 4 18 0 0 900 144 0 0 0 0 0 0
+.con 1 127500 0 167500 0 31 0
+.PinName 1 126750 0 168000 0 14 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 127500 0 167500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 127500 0 167500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 127500 0 167500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.con 1 127500 0 182500 0 34 0
+.PinName 2 126750 0 182000 0 14 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 127500 0 182500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 127500 0 182500 0 4 18 0 0 900 0 0 0 0 0 0 0
+.PinDes "" 127500 0 182500 0 4 18 0 0 900 16 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 112500 900 1 250 0 1 0 1 1 0 0 0
-.Name /@13 0 167500 112500 0 4 25 0 4 900 512 0 0 0 13 0 0
-.Typ /@14 0 167500 114750 0 4 10 0 7 900 16384 0 0 0 14 0 0
-.Art /@15 0 167500 117500 0 4 18 12 7 900 128 0 0 0 15 0 0
-.Func /@16 0 167500 112500 0 4 18 0 0 900 128 0 0 0 16 0 0
-.con 1 0 160000 112500 0 16 0
-.PinName 1 0 160500 111750 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 112500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 112500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 112500 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 112500 0 15 0
-.PinName 2 0 174500 111750 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 112500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 112500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 112500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\EN60617\H7313-02.SYM 0 132500 0 107500 0 1 250 4 1 0 1 1 0 0 0
+.Name /@100 142500 0 112500 0 0 25 14 5 1800 512 0 0 0 100 0 0
+.Typ /@101 138750 0 104750 0 4 18 12 6 0 0 0 0 0 101 0 0
+.Art /@102 138750 0 101750 0 4 18 12 6 0 0 0 0 0 102 0 0
+.Func /@103 142500 0 107500 0 4 18 0 0 0 0 0 0 0 103 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 123500 0 104500 0 0 18 12 5 0 16 0 0 0 0 0 0
+.con 1 127500 0 115000 0 26 0
+.PinName 2 126750 0 112500 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 127500 0 115000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 127500 0 115000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 115000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 127500 0 100000 0 1 0
+.PinName 1 126750 0 104000 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 127500 0 100000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 127500 0 100000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 100000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 132500 0 115000 0 27 0
+.PinName 4 131750 0 112500 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 132500 0 115000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 132500 0 115000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 115000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 132500 0 100000 0 3 0
+.PinName 3 131750 0 104000 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 132500 0 100000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 132500 0 100000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 100000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 137500 0 115000 0 28 0
+.PinName 6 136750 0 112500 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 137500 0 115000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 137500 0 115000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 115000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 137500 0 100000 0 5 0
+.PinName 5 136750 0 104000 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 137500 0 100000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 137500 0 100000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 100000 0 4 18 0 0 0 16 0 0 0 0 0 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 122500 900 1 250 0 1 0 1 1 0 0 0
-.Name /@17 0 167500 122500 0 4 25 0 4 900 512 0 0 0 17 0 0
-.Typ /@18 0 167500 124750 0 4 10 0 7 900 16384 0 0 0 18 0 0
-.Art /@19 0 167500 127500 0 4 18 12 7 900 128 0 0 0 19 0 0
-.Func /@20 0 167500 122500 0 4 18 0 0 900 128 0 0 0 20 0 0
-.con 1 0 160000 122500 0 14 0
-.PinName 1 0 160500 121750 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 122500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 122500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 122500 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 122500 0 13 0
-.PinName 2 0 174500 121750 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 122500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 122500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 122500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 127500 0 35000 900 1 0 10 1 0 1 0 0 0 0
+.Name L1 127000 0 36000 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 127500 0 32500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 127500 0 35000 0 16 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 130000 900 1 250 0 1 0 1 1 0 0 0
-.Name /@21 0 167500 130000 0 4 25 0 4 900 512 0 0 0 21 0 0
-.Typ /@22 0 167500 132250 0 4 10 0 7 900 16384 0 0 0 22 0 0
-.Art /@23 0 167500 135000 0 4 18 12 7 900 128 0 0 0 23 0 0
-.Func /@24 0 167500 130000 0 4 18 0 0 900 128 0 0 0 24 0 0
-.con 1 0 160000 130000 0 12 0
-.PinName 1 0 160500 129250 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 130000 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 130000 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 130000 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 130000 0 11 0
-.PinName 2 0 174500 129250 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 130000 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 130000 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 130000 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 132500 0 35000 900 1 0 10 1 0 1 0 0 0 0
+.Name L2 132000 0 36000 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 132500 0 32500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 132500 0 35000 0 18 0
 .end
 
-.com C:\Working\Git\PCSVentlib\USERLIB\HEATER_SIMPLE_BIG.SYM 0 0 167500 137500 900 1 250 0 1 0 1 1 0 0 0
-.Name /@25 0 167500 137500 0 4 25 0 4 900 512 0 0 0 25 0 0
-.Typ /@26 0 167500 139750 0 4 10 0 7 900 16384 0 0 0 26 0 0
-.Art /@27 0 167500 142500 0 4 18 12 7 900 128 0 0 0 27 0 0
-.Func /@28 0 167500 137500 0 4 18 0 0 900 128 0 0 0 28 0 0
-.con 1 0 160000 137500 0 10 0
-.PinName 1 0 160500 136750 0 14 18 12 2 900 0 0 0 0 0 0 0
-.PinFunc "" 0 160000 137500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 160000 137500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 160000 137500 0 4 18 0 0 900 16 0 0 0 0 0 0
-.con 1 0 175000 137500 0 9 0
-.PinName 2 0 174500 136750 0 14 18 12 0 900 0 0 0 0 0 0 0
-.PinFunc "" 0 175000 137500 0 4 18 12 0 900 16 0 0 0 0 0 0
-.PinLab "" 0 175000 137500 0 4 18 0 0 900 0 0 0 0 0 0 0
-.PinDes "" 0 175000 137500 0 4 18 0 0 900 16 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 137500 0 35000 900 1 0 10 1 0 1 0 0 0 0
+.Name L3 137000 0 36000 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 137500 0 32500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 137500 0 35000 0 20 0
 .end
 
-.com C:\PCSELCAD\BranchFig.sym 64 0 147500 97500 0 1 250 32 0.400 0 0 250 0 0 4
-.Name "" 0 147500 98000 0 0 10 6 6 0 16 0 0 0 0 0 0
-.Typ "" 0 146500 98000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Art "" 0 149100 98000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Func "" 0 147500 97500 0 4 7 5 6 0 16 0 0 0 0 0 0
-.con 1 0 147500 95500 0 21 32
-.PinName 1 0 147100 95500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 148600 95500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 147500 95500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 147500 95500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 149500 97500 0 19 16
-.PinName 2 0 149100 97500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 150600 97500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 149500 97500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 149500 97500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 147500 99500 0 20 32
-.PinName 3 0 147100 99500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 148600 99500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 147500 99500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 147500 99500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 117500 0 35000 900 1 0 10 1 0 1 0 0 0 0
+.Name PE 117000 0 36000 0 0 18 12 0 900 512 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 117500 0 32500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 117500 0 35000 0 22 0
 .end
 
-.com C:\PCSELCAD\BranchFig.sym 64 0 142500 105000 0 1 250 32 0.400 0 0 250 0 0 4
-.Name "" 0 142500 105500 0 0 10 6 6 0 16 0 0 0 0 0 0
-.Typ "" 0 141500 105500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Art "" 0 144100 105500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Func "" 0 142500 105000 0 4 7 5 6 0 16 0 0 0 0 0 0
-.con 1 0 142500 103000 0 24 32
-.PinName 1 0 142100 103000 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 143600 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 142500 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 142500 103000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 144500 105000 0 22 16
-.PinName 2 0 144100 105000 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 145600 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 144500 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 144500 105000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 142500 107000 0 23 32
-.PinName 3 0 142100 107000 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 143600 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 142500 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 142500 107000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 107500 0 82500 900 1 0 10 1 0 1 0 0 0 0
+.Name PE 107000 0 83500 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 107500 0 80000 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 107500 0 82500 0 8 0
 .end
 
-.com C:\PCSELCAD\BranchFig.sym 64 0 137500 112500 0 1 250 32 0.400 0 0 250 0 0 4
-.Name "" 0 137500 113000 0 0 10 6 6 0 16 0 0 0 0 0 0
-.Typ "" 0 136500 113000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Art "" 0 139100 113000 0 4 7 5 6 0 0 0 0 0 0 0 0
-.Func "" 0 137500 112500 0 4 7 5 6 0 16 0 0 0 0 0 0
-.con 1 0 137500 110500 0 27 32
-.PinName 1 0 137100 110500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 138600 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 137500 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 137500 110500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 139500 112500 0 25 16
-.PinName 2 0 139100 112500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 140600 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 139500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 139500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.con 1 0 137500 114500 0 26 32
-.PinName 3 0 137100 114500 0 4 7 5 6 0 128 0 0 0 0 0 0
-.PinFunc "" 0 138600 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinLab "" 0 137500 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
-.PinDes "" 0 137500 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.com C:\Working\Git\PCSVentlib\USERLIB\sym\circuit_breaker_ppp.SYM 1030 132500 0 62500 0 1 0 0 1 0 1 1 0 0 0
+.Name S1 142500 0 57500 0 0 25 14 2 1800 512 0 0 0 0 0 0
+.Typ "" 122500 0 42500 0 4 18 12 2 0 0 0 0 0 0 0 0
+.Art "" 122500 0 45000 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 120000 0 47500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 127500 0 62500 0 10 0
+.PinName 1 126750 0 60250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 127500 0 62500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 127500 0 62500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 62500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 127500 0 40000 0 17 0
+.PinName 2 127000 0 42500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 127500 0 40000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 127500 0 40000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 127500 0 40000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 132500 0 62500 0 12 0
+.PinName 3 131750 0 60250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 132500 0 62500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 132500 0 62500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 62500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 132500 0 40000 0 19 0
+.PinName 4 132000 0 42500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 132500 0 40000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 132500 0 40000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 132500 0 40000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 137500 0 62500 0 14 0
+.PinName 5 136750 0 60250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 137500 0 62500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 137500 0 62500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 62500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 137500 0 40000 0 21 0
+.PinName 6 137000 0 42500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 137500 0 40000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 137500 0 40000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 137500 0 40000 0 4 18 0 0 0 16 0 0 0 0 0 0
 .end
 
-.Text STEP1 0 185000 92500 1 4 25 0 0 0 0 0 0 0 0 0 0
-.Text '</@902> kW¤¤</@902> kW¤¤' 0 185000 127500 1 4 25 0 0 0 0 0 0 0 902 0 0
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 117500 0 70000 0 1 250 11 1 0 1 327681 4 0 0
+.Name /@200 112500 0 72500 0 14 25 14 5 0 512 0 0 0 200 0 0
+.Typ /@201 114750 0 67500 0 4 18 12 8 0 128 0 0 0 201 0 0
+.Art /@202 114750 0 64750 0 4 18 12 8 0 0 0 0 0 202 0 0
+.Func /@203 117200 0 66950 0 4 18 0 1 900 0 0 0 0 203 0 0
+.con 17 117500 0 71250 0 9 34
+.PinName /@204 114750 0 71600 0 14 18 12 0 0 0 0 0 0 204 0 0
+.PinFunc "" 117500 0 71250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 117500 0 71250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 117500 0 71250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 117500 0 68750 0 23 18
+.PinName /@204 116750 0 68000 0 4 18 0 2 900 128 0 0 0 204 0 0
+.PinFunc "" 117500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 117500 0 68750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 117500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 127500 0 70000 0 1 250 11 1 0 1 458753 0 0 0
+.Name /@215 124750 0 70000 0 0 25 14 5 0 640 0 0 0 215 0 0
+.Typ /@216 124750 0 67500 0 4 18 12 8 0 128 0 0 0 216 0 0
+.Art /@217 124750 0 64750 0 4 18 12 8 0 0 0 0 0 217 0 0
+.Func /@218 127200 0 66950 0 4 18 0 1 900 0 0 0 0 218 0 0
+.con 17 127500 0 71250 0 2 34
+.PinName /@219 124750 0 71600 0 14 18 12 0 0 0 0 0 0 219 0 0
+.PinFunc "" 127500 0 71250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 127500 0 71250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 127500 0 71250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 127500 0 68750 0 11 18
+.PinName /@219 126750 0 68000 0 4 18 0 2 900 128 0 0 0 219 0 0
+.PinFunc "" 127500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 127500 0 68750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 127500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 132500 0 70000 0 1 250 11 1 0 1 524289 0 0 0
+.Name /@220 129750 0 70000 0 0 25 14 5 0 640 0 0 0 220 0 0
+.Typ /@221 129750 0 67500 0 4 18 12 8 0 128 0 0 0 221 0 0
+.Art /@222 129750 0 64750 0 4 18 12 8 0 0 0 0 0 222 0 0
+.Func /@223 132200 0 66950 0 4 18 0 1 900 0 0 0 0 223 0 0
+.con 17 132500 0 71250 0 4 34
+.PinName /@224 129750 0 71600 0 14 18 12 0 0 0 0 0 0 224 0 0
+.PinFunc "" 132500 0 71250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 132500 0 71250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 132500 0 71250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 132500 0 68750 0 13 18
+.PinName /@224 131750 0 68000 0 4 18 0 2 900 128 0 0 0 224 0 0
+.PinFunc "" 132500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 132500 0 68750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 132500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 137500 0 70000 0 1 250 11 1 0 1 589825 0 0 0
+.Name /@225 132500 0 72500 0 14 25 14 5 0 640 0 0 0 225 0 0
+.Typ /@226 134750 0 67500 0 4 18 12 8 0 128 0 0 0 226 0 0
+.Art /@227 134750 0 64750 0 4 18 12 8 0 0 0 0 0 227 0 0
+.Func /@228 137200 0 66950 0 4 18 0 1 900 0 0 0 0 228 0 0
+.con 17 137500 0 71250 0 6 34
+.PinName /@229 134750 0 71600 0 14 18 12 0 0 0 0 0 0 229 0 0
+.PinFunc "" 137500 0 71250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 137500 0 71250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 137500 0 71250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 137500 0 68750 0 15 18
+.PinName /@229 136750 0 68000 0 4 18 0 2 900 128 0 0 0 229 0 0
+.PinFunc "" 137500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 137500 0 68750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 137500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-15N01.SYM 0 112500 0 107500 0 1 250 0 1 0 1 1 0 0 0
+.Name /@105 106500 0 110000 0 0 25 14 2 0 512 0 0 0 105 0 0
+.Typ /@106 118500 0 110000 0 4 18 12 6 0 0 0 0 0 106 0 0
+.Art /@107 118500 0 105000 0 4 18 12 0 0 0 0 0 0 107 0 0
+.Func /@108 97500 0 105000 0 4 18 0 0 0 128 0 0 0 108 0 0
+.con 1 112500 0 112500 0 24 0
+.PinName A1 111750 0 110750 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 112500 0 112500 0 4 18 12 2 0 16 0 0 0 0 0 0
+.PinLab "" 112500 0 112500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 112500 0 112500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 112500 0 102500 0 44 0
+.PinName A2 111750 0 104250 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 112500 0 102500 0 4 18 12 2 0 16 0 0 0 0 0 0
+.PinLab "" 112500 0 102500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 112500 0 102500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 128 112500 0 120000 900 1 0 10 1 0 1 0 0 0 0
+.Name KX 112000 0 119000 0 0 18 12 2 900 512 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 112500 0 122500 0 4 18 12 3 900 16 0 0 0 0 0 0
+.con 17 112500 0 120000 0 25 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 107500 0 145000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 107500 0 145000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@390 107500 0 145000 0 14 10 0 4 900 128 0 0 0 390 0 0
+.Art /@391 107500 0 145000 0 14 10 0 4 900 128 0 0 0 391 0 0
+.Func /@392 106500 0 145000 0 4 10 0 1 900 2 2 0 0 392 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 112500 0 145000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 112500 0 145000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@395 112500 0 145000 0 14 10 0 4 900 128 0 0 0 395 0 0
+.Art /@396 112500 0 145000 0 14 10 0 4 900 128 0 0 0 396 0 0
+.Func /@397 111500 0 145000 0 4 10 0 1 900 2 2 0 0 397 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 117500 0 145000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 117500 0 145000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ /@400 117500 0 145000 0 14 10 0 4 900 128 0 0 0 400 0 0
+.Art /@401 117500 0 145000 0 14 10 0 4 900 128 0 0 0 401 0 0
+.Func /@402 116500 0 145000 0 4 10 0 1 900 2 2 0 0 402 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 107500 0 162500 900 1 250 32 0.400 0 0 250 0 0 5
+.Name "" 107500 0 163000 0 0 10 6 0 900 16 0 0 0 0 0 0
+.Typ "" 106500 0 163000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Art "" 109100 0 163000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Func "" 107500 0 162500 0 4 7 5 0 900 16 0 0 0 0 0 0
+.con 1 107500 0 160500 0 37 32
+.PinName 1 107100 0 160500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 108600 0 160500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 107500 0 160500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 107500 0 160500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 109500 0 162500 0 35 16
+.PinName 2 109100 0 162500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 110600 0 162500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 109500 0 162500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 109500 0 162500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 107500 0 164500 0 36 32
+.PinName 3 107100 0 164500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 108600 0 164500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 107500 0 164500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 107500 0 164500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 112500 0 152500 900 1 250 32 0.400 0 0 250 0 0 5
+.Name "" 112500 0 153000 0 0 10 6 0 900 16 0 0 0 0 0 0
+.Typ "" 111500 0 153000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Art "" 114100 0 153000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Func "" 112500 0 152500 0 4 7 5 0 900 16 0 0 0 0 0 0
+.con 1 112500 0 150500 0 40 32
+.PinName 1 112100 0 150500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 113600 0 150500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 112500 0 150500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 112500 0 150500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 114500 0 152500 0 38 16
+.PinName 2 114100 0 152500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 115600 0 152500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 114500 0 152500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 114500 0 152500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 112500 0 154500 0 39 32
+.PinName 3 112100 0 154500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 113600 0 154500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 112500 0 154500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 112500 0 154500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 117500 0 157500 900 1 250 32 0.400 0 0 250 0 0 5
+.Name "" 117500 0 158000 0 0 10 6 0 900 16 0 0 0 0 0 0
+.Typ "" 116500 0 158000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Art "" 119100 0 158000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Func "" 117500 0 157500 0 4 7 5 0 900 16 0 0 0 0 0 0
+.con 1 117500 0 155500 0 43 32
+.PinName 1 117100 0 155500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 118600 0 155500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 117500 0 155500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 117500 0 155500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 119500 0 157500 0 41 16
+.PinName 2 119100 0 157500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 120600 0 157500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 119500 0 157500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 119500 0 157500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 117500 0 159500 0 42 32
+.PinName 3 117100 0 159500 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 118600 0 159500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 117500 0 159500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 117500 0 159500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 122500 0 80000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 122500 0 80000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 122500 0 80000 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL070 122500 0 80000 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BU/1.0 121500 0 80000 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 122500 0 70000 0 1 250 11 1 0 1 393217 4 0 0
+.Name /@205 119750 0 70000 0 0 25 14 5 0 640 0 0 0 205 0 0
+.Typ /@206 119750 0 67500 0 4 18 12 8 0 128 0 0 0 206 0 0
+.Art /@207 119750 0 64750 0 4 18 12 8 0 0 0 0 0 207 0 0
+.Func /@208 122200 0 66950 0 4 18 0 1 900 0 0 0 0 208 0 0
+.con 17 122500 0 71250 0 47 34
+.PinName /@209 119750 0 71600 0 14 18 12 0 0 0 0 0 0 209 0 0
+.PinFunc "" 122500 0 71250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 122500 0 71250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 122500 0 71250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 122500 0 68750 0 45 18
+.PinName /@209 121750 0 68000 0 4 18 0 2 900 128 0 0 0 209 0 0
+.PinFunc "" 122500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 122500 0 68750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 122500 0 68750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 122500 0 35000 900 1 0 10 1 0 1 0 0 0 0
+.Name N 122000 0 36000 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 122500 0 32500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 122500 0 35000 0 46 0
+.end
+
+.Text </@901>¤¤</@901>¤¤ 102500 0 190000 1 4 25 0 0 0 0 0 0 0 901 0 0
+.Text </@904>¤¤</@904>¤¤ 122500 0 190000 1 4 25 0 0 0 0 0 0 0 904 0 0
+.Text /@905 132500 0 30000 1 4 25 0 4 0 0 2 0 0 905 0 0
+.Text </@901>¤¤</@901>¤¤ 130000 0 22500 1 4 25 0 1 0 2 0 0 0 901 0 0
 
 .end
 
