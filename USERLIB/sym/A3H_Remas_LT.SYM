@@ -1,4 +1,4 @@
-﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM 0 0 383000 -1000 144 '19-08-2019 15:10:08' 0 V13.0
+﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A3H_Remas_LT.SYM 0 0 383000 -1000 144 '25-10-2019 14:56:06' 0 V13.0
 .Title A3_LT 1033
 .Name "" -7250 -22000 0 0 0 25 14 0 0 0 0 0 0 0 0 0
 .Typ "" -5500 -22000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -16,6 +16,7 @@
 .Text Filename: 329000 -2500 0 0 4 12 0 3 0 0 0 0 0 0 0 0
 .Text Patvirtino: 165000 -261500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Text 'Projekto numeris:' 297500 -262500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Užsakovas: 162500 -241750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Field Date 271250 -241750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
 .Field 'Project name' 222500 -248000 0 0 0 24 0 4 0 0 0 9 0 0 0 0
@@ -44,6 +45,8 @@
 .Fdata "" 15 0 ' ' 19 ""
 .Field 'Project number' 332500 -262500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 2 ""
+.Field 'Customer name' 180000 -241750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Fdata "" 10 0 ' ' 3 ""
 .polyline 0 0 0 0 0 0 0 350 0 0 0
 .Point 0 -10000 -1000 0 0
 .Point 0 383000 -1000 0 0
