@@ -1,4 +1,4 @@
-﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\project_template.PRO V13.0 5 261 1329677171 '01-10-2019 08:27:34' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\project_template.PRO V13.0 5 261 1330071021 '07-10-2019 08:47:30' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Title 'Heater ''Project name''' 0
 .Born 2 0 13.0 1325288723
 
@@ -7,7 +7,7 @@
 .Revision 0 0
 
 .LayTab 0 'Lay 0' 129
-.LayTab 1 'Lay 1' 1
+.LayTab 1 'Lay 1' 129
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FieldVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -1400,7 +1400,7 @@
 
 .end
 
-.PageNo 5 5 '01-10-2019 08:27:32' 4 10000 1 0 300 1 1 16 0 0 0 148500 105000 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.PageNo 5 5 '07-10-2019 08:47:16' 4 10000 1 0 300 1 1 16 0 0 0 148500 105000 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Title Notes 0
 .Born 2 0 13.0 1329677160
 
@@ -1408,6 +1408,222 @@
 
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
 
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 177500 0
+.Point 0 0 142500 177500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 172500 0
+.Point 0 0 142500 172500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 167500 0
+.Point 0 0 142500 167500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 162500 0
+.Point 0 0 142500 162500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 157500 0
+.Point 0 0 142500 157500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 152500 0
+.Point 0 0 142500 152500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 147500 0
+.Point 0 0 142500 147500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 142500 0
+.Point 0 0 142500 142500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 137500 0
+.Point 0 0 142500 137500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 132500 0
+.Point 0 0 142500 132500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 127500 0
+.Point 0 0 142500 127500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 122500 0
+.Point 0 0 142500 122500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 117500 0
+.Point 0 0 142500 117500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 112500 0
+.Point 0 0 142500 112500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 107500 0
+.Point 0 0 142500 107500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 102500 0
+.Point 0 0 142500 102500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 97500 0
+.Point 0 0 142500 97500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 92500 0
+.Point 0 0 142500 92500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 87500 0
+.Point 0 0 142500 87500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 82500 0
+.Point 0 0 142500 82500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 77500 0
+.Point 0 0 142500 77500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 72500 0
+.Point 0 0 142500 72500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 67500 0
+.Point 0 0 142500 67500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 62500 0
+.Point 0 0 142500 62500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 57500 0
+.Point 0 0 142500 57500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 52500 0
+.Point 0 0 142500 52500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 22500 47500 0
+.Point 0 0 142500 47500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 177500 0
+.Point 0 0 277500 177500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 172500 0
+.Point 0 0 277500 172500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 167500 0
+.Point 0 0 277500 167500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 162500 0
+.Point 0 0 277500 162500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 157500 0
+.Point 0 0 277500 157500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 152500 0
+.Point 0 0 277500 152500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 147500 0
+.Point 0 0 277500 147500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 142500 0
+.Point 0 0 277500 142500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 137500 0
+.Point 0 0 277500 137500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 132500 0
+.Point 0 0 277500 132500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 127500 0
+.Point 0 0 277500 127500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 122500 0
+.Point 0 0 277500 122500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 117500 0
+.Point 0 0 277500 117500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 112500 0
+.Point 0 0 277500 112500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 107500 0
+.Point 0 0 277500 107500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 102500 0
+.Point 0 0 277500 102500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 97500 0
+.Point 0 0 277500 97500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 92500 0
+.Point 0 0 277500 92500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 87500 0
+.Point 0 0 277500 87500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 82500 0
+.Point 0 0 277500 82500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 77500 0
+.Point 0 0 277500 77500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 72500 0
+.Point 0 0 277500 72500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 67500 0
+.Point 0 0 277500 67500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 62500 0
+.Point 0 0 277500 62500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 57500 0
+.Point 0 0 277500 57500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 52500 0
+.Point 0 0 277500 52500 0
+.end
+.polyline 0 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 157500 47500 0
+.Point 0 0 277500 47500 0
+.end
 
 .Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 0 5000 190000 0 0 0 1 1 0 1 0 0 0 0
 .Name "" 0 7750 188500 0 0 25 14 0 0 16 0 0 0 0 0 0
