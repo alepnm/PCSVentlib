@@ -1,4 +1,4 @@
-﻿.PCsCADProject 'C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\MOD\MAIN\EKA_KN1_NV (over 3.6kW).PRO' V13.0 1 261 1330991810 '21-10-2019 10:22:00' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject 'C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\MOD\MAIN\EKA\BASIC\EKA_KN1 (over 3.6kW).PRO' V13.0 1 261 1331513152 '29-10-2019 08:58:04' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Born 2 0 13.0 1323464808
 
 
@@ -15,6 +15,7 @@
 .AppData dfSymbolRef=REFID
 .AppData dfPinName=PINDATA
 .AppData dfMecSymbol=MECTYPE
+.AppData dfAdditionals=ACCESSORY
 .AppData dfPrice1=SAVIKAINA
 .AppData dfPrice2=PARDKAINA
 .AppData dfSearch=PCSTYPE
@@ -29,22 +30,22 @@
 
 .Revision 0 0
 
-.LayTab 0 'Lay 0' 129
+.LayTab 0 'Lay 0' 1
 .LayTab 1 'Lay 1' 129
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FieldVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .NAMEVis¤¤¤¤ 0 0 1250 0 0 25 14 0 0 0 0 0 0 0 0 0
-.DefText .TypInv¤¤¤¤ 0 2500 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .ArtInv¤¤¤¤ 0 -4000 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .NAMEVis¤¤¤¤ 0 1250 0 0 0 25 14 0 0 0 0 0 0 0 0 0
+.DefText .TypInv¤¤¤¤ 0 1250 2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .ArtInv¤¤¤¤ 0 1250 -4000 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FuncVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PINNAMEVis¤¤¤¤ 0 1000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PinFuncVis¤¤¤¤ 0 -2750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PINNAMEVis¤¤¤¤ 0 0 1000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinFuncVis¤¤¤¤ 0 0 -2750 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinLabInv¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinDesVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 0 -3000 0 4 18 0 0 0 0 0 0 0 0 0 0
 .DefText .XRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 .DefText .YRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 
@@ -80,47 +81,1969 @@
 .PageText 'Drawing no. ' ""
 .PageText Engineer ""
 
-.Database VENTCODE;ALTCODE
-.DbIndex 1;2
+.Database VENTCODE;ALTCODE;ACCESSORY
+.DbIndex 1;2;9
+.DbValues ZLAL075;;
+.DbValues ZAJ423;;
+.DbValues ZAJ060;;
+.DbValues GRGxxx;;ZPA006#4
+.DbValues ZPA006;;
+.DbValues GJUxxx;;
 
-.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 0 0 0 11445 50000
+.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 0 207835 -170600 15000 65531
+
+.PCsCADSymbol C:\PCSELCAD\BranchFig.sym -5000 -5000 5000 800 145 '30-03-2010 06:37:00' 32 V13.0
+.Title 1,1,1,1,2,0,1,1 1030
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 0 -5000 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 1
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 2
+.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 2
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 3
+.Point 0 0 -5000 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 3
+.Point 0 0 0 -5000 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 4
+.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 4
+.Point 0 0 0 -5000 0
+.Point 0 0 5000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 -5000 0 0
+.Point 0 0 5000 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 5
+.Point 0 0 5000 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 5000 0 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 6
+.Point 0 0 -5000 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 4096 0 0 0 0 0 0 250 0 0 7
+.Point 0 0 5000 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 8
+.Point 0 0 -5000 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 -5000 0
+.end
+.arc 9 0 0 0 0 0 800 0 3600 100 0 0 1
+.arc 1 0 -5000 -5000 0 0 5000 0 900 250 0 0 7
+.arc 4096 0 5000 -5000 0 0 5000 900 1800 250 0 0 8
+.con 1 0 -5000 0 0 0 32
+.PinName 1 0 -5000 1000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 0 0 -5000 0 0 16
+.PinName 2 0 0 -4000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.con 1 0 5000 0 0 0 32
+.PinName 3 0 5000 1000 0 4 18 12 0 0 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym -750 -750 750 750 128 '04-03-2019 11:40:20' 15 V13.0
+.Title 'Wire properties' 1033
+.Title 'SUPPORT SYMBOL' 1030
+.Title 'SYMBOL - NÁHRADA' 1029
+.Name "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Typ "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Art "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.Func "" 0 0 1000 0 4 10 0 1 0 2 2 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 0 0 0 14 10 0 4 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 0 0 -750 0
+.Point 0 0 0 750 0
+.end
+.polyline 0 0 0 0 0 14 0 180 0 0 0
+.Point 0 0 -750 0 0
+.Point 0 0 750 0 0
+.end
+.end
+
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\pe.SYM -3000 -10500 3000 0 128 '04-03-2019 11:40:20' 0 V13.0
+.Title PE 1033
+.Title 'Beskyttende jord (jordforbindelse)' 1030
+.Title 'Ochranné uzemnění' 1029
+.Name "" 0 2750 -1500 0 2 18 0 4 0 1 0 0 0 0 0 0
+.Typ "" 0 7000 -6000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 7000 -9000 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 5000 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 7000 -5000 0 0 18 12 0 0 0 0 0 0 0 0 0
+.Text PE 0 -1250 -10500 0 2 16 0 0 0 1 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -5000 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -5000 0
+.Point 0 0 2500 -5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -750 -7500 0
+.Point 0 0 750 -7500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -1500 -6250 0
+.Point 0 0 1500 -6250 0
+.end
+.arc 0 0 0 -5500 0 0 3000 0 3600 250 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\07-02T03.SYM -7500 -7500 2500 7500 129 '19-02-2019 09:26:58' 0 V13.0
+.Title 'Thermal break contact' 1033
+.Title 'Termostat brydekontakt' 1030
+.Title 'Vypínací kontakt, ovládání teplotou' 1029
+.Name S 0 -4750 4250 0 0 25 14 2 0 0 0 0 0 0 0 0
+.Typ "" 0 1250 -2750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 1250 -5750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -4750 1250 0 0 18 12 2 0 0 0 0 0 0 0 0
+.Text t° 0 -4700 -1200 0 0 25 16 1 0 2 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 -2500 0
+.Point 0 0 -7500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -2500 0
+.Point 0 0 -2500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 -2500 0
+.Point 0 0 -2500 -2500 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0
+.Point 64 0 750 0 0
+.Point 64 0 -2500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 2500 0
+.Point 0 0 -2500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -7500 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 2000 3500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 2500 2500 0
+.end
+.con 1 0 0 7500 0 0 0
+.PinName 1 0 -750 4250 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -7500 0 0 0
+.PinName 2 0 -750 -3250 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\H7213-02.SYM -6000 -7500 2500 7500 129 '08-03-2010 08:46:18' 4 V13.0
+.Title 'Two pole contactor' 1033
+.Title 'to-polet kontaktor' 1030
+.Title '2 pólový zapínací kontakt stykače' 1029
+.Name K 0 -6500 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 0 3500 -2750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 3500 -5750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -7500 0
+.Point 0 0 -2500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 2500 0
+.Point 0 0 -2500 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -2500 0
+.Point 0 0 -6000 3750 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 -7500 0
+.Point 0 0 2500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 2500 0
+.Point 0 0 2500 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 -2500 0
+.Point 0 0 -1000 3750 0
+.end
+.polyline 1 0 0 0 0 0 9 250 0 0 0
+.Point 0 0 -3869 -55 0
+.Point 0 0 1000 0 0
+.end
+.arc 1 0 -2500 3500 0 0 1000 900 2700 250 0 0 0
+.arc 1 0 2500 3500 0 0 1000 900 2700 250 0 0 0
+.con 1 0 -2500 7500 0 0 0
+.PinName 1 0 -3250 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -2500 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -2500 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -2500 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 -2500 -7500 0 0 0
+.PinName 2 0 -3250 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -2500 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -2500 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -2500 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 2500 7500 0 0 0
+.PinName 3 0 1750 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 2500 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 2500 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 2500 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 2500 -7500 0 0 0
+.PinName 4 0 1750 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 2500 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 2500 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 2500 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\07-15N01.SYM -5000 -5000 5000 5000 129 '08-03-2010 09:46:18' 0 V13.0
+.Title 'Operating device without make/break cross' 1033
+.Title 'Aktiveringsspole (relæspole UDEN slutte/bryde kors)' 1030
+.Title 'Ovládací prvek bez propojení' 1029
+.Name K 0 -6000 2500 0 0 25 14 2 0 0 0 0 0 0 0 0
+.Typ "" 0 6000 2500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 6000 -2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 2500 0
+.Point 0 0 5000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 5000 -2500 0
+.Point 0 0 5000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -2500 0
+.Point 0 0 5000 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -2500 0
+.Point 0 0 -5000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -5000 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 5000 0
+.end
+.con 1 0 0 5000 0 0 0
+.PinName A1 0 -750 3250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 5000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -5000 0 0 0
+.PinName A2 0 -750 -3250 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -5000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -5000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM -500 500 500 -500 130 '13-12-2010 10:41:18' 10 V13.0
+.Title 'Signal symbol Reference symbol hidden in the line' 1033
+.Title 'Signalsymbol Henvisningssymbol, som er skjult i en streg' 1030
+.Name SIGNAL 0 1000 500 0 0 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 -2500 0 0 4 18 12 5 0 0 0 0 0 0 0 0
+.con 17 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\04-01B04.SYM -5000 -6550 5000 3750 129 '08-03-2010 08:46:18' 0 V13.0
+.Title 'Resistor PTC, heat dependent' 1033
+.Title 'PTC modstand, temperaturafhængig' 1030
+.Title 'Rezistor PTC, tepelně závislý' 1029
+.Name R 0 1250 3750 0 0 25 14 2 0 0 0 0 0 0 0 0
+.Typ "" 0 -1000 -2500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 -1000 -5250 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.Text t° 0 -3000 -4750 0 4 18 12 8 0 2 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -3750 1250 0
+.Point 0 0 3750 1250 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 3750 -1250 0
+.Point 0 0 3750 1250 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -3750 -1250 0
+.Point 0 0 3750 -1250 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -3750 -1250 0
+.Point 0 0 -3750 1250 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 0 0
+.Point 0 0 -3750 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 64 0 3750 0 0
+.Point 64 0 5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -4500 -2750 0
+.Point 0 0 -2750 -2750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2750 -2750 0
+.Point 0 0 3750 3750 0
+.end
+.con 1 0 -5000 0 0 0 0
+.PinName 1 0 -4500 750 0 4 18 12 2 0 128 0 0 0 0 0 0
+.PinFunc "" 0 -5000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 5000 0 0 0 0
+.PinName 2 0 4500 750 0 4 18 12 0 0 128 0 0 0 0 0 0
+.PinFunc "" 0 5000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\circuit_breaker_pp.sym -7250 -22500 2000 0 128 '02-05-2019 07:34:22' 0 V13.0
+.Title 'Two pole circuit disconnector with over-current release' 1033
+.Title 'Tre-polet motorværn, håndbetjent (drejehåndtag)' 1030
+.Name "" 0 -15000 -7500 0 0 25 14 2 1800 0 0 0 0 0 0 0
+.Typ "" 0 -10000 -20000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.Art "" 0 -10000 -17500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 0 -12500 -15000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -12500 -12500 0 0 18 12 2 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -22500 0
+.Point 0 0 -5000 -18750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -22500 0
+.Point 0 0 0 -18750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -14750 0
+.Point 0 0 -5000 -13750 0
+.Point 0 0 -3250 -13750 0
+.Point 0 0 -3250 -12000 0
+.Point 0 0 -5000 -12000 0
+.Point 0 0 -5000 -10250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -14750 0
+.Point 0 0 0 -13750 0
+.Point 0 0 1750 -13750 0
+.Point 0 0 1750 -12000 0
+.Point 0 0 0 -12000 0
+.Point 0 0 0 -10250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -10250 0
+.Point 0 0 -7250 -5250 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5750 -5750 0
+.Point 0 0 -5000 -5750 0
+.Point 0 0 -5000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -750 -5750 0
+.Point 0 0 0 -5750 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 0 9 250 0 0 0
+.Point 0 0 -5995 -8039 0
+.Point 0 0 -1000 -8000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -10300 0
+.Point 0 0 -2250 -5300 0
+.end
+.arc 0 0 -5000 -16750 0 0 2000 2700 900 250 0 0 0
+.arc 0 0 0 -16750 0 0 2000 2700 900 250 0 0 0
+.con 1 0 -5000 0 0 0 0
+.PinName 1 0 -5750 -2250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -5000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -5000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 -5000 -22500 0 0 0
+.PinName 2 0 -5500 -20000 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -5000 -22500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 -5000 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -5000 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 0 0 0 0
+.PinName 3 0 -750 -2250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -22500 0 0 0
+.PinName 4 0 -500 -20000 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -22500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -22500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\Working\Git\PCSVentlib\USERLIB\triac.SYM -7500 -5000 5000 5000 129 '04-03-2019 11:40:20' 0 V13.0
+.Title 'Bidirectional diode, Diac' 1033
+.Title To-retningsdiode 1030
+.Title 'Obousměrná dioda, Diak' 1029
+.Name "" 0 -6000 250 0 0 25 14 2 0 0 0 0 0 0 0 0
+.Typ "" 0 -6000 -750 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art "" 0 -6000 -3500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 2 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -6000 -2750 0 0 18 12 2 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 -2500 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 -2500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 2500 0
+.Point 0 0 0 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 2500 0
+.Point 0 0 -2500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 2500 0
+.Point 0 0 0 -2500 0
+.Point 0 0 5000 -2500 0
+.Point 0 0 2500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 5000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 5000 0
+.Point 0 0 0 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 0 -5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 -5000 0
+.Point 0 0 -5000 -2500 0
+.end
+.con 1 0 0 -5000 0 0 0
+.PinName 1 0 -750 -3250 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -5000 0 4 18 12 0 2700 0 0 0 0 0 0 0
+.PinLab "" 0 0 -5000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.PinDes "" 0 0 -5000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.con 1 0 0 5000 0 0 0
+.PinName 2 0 -750 3250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 5000 0 4 18 12 2 2700 0 0 0 0 0 0 0
+.PinLab "" 0 0 5000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.PinDes "" 0 0 5000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.con 1 0 -7500 -5000 0 0 0
+.PinName 3 0 -9250 -3500 0 4 18 12 0 0 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM -1250 -1250 1250 1250 129 '08-03-2010 09:46:18' 11 V13.0
+.Title 'Terminal, DK standard (2 connections points)' 1033
+.Title 'Klemme, dansk symbol, udgået' 1030
+.Title 'Svorka, dánský standard, 2 připojovací body' 1029
+.Name X 0 -2750 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 0 -2750 -2500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art "" 0 -2750 -5250 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 64 0 -1250 -1250 0
+.Point 64 0 1250 1250 0
+.end
+.arc 1 0 0 0 0 0 1250 0 3600 250 0 0 0
+.con 17 0 0 1250 0 0 34
+.PinName 0 0 -750 2000 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 0 0 1250 0 4 18 12 1 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 0 1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.con 17 0 0 -1250 0 0 18
+.PinName 0 0 -750 -2000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinLab "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 0 -1250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\EKR_KNX_LED.SYM -117500 -2500 17500 20000 193 '02-07-2019 14:03:40' 0 V13.0
+.Title 'EKR-KN su LED su 4 pakopom ir ledais' 1033
+.Name "" 0 -42500 12500 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" 0 -37500 17500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 0 -45000 15000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 -37500 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 -37500 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text LED1 0 -113250 11000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text LED2 0 -95750 11000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text LED6 0 -75250 16250 0 4 12 0 0 0 0 0 0 0 0 0 0
+.Text LED5 0 -75250 12750 0 4 12 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -40000 2500 0
+.Point 0 0 -45000 2500 0
+.Point 0 0 -45000 10000 0
+.Point 0 0 -40000 10000 0
+.Point 0 0 -40000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -45000 2500 0
+.Point 0 0 -50000 2500 0
+.Point 0 0 -50000 10000 0
+.Point 0 0 -45000 10000 0
+.Point 0 0 -45000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -50000 2500 0
+.Point 0 0 -55000 2500 0
+.Point 0 0 -55000 10000 0
+.Point 0 0 -50000 10000 0
+.Point 0 0 -50000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -55000 2500 0
+.Point 0 0 -60000 2500 0
+.Point 0 0 -60000 10000 0
+.Point 0 0 -55000 10000 0
+.Point 0 0 -55000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -60000 2500 0
+.Point 0 0 -65000 2500 0
+.Point 0 0 -65000 10000 0
+.Point 0 0 -60000 10000 0
+.Point 0 0 -60000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -62500 2500 0
+.Point 0 0 -62500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -57500 2500 0
+.Point 0 0 -57500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -52500 2500 0
+.Point 0 0 -52500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -47500 2500 0
+.Point 0 0 -47500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -42500 2500 0
+.Point 0 0 -42500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -65000 2500 0
+.Point 0 0 -70000 2500 0
+.Point 0 0 -70000 10000 0
+.Point 0 0 -65000 10000 0
+.Point 0 0 -65000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -70000 2500 0
+.Point 0 0 -75000 2500 0
+.Point 0 0 -75000 10000 0
+.Point 0 0 -70000 10000 0
+.Point 0 0 -70000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -75000 2500 0
+.Point 0 0 -80000 2500 0
+.Point 0 0 -80000 10000 0
+.Point 0 0 -75000 10000 0
+.Point 0 0 -75000 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -67500 2500 0
+.Point 0 0 -67500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -72500 2500 0
+.Point 0 0 -72500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -77500 2500 0
+.Point 0 0 -77500 -2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -40000 10000 0
+.Point 0 0 -35000 10000 0
+.Point 0 0 -35000 2500 0
+.Point 0 0 -40000 2500 0
+.Point 0 0 -40000 10000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -35000 10000 0
+.Point 0 0 -30000 10000 0
+.Point 0 0 -30000 2500 0
+.Point 0 0 -35000 2500 0
+.Point 0 0 -35000 10000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -30000 10000 0
+.Point 0 0 -25000 10000 0
+.Point 0 0 -25000 2500 0
+.Point 0 0 -30000 2500 0
+.Point 0 0 -30000 10000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -37500 2500 0
+.Point 0 0 -37500 -2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -32500 2500 0
+.Point 0 0 -32500 -2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -27500 2500 0
+.Point 0 0 -27500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -20000 2500 0
+.Point 0 0 -25000 2500 0
+.Point 0 0 -25000 10000 0
+.Point 0 0 -20000 10000 0
+.Point 0 0 -20000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -22500 -2500 0
+.Point 0 0 -22500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -15000 2500 0
+.Point 0 0 -20000 2500 0
+.Point 0 0 -20000 10000 0
+.Point 0 0 -15000 10000 0
+.Point 0 0 -15000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -17500 -2500 0
+.Point 0 0 -17500 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -15000 10000 0
+.Point 0 0 -10000 10000 0
+.Point 0 0 -10000 2500 0
+.Point 0 0 -15000 2500 0
+.Point 0 0 -15000 10000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -12500 2500 0
+.Point 0 0 -12500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -5000 2500 0
+.Point 0 0 -10000 2500 0
+.Point 0 0 -10000 10000 0
+.Point 0 0 -5000 10000 0
+.Point 0 0 -5000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 -2500 0
+.Point 0 0 -7500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 -5000 2500 0
+.Point 0 0 -5000 10000 0
+.Point 0 0 0 10000 0
+.Point 0 0 0 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -2500 -2500 0
+.Point 0 0 -2500 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -82500 5000 0
+.Point 0 0 -82500 20000 0
+.Point 0 0 17500 20000 0
+.Point 0 0 17500 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 10000 0
+.Point 0 0 0 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 10000 0
+.Point 0 0 5000 10000 0
+.Point 0 0 5000 2500 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 10000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 2500 2500 0
+.Point 0 0 2500 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 10000 2500 0
+.Point 0 0 5000 2500 0
+.Point 0 0 5000 10000 0
+.Point 0 0 10000 10000 0
+.Point 0 0 10000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 7500 -2500 0
+.Point 0 0 7500 2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 15000 2500 0
+.Point 0 0 10000 2500 0
+.Point 0 0 10000 10000 0
+.Point 0 0 15000 10000 0
+.Point 0 0 15000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 12500 -2500 0
+.Point 0 0 12500 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -77500 17500 0
+.Point 0 0 -117500 17500 0
+.Point 0 0 -117500 7750 0
+.Point 0 0 -103250 7750 0
+.Point 0 0 -103250 16000 0
+.Point 0 0 -77500 16000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -77500 14000 0
+.Point 0 0 -99500 14000 0
+.Point 0 0 -99500 7750 0
+.Point 0 0 -85000 7750 0
+.Point 0 0 -85000 12500 0
+.Point 0 0 -77500 12500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -95000 10000 0
+.Point 0 0 -95000 5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -95000 10000 0
+.Point 0 0 -90000 7750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -95000 5000 0
+.Point 0 0 -90000 7750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -90000 10000 0
+.Point 0 0 -90000 5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -92500 5000 0
+.Point 0 0 -95000 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -94500 3750 0
+.Point 0 0 -95000 2500 0
+.Point 0 0 -93750 3000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -90750 5000 0
+.Point 0 0 -93250 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -92750 3750 0
+.Point 0 0 -93250 2500 0
+.Point 0 0 -92000 3000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -107500 7750 0
+.Point 0 0 -112500 10000 0
+.Point 0 0 -112500 5000 0
+.Point 0 0 -107500 7750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -107500 10000 0
+.Point 0 0 -107500 5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -110000 5000 0
+.Point 0 0 -112500 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -112000 3750 0
+.Point 0 0 -112500 2500 0
+.Point 0 0 -111250 3000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -108250 5000 0
+.Point 0 0 -110750 2500 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -110250 3750 0
+.Point 0 0 -110750 2500 0
+.Point 0 0 -109500 3000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -82500 5000 0
+.Point 0 0 -80000 5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 17500 5000 0
+.Point 0 0 15000 5000 0
+.end
+.con 1 0 -77500 -2500 0 0 0
+.PinName 1 0 -77500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -78500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -77500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -77500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -72500 -2500 0 0 0
+.PinName 2 0 -72500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -73500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -72500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -72500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -67500 -2500 0 0 0
+.PinName 3 0 -67500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -68500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -67500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -67500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -62500 -2500 0 0 0
+.PinName 4 0 -62500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -63500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -62500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -62500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -57500 -2500 0 0 0
+.PinName 5 0 -57500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -58500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -57500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -57500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -52500 -2500 0 0 0
+.PinName 6 0 -52500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -53500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -52500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -52500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -47500 -2500 0 0 0
+.PinName 7 0 -47500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -48500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -47500 -2500 0 4 10 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -47500 -2500 0 4 10 0 0 0 0 0 0 0 0 0 0
+.con 1 0 -42500 -2500 0 0 0
+.PinName 8 0 -42500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -43500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -42500 -2500 0 4 10 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 -42500 -2500 0 4 10 0 0 0 0 0 0 0 0 0 0
+.con 1 0 -37500 -2500 0 0 0
+.PinName 9 0 -37500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -38500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -37500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -37500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -32500 -2500 0 0 0
+.PinName 10 0 -32500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -33500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -32500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -32500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -27500 -2500 0 0 0
+.PinName 11 0 -27500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -28500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -27500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -27500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -22500 -2500 0 0 0
+.PinName 12 0 -22500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -23500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -22500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -22500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -17500 -2500 0 0 0
+.PinName 13 0 -17500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -18500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -17500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -17500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -12500 -2500 0 0 0
+.PinName 14 0 -12500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -13500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -12500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -12500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -7500 -2500 0 0 0
+.PinName 15 0 -7500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -8500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -7500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -7500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 -2500 -2500 0 0 0
+.PinName 16 0 -2500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 -3500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 -2500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 -2500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 2500 -2500 0 0 0
+.PinName 17 0 2500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 1500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 2500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 2500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 7500 -2500 0 0 0
+.PinName 18 0 7500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 6500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 7500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 7500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.con 1 0 12500 -2500 0 0 0
+.PinName 19 0 12500 3250 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 11500 -2500 0 4 18 12 3 900 0 0 0 0 0 0 0
+.PinLab "" 0 12500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 12500 -2500 0 4 18 0 3 900 128 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\07-02-01.SYM -3500 -7500 0 7500 129 '08-03-2010 09:46:18' 4 V13.0
+.Title 'Make contact' 1033
+.Title Sluttekontakt 1030
+.Title 'Zapínací kontakt' 1029
+.Name K 0 -4000 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 0 1000 -2750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 1000 -5750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -7500 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 64 0 0 2500 0
+.Point 64 0 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 -3500 3750 0
+.end
+.con 1 0 0 7500 0 0 0
+.PinName 1 0 -750 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -7500 0 0 0
+.PinName 2 0 -750 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\EN60617\07-05H02.SYM -10000 -7500 0 7500 129 '08-03-2010 09:46:18' 8 V13.0
+.Title 'Clock make contacts with break before make' 1033
+.Title 'Ur kontakt, sluttekontakt' 1030
+.Title 'Zapínací kontakt ovládaný hodinami' 1029
+.Name P 0 -11000 0 0 0 25 14 5 0 0 0 0 0 0 0 0
+.Typ "" 0 1000 -2750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 1000 -5750 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -7500 0
+.Point 0 0 0 -2500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 2500 0
+.Point 0 0 0 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 -3500 3750 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 64 0 -5000 0 0
+.Point 64 0 -1500 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 -7500 1750 0
+.Point 0 0 -7500 0 0
+.Point 0 0 -8750 0 0
+.end
+.arc 0 0 -7500 0 0 0 2500 0 3600 250 0 0 0
+.con 1 0 0 7500 0 0 0
+.PinName 1 0 -750 5000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.con 1 0 0 -7500 0 0 0
+.PinName 2 0 -750 -3500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 0 -7500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 0 -7500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM -500 500 500 -500 130 '13-12-2010 09:41:18' 10 V13.0
+.Title 'Signal symbol Reference symbol hidden in the line' 1033
+.Title 'Signalsymbol Henvisningssymbol, som er skjult i en streg' 1030
+.Name SIGNAL 0 1000 500 0 0 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 -2500 0 0 4 18 12 5 0 0 0 0 0 0 0 0
+.con 17 0 0 0 0 0 0
+.end
+
+.PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM -2500 -2500 2500 2500 160 '06-12-2010 13:27:54' 28 V13.0
+.Title 'Insertion point for Data Templates and Subdrawings' 1033
+.Title 'Indsætningspunkt for dataskabeloner og deltegninger' 1030
+.Name "" 0 0 0 0 0 25 14 4 0 128 0 0 0 0 0 0
+.Typ "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
+.polyline 0 0 0 0 0 14 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 0 2500 0
+.end
+.polyline 0 0 0 0 0 14 0 250 0 0 0
+.Point 0 0 -2500 0 0
+.Point 0 0 2500 0 0
+.end
+.end
+
+.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\comp_3_terminals.sym 0 0 15000 7500 145 '21-10-2019 11:45:02' 0 V13.0
+.Title comp_3_terminals 1033
+.Name "" 0 2500 -2500 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" 0 7500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 0 7500 2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 2500 2500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 7500 5000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 7500 0
+.Point 0 0 0 5000 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 15000 7500 0
+.Point 0 0 15000 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 15000 0 0
+.Point 0 0 0 0 0
+.Point 0 0 0 5000 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 0 7500 0
+.Point 0 0 5000 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 10000 7500 0
+.Point 0 0 15000 7500 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 0 5000 7500 0
+.Point 0 0 10000 7500 0
+.end
+.con 1 0 2500 7500 0 0 0
+.PinName 1 0 2500 5000 0 4 12 0 4 900 1 0 0 0 0 0 0
+.con 1 0 7500 7500 0 0 0
+.PinName 2 0 7500 5000 0 4 12 0 4 900 1 0 0 0 0 0 0
+.con 1 0 12500 7500 0 0 0
+.PinName 3 0 12500 5000 0 4 12 0 4 900 1 0 0 0 0 0 0
+.end
 
 
-.PageNo 1 1 '21-10-2019 10:21:34' 4 10000 1 0 300 1 2 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
+.PageNo 1 1 '29-10-2019 08:58:04' 4 10000 1 0 300 1 2 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 0
 .Born 2 0 13.0 1323464808
 
 
 .AppData [ModelTag]
 .AppData Tag=/@980
 .AppData [TagValues]
-.AppData 'Titles="3.0 kW";"6.0 kW";"9.0 kW"'
-.AppData 2=BTA26-800;BTA26-800;BTA40-800
-.AppData 3=ZELT041;ZELT041;ZELT002
-.AppData 52=ZAJ423;ZAJ423;ZAJ423
-.AppData 54=ZAJ423;ZAJ423;ZAJ423
-.AppData 56=ZAJ423;ZAJ423;ZAJ423
-.AppData '301="H07Z-K 1.5";"H07Z-K 4.0";"H07Z-K 6.0"'
-.AppData 302=ZLAL079;ZLAL073;ZLAL082
-.AppData 303=YG/1.5;YG/4.0;YG/6.0
-.AppData '304="H07Z-K 1.5";"H07Z-K 4.0";"H07Z-K 6.0"'
-.AppData 305=ZLAL078;ZLAL072;ZLAL074
-.AppData 306=BL/1.5;BL/4.0;BL/6.0
-.AppData '307="H07Z-K 1.5";"H07Z-K 4.0";"H07Z-K 6.0"'
-.AppData 308=ZLAL078;ZLAL072;ZLAL074
-.AppData 309=BL/1.5;BL/4.0;BL/6.0
-.AppData '310="H07Z-K 1.5";"H07Z-K 4.0";"H07Z-K 4.0"'
-.AppData 311=ZLAL078;ZLAL072;ZLAL072
-.AppData 312=BL/1.5;BL/4.0;BL/4.0
-.AppData '315="H07Z-K 1.5";"H07Z-K 4.0";"H07Z-K 6.0"'
-.AppData 316=ZLAL078;ZLAL072;ZLAL074
-.AppData 317=BL/1.5;BL/4.0;BL/6.0
-.AppData '320="H07Z-K 1.5";"H07Z-K 1.5";"H05Z-K 1.0"'
-.AppData 321=ZLAL078;ZLAL078;ZLAL075
-.AppData 322=BL/1.5;BL/1.5;BL/1.0
+.AppData Titles=KN1(=<3.0kW);KN1(=<4.5kW);KN2(=<4.5kW);KN2(=<6.0kW);KN2(=<9.0kW)
+.AppData 5=230V;230V;2x400V;2x400V;2x400V
+.AppData '6="EKR KN1 NV PTC";"EKR KN1 NV PTC";"EKR KN2 NV PTC";"EKR KN2 NV PTC";"EKR KN2 NV PTC"'
+.AppData 8=L;L;L1;L1;L1
+.AppData 9=N;N;L2;L2;L2
+.AppData 10=13.04A;19.57A;11.25A;15.00;22.50A
+.AppData 205=NCH82020-230;NC1253P10-230;NCH82020-230;NCH82020-230;NC1253P10-230
+.AppData 206=ZRL019;ZRL045;ZRL019;ZRL019;ZRL045
+.AppData 207=230VAC;230VAC;230VAC;230VAC;230VAC
+.AppData 208=NCH82020-230;NC1253P10-230;NCH82020-230;NCH82020-230;NC1253P10-230
+.AppData 209=ZRL019;ZRL045;ZRL019;ZRL019;ZRL045
+.AppData 210=20A;25A;20A;20A;25A
+.AppData 215=TK32-09;TK32-09;TK32-09;TK32-09;TK32-09
+.AppData 216=ZJGT005;ZJGT005;ZJGT005;ZJGT005;ZJGT005
+.AppData 217=100°C;100°C;100°C;100°C;100°C
+.AppData 220=716F-2172;716F-2172;716F-2172;716F-2172;716F-2172
+.AppData 221=ZJGT007;ZJGT007;ZJGT007;ZJGT007;ZJGT007
+.AppData 222=50°C;50°C;50°C;50°C;50°C
+.AppData 225=BTA440-800;BTA440-800;BTA440-800;BTA440-800;BTA40-800
+.AppData 226=ZELT011;ZELT011;ZELT011;ZELT011;ZELT002
+.AppData 227=40A;40A;40A;40A;40A
+.AppData '305="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 4.0"'
+.AppData 306=ZLAL079;ZLAL080;ZLAL079;ZLAL071;ZLAL073
+.AppData 307=YG/1.5;YG/2.5;YG/1.5;YG/2.5;YG/4.0
+.AppData '310="H07Z-K 1.5";"H07Z-K 1.5";"H07Z-K 1.5";"H07Z-K 1.5";"H07Z-K 4.0"'
+.AppData 311=ZLAL078;ZLAL078;ZLAL078;ZLAL078;ZLAL072
+.AppData 312=BL/1.5;BL/1.5;BL/1.5;BL/1.5;BL/4.0
+.AppData '315="H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 1.5";"H07Z-K 2.5";"H07Z-K 4.0"'
+.AppData 316=ZLAL078;ZLAL071;ZLAL078;ZLAL071;ZLAL072
+.AppData 317=BL/1.5;BL/2.5;BL/1.5;BL/2.5;BL/4.0
+.AppData '320="H07Z-K 1.5";"H07Z-K 1.5";"H07Z-K 1.5";"H07Z-K 1.5";"H05Z-K 1.0"'
+.AppData 321=ZLAL078;ZLAL078;ZLAL078;ZLAL078;ZLAL075
+.AppData 322=BL/1.5;BL/1.5;BL/1.5;BL/1.5;BL/1.0
 
 .Refdata 1 1 70000 267500 10000 47500 7 0 1 A 40000 40000 8 6 57500 30000
 
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 122500 122500 3
+.Point 0 0 132500 122500 0
+.Point 0 0 132500 155000 25
+.end
+.polyline 128 0 0 0 1 0 10 250 0 0 0
+.Point 0 0 122500 78750 7
+.Point 0 0 122500 40000 6
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 172500 81250 8
+.Point 0 0 172500 155000 26
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 172500 70000 9
+.Point 0 0 172500 78750 10
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 172500 60000 11
+.Point 0 0 172500 55000 0
+.Point 0 0 177500 55000 0
+.Point 0 0 177500 78750 12
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 177500 81250 13
+.Point 0 0 177500 155000 27
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 132500 40000 14
+.Point 1 0 132500 50000 15
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 127500 78750 17
+.Point 1 0 127500 72500 16
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 127500 81250 18
+.Point 1 0 127500 95000 0
+.Point 1 0 137500 95000 0
+.Point 1 0 137500 133000 60
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 132500 81250 19
+.Point 0 0 132500 112500 0
+.Point 1 0 129500 112500 44
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 0 132500 72500 20
+.Point 0 0 132500 78750 21
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 0 127500 50000 23
+.Point 0 0 127500 40000 22
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 207500 150000 40
+.Point 0 0 207500 155000 28
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 202500 155000 29
+.Point 0 0 202500 150000 39
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 212500 155000 30
+.Point 0 0 212500 150000 41
+.end
+.polyline 0 0 0 0 1 0 2 250 0 0 0
+.Point 0 0 55000 177500 0
+.Point 0 0 77500 177500 0
+.Point 0 0 77500 150000 0
+.Point 0 0 55000 150000 0
+.Point 0 0 55000 177500 0
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 67500 32
+.Point 0 0 75000 72500 31
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 52500 34
+.Point 0 0 75000 47500 33
+.end
+.polyline 128 0 0 0 1 0 2 250 0 0 0
+.Point 0 0 65000 67500 35
+.Point 0 0 65000 72500 0
+.Point 0 0 75000 72500 31
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 47500 33
+.Point 0 0 75000 40000 36
+.end
+.polyline 128 0 0 0 1 0 2 250 0 0 0
+.Point 0 0 65000 52500 37
+.Point 0 0 65000 47500 0
+.Point 0 0 75000 47500 33
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 0 125500 112500 43
+.Point 0 0 115000 112500 0
+.Point 0 0 115000 122500 4
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 127500 155000 45
+.Point 0 0 127500 114500 46
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 81250 47
+.Point 0 0 75000 95000 48
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 110000 49
+.Point 0 0 75000 122500 50
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 137500 51
+.Point 0 0 75000 142500 0
+.Point 0 0 90000 142500 0
+.Point 0 0 90000 107500 52
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 90000 97500 53
+.Point 0 0 90000 92500 0
+.Point 0 0 80000 92500 0
+.Point 0 0 80000 81250 54
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 80000 78750 55
+.Point 0 0 80000 40000 38
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 75000 72500 31
+.Point 0 0 75000 78750 56
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 115000 132500 5
+.Point 0 0 115000 145000 0
+.Point 1 0 120500 145000 57
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 0 122500 147000 58
+.Point 0 0 122500 155000 24
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 1 0 137500 137000 61
+.Point 0 0 137500 155000 42
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 167500 135000 63
+.Point 0 0 220000 135000 0
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 152500 135000 64
+.Point 0 0 139500 135000 62
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 167500 140000 65
+.Point 0 0 220000 140000 0
+.end
+.polyline 128 0 0 0 1 0 0 250 0 0 0
+.Point 0 0 152500 140000 66
+.Point 0 0 142500 140000 0
+.Point 0 0 142500 145000 0
+.Point 0 0 124500 145000 59
+.end
+.polyline 128 0 0 0 1 0 10 250 0 0 0
+.Point 0 0 115000 92500 1
+.Point 0 0 115000 95000 0
+.Point 0 0 122500 95000 0
+.Point 0 0 122500 81250 2
+.end
 
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 122500 87500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 122500 87500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@305' 0 122500 87500 0 14 10 0 4 900 128 0 0 0 305 0 0
+.Art ZLAL079/@306 0 122500 87500 0 14 10 0 4 900 128 0 0 0 306 0 0
+.Func YG/1.5/@307 0 121500 87500 0 4 10 0 1 900 2 2 0 0 307 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\pe.SYM 0 0 115000 92500 0 1 0 0 1 0 1 0 0 0 0
+.Name "" 0 117750 91000 0 2 18 0 4 0 529 0 0 0 0 0 0
+.Typ "" 0 122000 86500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 122000 83500 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 120000 85000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 122500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 122500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 122500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 122500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 121500 152500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 127500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 127500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 127500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 127500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 126500 152500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 177500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 177500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 177500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 177500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 176500 152500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 90000 117500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 90000 117500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 90000 117500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 90000 117500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 89000 117500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 75000 117500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 75000 117500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 75000 117500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 75000 117500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 74000 117500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 80000 87500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 80000 87500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 80000 87500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 80000 87500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 79000 87500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 115000 117500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 115000 117500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@310' 0 115000 117500 0 14 10 0 4 900 128 0 0 0 310 0 0
+.Art ZLAL078/@311 0 115000 117500 0 14 10 0 4 900 128 0 0 0 311 0 0
+.Func BL/1.5/@312 0 114000 117500 0 4 10 0 1 900 2 2 0 0 312 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 75000 87500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 75000 87500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 75000 87500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 75000 87500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 74000 87500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 172500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 172500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 172500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 172500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 171500 152500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 132500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 132500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@320' 0 132500 152500 0 14 10 0 4 900 128 0 0 0 320 0 0
+.Art ZLAL078/@321 0 132500 152500 0 14 10 0 4 900 128 0 0 0 321 0 0
+.Func BL/1.5/@322 0 131500 152500 0 4 10 0 1 900 2 2 0 0 322 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-02T03.SYM 0 0 75000 102500 0 1 250 0 1 0 1 1 0 0 0
+.Name B 0 70000 110000 0 0 25 14 2 0 512 0 0 0 0 0 0
+.Typ 716F-2172/@220 0 76250 99750 0 4 18 12 6 0 128 0 0 0 220 0 0
+.Art ZJGT007/@221 0 76250 96750 0 4 18 12 6 0 128 0 0 0 221 0 0
+.Func 50°C/@222 0 65000 107500 0 4 18 0 0 0 0 0 0 0 222 0 0
+.con 1 0 75000 110000 0 49 0
+.PinName 12 0 74250 106750 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 110000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 110000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 110000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 75000 95000 0 48 0
+.PinName 11 0 74250 99250 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 95000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 95000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 95000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-15N01.SYM 0 0 90000 102500 0 1 250 0 1 0 1 1 0 0 0
+.Name K 0 100000 102500 0 0 25 14 2 0 512 0 0 0 0 0 0
+.Typ NCH82020-230/@205 0 96000 105000 0 4 18 12 6 0 0 0 0 0 205 0 0
+.Art ZRL019/@206 0 96000 100000 0 4 18 12 0 0 0 0 0 0 206 0 0
+.Func 230VAC/@207 0 90000 102500 0 4 18 0 0 0 128 0 0 0 207 0 0
+.con 1 0 90000 107500 0 52 0
+.PinName A1 0 89250 105750 0 4 18 12 0 900 0 0 0 0 0 0 0
+.PinFunc "" 0 90000 107500 0 4 18 12 2 0 16 0 0 0 0 0 0
+.PinLab "" 0 90000 107500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 90000 107500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 90000 97500 0 53 0
+.PinName A2 0 89250 99250 0 4 18 12 2 900 0 0 0 0 0 0 0
+.PinFunc "" 0 90000 97500 0 4 18 12 2 0 16 0 0 0 0 0 0
+.PinLab "" 0 90000 97500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 90000 97500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM 0 0 132500 40000 900 1 0 10 1 0 1 0 0 0 0
+.Name L/@9 0 132000 41000 0 0 18 12 0 900 512 0 0 0 9 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 132500 37500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 132500 40000 0 14 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-02T03.SYM 0 0 75000 130000 0 1 250 0 1 0 1 1 0 0 0
+.Name C 0 70000 137500 0 0 25 14 2 0 512 0 0 0 0 0 0
+.Typ TK32-09/@215 0 76250 127250 0 4 18 12 6 0 128 0 0 0 215 0 0
+.Art ZJGT005/@216 0 76250 124250 0 4 18 12 6 0 128 0 0 0 216 0 0
+.Func 100°C/@217 0 65000 135000 0 4 18 0 0 0 0 0 0 0 217 0 0
+.con 1 0 75000 137500 0 51 0
+.PinName 1 0 74250 134250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 137500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 137500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 137500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 75000 122500 0 50 0
+.PinName 2 0 74250 126750 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 122500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 122500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 122500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM 0 0 127500 40000 900 1 0 10 1 0 1 0 0 0 0
+.Name N/@8 0 127000 41000 0 0 18 12 0 900 0 0 0 0 8 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 127500 37500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 127500 40000 0 22 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM 0 0 115000 92500 900 1 0 10 1 0 1 0 0 0 0
+.Name PE 0 114500 93500 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 115000 90000 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 115000 92500 0 1 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM 0 0 122500 40000 900 1 0 10 1 0 1 0 0 0 0
+.Name PE 0 122000 41000 0 0 18 12 0 900 0 0 0 0 0 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 122500 37500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 122500 40000 0 6 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\04-01B04.SYM 1030 0 172500 65000 2700 1 250 0 1 0 1 0 0 0 0
+.Name TJ-K10K 0 167500 52500 0 0 25 14 2 1800 512 0 0 0 0 0 0
+.Typ "" 0 170000 66000 0 4 18 12 6 2700 0 0 0 0 0 0 0
+.Art "" 0 167250 66000 0 4 18 12 6 2700 0 0 0 0 0 0 0
+.Func TJ-K10K 0 170000 50000 0 4 18 0 0 0 128 0 0 0 0 0 0
+.con 1 0 172500 70000 0 9 0
+.PinName 1 0 173250 69500 0 4 18 12 2 2700 128 0 0 0 0 0 0
+.PinFunc "" 0 172500 70000 0 4 18 12 0 2700 16 0 0 0 0 0 0
+.PinLab "" 0 172500 70000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.PinDes "" 0 172500 70000 0 4 18 0 0 2700 16 0 0 0 0 0 0
+.con 1 0 172500 60000 0 11 0
+.PinName 2 0 173250 60500 0 4 18 12 0 2700 128 0 0 0 0 0 0
+.PinFunc "" 0 172500 60000 0 4 18 12 0 2700 16 0 0 0 0 0 0
+.PinLab "" 0 172500 60000 0 4 18 0 0 2700 0 0 0 0 0 0 0
+.PinDes "" 0 172500 60000 0 4 18 0 0 2700 16 0 0 0 0 0 0
+.end
+
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\circuit_breaker_pp.sym 1030 0 132500 72500 0 1 250 0 1 0 1 0 0 0 0
+.Name S 0 137500 60000 0 0 25 14 2 1800 512 0 0 0 0 0 0
+.Typ "" 0 122500 52500 0 4 18 12 2 0 0 0 0 0 0 0 0
+.Art "" 0 122500 55000 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func "" 0 120000 57500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 127500 72500 0 16 0
+.PinName 1 0 126750 70250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 127500 72500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 127500 72500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 127500 72500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 127500 50000 0 23 0
+.PinName 2 0 127000 52500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 127500 50000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 127500 50000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 127500 50000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 132500 72500 0 20 0
+.PinName 3 0 131750 70250 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 132500 72500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 132500 72500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 132500 72500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 132500 50000 0 15 0
+.PinName 4 0 132000 52500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 132500 50000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 132500 50000 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 132500 50000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\triac.SYM 128 0 115000 127500 0 1 250 0 1 0 1 1 0 0 0
+.Name V1 0 110000 132500 0 0 25 14 0 0 512 0 0 0 0 0 0
+.Typ BTA440-800/@225 0 121000 126750 0 4 18 12 6 0 128 0 0 0 225 0 0
+.Art ZELT011/@226 0 121000 124000 0 4 18 12 6 0 128 0 0 0 226 0 0
+.Func 40A/@227 0 115000 127500 0 4 18 0 0 0 128 0 0 0 227 0 0
+.con 1 0 115000 122500 0 4 0
+.PinName A1 0 115750 124250 0 4 18 12 0 2700 0 0 0 0 0 0 0
+.PinFunc "" 0 115000 122500 0 4 18 12 2 900 16 0 0 0 0 0 0
+.PinLab "" 0 115000 122500 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 115000 122500 0 4 18 0 2 900 16 0 0 0 0 0 0
+.con 1 0 115000 132500 0 5 0
+.PinName A2 0 115750 130750 0 4 18 12 2 2700 0 0 0 0 0 0 0
+.PinFunc "" 0 115000 132500 0 4 18 12 0 900 16 0 0 0 0 0 0
+.PinLab "" 0 115000 132500 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 115000 132500 0 4 18 0 2 900 16 0 0 0 0 0 0
+.con 1 0 122500 122500 0 3 0
+.PinName G 0 124250 124000 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinFunc "" 0 122500 119750 0 4 18 12 2 0 16 0 0 0 0 0 0
+.PinLab "" 0 122500 122500 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinDes "" 0 122500 122500 0 4 18 12 2 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 122500 80000 0 1 250 11 1 0 0.080 65537 0 0 0
+.Name X1 0 118700 82300 0 14 25 14 5 0 512 0 0 0 0 0 0
+.Typ "" 0 119750 77500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art ZAJ423 0 119750 74750 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func PE 0 121200 76950 0 4 18 0 1 900 0 0 0 0 0 0 0
+.con 17 0 122500 81250 0 2 34
+.PinName 1 0 120100 81400 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 122500 81250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 0 122500 81250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 122500 81250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 0 122500 78750 0 7 18
+.PinName 1 0 121750 78000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 122500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 0 122500 78750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 122500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 127500 80000 1800 1 250 11 1 0 1 196609 0 0 0
+.Name X1 0 130250 80000 0 0 25 14 5 1800 640 0 0 0 0 0 0
+.Typ "" 0 130250 82500 0 4 18 12 8 1800 0 0 0 0 0 0 0
+.Art ZAJ423 0 130250 85250 0 4 18 12 8 1800 0 0 0 0 0 0 0
+.Func N/@8 0 126400 76950 0 4 18 0 1 900 0 0 0 0 8 0 0
+.con 17 0 127500 78750 0 17 34
+.PinName 2 0 125300 81400 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 127500 78750 0 4 18 12 1 1800 16 0 0 0 0 0 0
+.PinLab "" 0 127500 78750 0 4 18 0 1 1800 128 0 0 0 0 0 0
+.PinDes "" 0 127500 78750 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.con 17 0 127500 81250 0 18 18
+.PinName 2 0 128250 82000 0 4 18 0 2 2700 128 0 0 0 0 0 0
+.PinFunc "" 0 127500 81250 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.PinLab "" 0 127500 81250 0 4 18 0 1 1800 128 0 0 0 0 0 0
+.PinDes "" 0 127500 81250 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 132500 80000 1800 1 250 11 1 0 1 327681 0 0 0
+.Name X1 0 135250 80000 0 0 25 14 5 1800 640 0 0 0 0 0 0
+.Typ "" 0 135250 82500 0 4 18 12 8 1800 0 0 0 0 0 0 0
+.Art ZAJ423 0 135250 85250 0 4 18 12 8 1800 0 0 0 0 0 0 0
+.Func L/@9 0 131400 76950 0 4 18 0 1 900 0 0 0 0 9 0 0
+.con 17 0 132500 78750 0 21 34
+.PinName 3 0 130600 81400 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 132500 78750 0 4 18 12 1 1800 16 0 0 0 0 0 0
+.PinLab "" 0 132500 78750 0 4 18 0 1 1800 128 0 0 0 0 0 0
+.PinDes "" 0 132500 78750 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.con 17 0 132500 81250 0 19 18
+.PinName 3 0 133250 82000 0 4 18 0 2 2700 128 0 0 0 0 0 0
+.PinFunc "" 0 132500 81250 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.PinLab "" 0 132500 81250 0 4 18 0 1 1800 128 0 0 0 0 0 0
+.PinDes "" 0 132500 81250 0 4 18 0 1 1800 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 75000 80000 0 1 250 11 1 0 1 65537 0 0 0
+.Name X2 0 70000 82500 0 14 25 14 5 0 512 0 0 0 0 0 0
+.Typ 0023N1210 0 72250 77500 0 4 18 12 8 0 128 0 0 0 0 0 0
+.Art ZAJ060 0 72250 74750 0 4 18 12 8 0 128 0 0 0 0 0 0
+.Func 5 0 74300 76950 0 4 18 0 1 900 0 0 0 0 0 0 0
+.con 17 0 75000 81250 0 47 34
+.PinName 1 0 72500 81900 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 75000 81250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 81250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 75000 81250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 0 75000 78750 0 56 18
+.PinName 1 0 74250 78000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 0 75000 78750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 75000 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 80000 80000 0 1 250 11 1 0 0.080 131073 0 0 0
+.Name X2 0 77250 80000 0 0 25 14 5 0 640 0 0 0 0 0 0
+.Typ 0023N1210 0 77250 77500 0 4 18 12 8 0 128 0 0 0 0 0 0
+.Art ZAJ060 0 77250 74750 0 4 18 12 8 0 128 0 0 0 0 0 0
+.Func 6 0 79200 76950 0 4 18 0 1 900 0 0 0 0 0 0 0
+.con 17 0 80000 81250 0 54 34
+.PinName 2 0 77900 82000 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 80000 81250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 0 80000 81250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 80000 81250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 0 80000 78750 0 55 18
+.PinName 2 0 79250 78000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 80000 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 0 80000 78750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 80000 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 172500 80000 0 1 250 11 1 0 1 327681 0 0 0
+.Name X2 0 167500 82500 0 14 25 14 5 0 512 0 0 0 0 0 0
+.Typ 0023N1210 0 169750 77500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art ZAJ060 0 169750 74750 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func 7 0 171600 76950 0 4 18 0 1 900 0 0 0 0 0 0 0
+.con 17 0 172500 81250 0 8 34
+.PinName 3 0 170000 81400 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 172500 81250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 0 172500 81250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 172500 81250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 0 172500 78750 0 10 18
+.PinName 3 0 171750 78000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 172500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 0 172500 78750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 172500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\03-02D02.SYM 0 0 177500 80000 0 1 250 11 1 0 1 393217 0 0 0
+.Name X2 0 174750 80000 0 0 25 14 5 0 640 0 0 0 0 0 0
+.Typ 0023N1210 0 174750 77500 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Art ZAJ060 0 174750 74750 0 4 18 12 8 0 0 0 0 0 0 0 0
+.Func 8 0 176600 76950 0 4 18 0 1 900 0 0 0 0 0 0 0
+.con 17 0 177500 81250 0 13 34
+.PinName 4 0 175500 81300 0 14 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 177500 81250 0 4 18 12 1 0 16 0 0 0 0 0 0
+.PinLab "" 0 177500 81250 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 177500 81250 0 4 18 0 1 0 144 0 0 0 0 0 0
+.con 17 0 177500 78750 0 12 18
+.PinName 4 0 176750 78000 0 4 18 0 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 177500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.PinLab "" 0 177500 78750 0 4 18 0 1 0 128 0 0 0 0 0 0
+.PinDes "" 0 177500 78750 0 4 18 0 1 0 144 0 0 0 0 0 0
+.end
+
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\EKR_KNX_LED.SYM 0 0 200000 157500 0 1 250 0 1 0 1 1 0 0 0
+.Name RG1 0 132500 172500 0 0 25 14 0 0 512 0 0 0 0 0 0
+.Typ 'EKR KN1 NV PTC/@6' 0 152500 172500 0 4 18 12 0 0 16384 0 0 0 6 0 0
+.Art GRGxxx 0 155000 172500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 162500 165000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.con 1 0 122500 155000 0 24 0
+.PinName X7 0 122500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 121500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 122500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 122500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 127500 155000 0 45 0
+.PinName X12 0 127500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 126500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 127500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 127500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 132500 155000 0 25 0
+.PinName X9 0 132500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 131500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 132500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 132500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 137500 155000 0 42 0
+.PinName X26 0 137500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 136500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 137500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 137500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 142500 155000 0 0 0
+.PinName X17 0 142500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 141500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 142500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 142500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 147500 155000 0 0 0
+.PinName X14 0 147500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 146500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 147500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 147500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 152500 155000 0 0 0
+.PinName X4 0 152500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 151500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 152500 155000 0 4 10 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 152500 155000 0 4 10 0 0 0 16 0 0 0 0 0 0
+.con 1 0 157500 155000 0 0 0
+.PinName X3 0 157500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 156500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 157500 155000 0 4 10 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 157500 155000 0 4 10 0 0 0 16 0 0 0 0 0 0
+.con 1 0 162500 155000 0 0 0
+.PinName X6 0 162500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 161500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 162500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 162500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 167500 155000 0 0 0
+.PinName X5 0 167500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 166500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 167500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 167500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 172500 155000 0 26 0
+.PinName X10 0 172500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 171500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 172500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 172500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 177500 155000 0 27 0
+.PinName X8 0 177500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 176500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 177500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 177500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 182500 155000 0 0 0
+.PinName X16 0 182500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 181500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 182500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 182500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 187500 155000 0 0 0
+.PinName X15 0 187500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 186500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 187500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 187500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 192500 155000 0 0 0
+.PinName X18 0 192500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 191500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 192500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 192500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 197500 155000 0 0 0
+.PinName X25 0 197500 160750 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinFunc "" 0 196500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 197500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 197500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 202500 155000 0 29 0
+.PinName X16 0 202500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 201500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 202500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 202500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 207500 155000 0 28 0
+.PinName X15 0 207500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 206500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 207500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 207500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.con 1 0 212500 155000 0 30 0
+.PinName X18 0 212500 160750 0 4 18 0 3 900 0 0 0 0 0 0 0
+.PinFunc "" 0 211500 155000 0 4 18 12 3 900 16 0 0 0 0 0 0
+.PinLab "" 0 212500 155000 0 4 18 0 3 900 128 0 0 0 0 0 0
+.PinDes "" 0 212500 155000 0 4 18 0 3 900 144 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 137500 152500 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 137500 152500 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H05Z-K 1.0' 0 137500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Art ZLAL075 0 137500 152500 0 14 10 0 4 900 128 0 0 0 0 0 0
+.Func BL/1.0 0 136500 152500 0 4 10 0 1 900 2 2 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-02-01.SYM 1030 0 75000 60000 0 1 250 4 1 0 1 0 0 0 0
+.Name J 0 72500 67500 0 0 25 14 5 0 512 0 0 0 0 0 0
+.Typ "" 0 76000 57250 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 76000 54250 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 75000 60000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 71000 57000 0 0 18 12 5 0 16 0 0 0 0 0 0
+.con 1 0 75000 67500 0 32 0
+.PinName 1 0 74250 65000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 67500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 67500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 67500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 75000 52500 0 34 0
+.PinName 2 0 74250 56500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 75000 52500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 75000 52500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 75000 52500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL?1.SYM 0 0 75000 40000 900 1 0 10 1 0 1 0 0 0 0
+.Name L/@9 0 74500 41000 0 0 18 12 0 900 512 0 0 0 9 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 75000 37500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 75000 40000 0 36 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\07-05H02.SYM 1030 0 65000 60000 0 1 250 8 1 0 1 0 0 0 0
+.Name T 0 62500 67500 0 0 25 14 5 0 512 0 0 0 0 0 0
+.Typ "" 0 66000 57250 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Art "" 0 66000 54250 0 4 18 12 6 0 0 0 0 0 0 0 0
+.Func "" 0 65000 60000 0 4 18 0 0 0 16 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 54000 57000 0 0 18 12 5 0 16 0 0 0 0 0 0
+.con 1 0 65000 67500 0 35 0
+.PinName 1 0 64250 65000 0 4 18 12 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 65000 67500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 65000 67500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 65000 67500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.con 1 0 65000 52500 0 37 0
+.PinName 2 0 64250 56500 0 4 18 12 2 900 128 0 0 0 0 0 0
+.PinFunc "" 0 65000 52500 0 4 18 12 0 0 16 0 0 0 0 0 0
+.PinLab "" 0 65000 52500 0 4 18 0 0 0 0 0 0 0 0 0 0
+.PinDes "" 0 65000 52500 0 4 18 0 0 0 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\SGSIGNAL.SYM 0 0 80000 40000 900 1 0 10 1 0 1 0 0 0 0
+.Name N/@8 0 79500 41000 0 0 18 12 0 900 512 0 0 0 8 0 0
+.SymbRef 0 3 "" 0 0 0
+.SignalRef "" 0 80000 37500 0 4 18 12 5 900 16 0 0 0 0 0 0
+.con 17 0 80000 40000 0 38 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 0 52500 177500 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 0 52500 177500 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 0 52500 177500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 0 52500 177500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 0 52500 177500 0 4 18 12 4 0 144 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 115000 140000 900 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 115000 140000 0 14 10 0 4 900 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@310' 0 115000 140000 0 14 10 0 4 900 128 0 0 0 310 0 0
+.Art ZLAL078/@311 0 115000 140000 0 14 10 0 4 900 128 0 0 0 311 0 0
+.Func BL/1.5/@312 0 114000 140000 0 4 10 0 1 900 2 2 0 0 312 0 0
+.end
+
+.com C:\Work\Git\PCSVentlib\USERLIB\sym\comp_3_terminals.sym 0 0 200000 142500 0 1 250 0 1 0 1 1 0 0 0
+.Name PTC 0 192500 145000 0 0 25 14 0 0 512 0 0 0 0 0 0
+.Typ "" 0 207500 142500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art GJUxxx 0 207500 145000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 202500 145000 0 4 18 12 0 0 16 0 0 0 0 0 0
+.con 1 0 202500 150000 0 39 0
+.PinName COM 0 202500 147500 0 4 12 0 4 900 1 0 0 0 0 0 0
+.con 1 0 207500 150000 0 40 0
+.PinName OUT 0 207500 147500 0 4 12 0 4 900 1 0 0 0 0 0 0
+.con 1 0 212500 150000 0 41 0
+.PinName VCC 0 212500 147500 0 4 12 0 4 900 1 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 0 220000 177500 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 0 220000 177500 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 0 220000 177500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 0 220000 177500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 0 220000 177500 0 4 18 12 4 0 144 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 0 127500 112500 0 1 250 32 0.400 0 0 250 0 0 5
+.Name "" 0 128000 112500 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 0 128000 111500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 0 128000 114100 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 0 127500 112500 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 0 125500 112500 0 43 32
+.PinName 1 0 125500 112100 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 125500 113600 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 125500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 125500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 0 127500 114500 0 46 16
+.PinName 2 0 127500 114100 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 127500 115600 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 127500 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 127500 114500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 0 129500 112500 0 44 32
+.PinName 3 0 129500 112100 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 129500 113600 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 129500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 129500 112500 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 187500 140000 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 187500 140000 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@315' 0 187500 140000 0 14 10 0 4 0 128 0 0 0 315 0 0
+.Art ZLAL078/@316 0 187500 140000 0 14 10 0 4 0 128 0 0 0 316 0 0
+.Func BL/1.5/@317 0 187500 141000 0 4 10 0 1 0 2 2 0 0 317 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 187500 135000 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 187500 135000 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@315' 0 187500 135000 0 14 10 0 4 0 128 0 0 0 315 0 0
+.Art ZLAL078/@316 0 187500 135000 0 14 10 0 4 0 128 0 0 0 316 0 0
+.Func BL/1.5/@317 0 187500 136000 0 4 10 0 1 0 2 2 0 0 317 0 0
+.end
+
+.com C:\PCSELCAD\SYMBOL\EN60617\H7213-02.SYM 128 0 160000 137500 900 1 250 4 1 0 1 1 0 0 0
+.Name K 0 155000 130000 0 0 25 14 3 0 512 0 0 0 0 0 0
+.Typ NCH82020-230/@208 0 162750 134000 0 4 18 12 8 900 0 0 0 0 208 0 0
+.Art ZRL019/@209 0 165750 134000 0 4 18 12 8 900 0 0 0 0 209 0 0
+.Func 20A/@210 0 160500 131000 0 4 18 0 2 1800 0 0 0 0 210 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 0 163000 144000 0 0 18 12 3 900 16 0 0 0 0 0 0
+.con 1 0 152500 140000 0 66 0
+.PinName 1 0 155000 140750 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinFunc "" 0 152500 140000 0 4 18 12 2 900 16 0 0 0 0 0 0
+.PinLab "" 0 152500 140000 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 152500 140000 0 4 18 0 2 900 16 0 0 0 0 0 0
+.con 1 0 167500 140000 0 65 0
+.PinName 2 0 163500 140750 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 167500 140000 0 4 18 12 2 900 16 0 0 0 0 0 0
+.PinLab "" 0 167500 140000 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 167500 140000 0 4 18 0 2 900 16 0 0 0 0 0 0
+.con 1 0 152500 135000 0 64 0
+.PinName 3 0 155000 135750 0 4 18 12 2 0 0 0 0 0 0 0 0
+.PinFunc "" 0 152500 135000 0 4 18 12 2 900 16 0 0 0 0 0 0
+.PinLab "" 0 152500 135000 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 152500 135000 0 4 18 0 2 900 16 0 0 0 0 0 0
+.con 1 0 167500 135000 0 63 0
+.PinName 4 0 163500 135750 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinFunc "" 0 167500 135000 0 4 18 12 2 900 16 0 0 0 0 0 0
+.PinLab "" 0 167500 135000 0 4 18 0 2 900 0 0 0 0 0 0 0
+.PinDes "" 0 167500 135000 0 4 18 0 2 900 16 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 64 0 122500 145000 0 1 250 32 0.400 0 0 250 0 0 5
+.Name "" 0 123000 145000 0 0 10 6 6 0 16 0 0 0 0 0 0
+.Typ "" 0 123000 144000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Art "" 0 123000 146600 0 4 7 5 6 0 0 0 0 0 0 0 0
+.Func "" 0 122500 145000 0 4 7 5 6 0 16 0 0 0 0 0 0
+.con 1 0 120500 145000 0 57 32
+.PinName 1 0 120500 144600 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 120500 146100 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 120500 145000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 120500 145000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 0 122500 147000 0 58 16
+.PinName 2 0 122500 146600 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 122500 148100 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 122500 147000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 122500 147000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.con 1 0 124500 145000 0 59 32
+.PinName 3 0 124500 144600 0 4 7 5 6 0 128 0 0 0 0 0 0
+.PinFunc "" 0 124500 146100 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinLab "" 0 124500 145000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.PinDes "" 0 124500 145000 0 4 7 5 6 0 0 0 0 0 0 0 0
+.end
+
+.com C:\PCSELCAD\BranchFig.sym 0 0 137500 135000 900 1 250 32 0.400 0 0 250 0 0 6
+.Name "" 0 137500 135500 0 0 10 6 0 900 16 0 0 0 0 0 0
+.Typ "" 0 136500 135500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Art "" 0 139100 135500 0 4 7 5 0 900 0 0 0 0 0 0 0
+.Func "" 0 137500 135000 0 4 7 5 0 900 16 0 0 0 0 0 0
+.con 1 0 137500 133000 0 60 32
+.PinName 1 0 137100 133000 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 138600 133000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 0 137500 133000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 0 137500 133000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 0 139500 135000 0 62 16
+.PinName 2 0 139100 135000 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 140600 135000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 0 139500 135000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 0 139500 135000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.con 1 0 137500 137000 0 61 32
+.PinName 3 0 137100 137000 0 4 7 5 0 900 128 0 0 0 0 0 0
+.PinFunc "" 0 138600 137000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinLab "" 0 137500 137000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.PinDes "" 0 137500 137000 0 4 7 5 0 900 0 0 0 0 0 0 0
+.end
+
+.com C:\Working\Git\PCSVentlib\USERLIB\wire_prop.sym 0 0 145000 135000 0 1 0 15 1 0 0 1 0 0 0
+.Name "" 0 145000 135000 0 14 10 0 4 0 656 0 0 0 0 0 0
+.Typ 'H07Z-K 1.5/@315' 0 145000 135000 0 14 10 0 4 0 128 0 0 0 315 0 0
+.Art ZLAL078/@316 0 145000 135000 0 14 10 0 4 0 128 0 0 0 316 0 0
+.Func BL/1.5/@317 0 145000 136000 0 4 10 0 1 0 2 2 0 0 317 0 0
+.end
+
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\SELECT_DEVICE.JPG 129 0 55000 150000 27583 22986
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\BTA40_RD91.JPG 129 0 17500 212500 28539 22831
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\TRIAC_BTA26.JPG 129 0 42500 212500 28539 22831
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\TRIAC_BTA440.JPG 129 0 67500 212500 28539 22831
+.Text 230V/@5 0 130000 35000 1 4 25 0 4 0 0 2 0 0 5 0 0
+.Text X 0 67500 77500 1 4 25 0 0 0 0 0 0 0 0 0 0
+.Text BLUE 0 212000 153500 1 4 12 0 0 900 0 0 0 0 0 0 0
+.Text BROWN 0 207000 152500 1 4 12 0 0 900 0 0 0 0 0 0 0
+.Text Y/G 0 202000 154000 1 4 12 0 0 900 0 0 0 0 0 0 0
+.Text /@10 0 142500 34000 1 14 25 0 0 0 0 0 0 0 10 0 0
 
 .end
 
@@ -629,6 +2552,457 @@ B34B1CB240712CA080DB832008A15100C57D6D4574CBC46E2594274E58D9B53939CAEEF7939464DB
 E4EF72A596E16574E0B5D3F04BF2497C8F9C7F653FF8263F827F64DF8EDAE7C4CD3FC49E3FF1778E3C4DA3268DAA6ABE28D593509AED04A92194B796AC1DBCB8
 9701B6058902AAE0E7E8EA28AF1F38CEB1D9A623EB598557527651BBE918AB24BA2496892D11D187C3D3A31E4A4ACB7F9B0A28A2BCB360A28A2800A28A2800A2
 8A2800A28A2803FFD9
+.end
+.ExtObjData IMG0
+356
+04FFD8FFE000104A46494600010101006000600000FFE100644578696600004D4D002A000000080004011A0005000000010000003E011B000500000001000000
+46012800030000000100020000013100020000000E0000004E00000000000000600000000100000060000000017061696E742E6E657420342E3200FFDB004300
+0201010101010201010102020202020403020202020504040304060506060605060606070908060709070606080B08090A0A0A0A0A06080B0C0B0A0C090A0A0A
+FFDB004301020202020202050303050A0706070A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A
+0A0A0A0A0AFFC00011080078006403012100021101031101FFC4001F0000010501010101010100000000000000000102030405060708090A0BFFC400B5100002
+010303020403050504040000017D01020300041105122131410613516107227114328191A1082342B1C11552D1F02433627282090A161718191A25262728292A
+3435363738393A434445464748494A535455565758595A636465666768696A737475767778797A838485868788898A92939495969798999AA2A3A4A5A6A7A8A9
+AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE1E2E3E4E5E6E7E8E9EAF1F2F3F4F5F6F7F8F9FAFFC4001F010003010101010101010101
+0000000000000102030405060708090A0BFFC400B51100020102040403040705040400010277000102031104052131061241510761711322328108144291A1B1
+C109233352F0156272D10A162434E125F11718191A262728292A35363738393A434445464748494A535455565758595A636465666768696A737475767778797A
+82838485868788898A92939495969798999AA2A3A4A5A6A7A8A9AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE2E3E4E5E6E7E8E9EAF2
+F3F4F5F6F7F8F9FAFFDA000C03010002110311003F00FDECA2800A2800AABAE3EA49A45C7F63C7BAE9A32B6FF301863C03CF61D7F0A997372BB0E36E6BB32F41
+B6F16473D88D5E4936C314D1DD2F9CACAF861E5BE701892BF4E87815BC4F3C0AA2237EA145050514005140051400038AC76F16797AF7F63FD8C7962E05BB4CD2
+60F9863F3061718C608E720E73807153BCD47B87D96CD826A86ACCBF69412A4924696B34A61858E5CA94C0E08C9E4E07A9AA1A296917B05F1B6BEB3B49ADF75D
+B44C1E46C3AF96C7BF5E71DBA83F8ED4F711DA40D733BED48D4B331EC077A52972C5B61BCAC73BA57C448759B3B3BBB3D2B77DAAE8C2F1A5C2B321DC3B0FBDF2
+B063D0000E4E700F484E4E6857B6BFD6DFE62FB560A29805140051400019AAEFA369125EAEA726976ED72BF76E1A152E3F1C66975B87919F2788AFEFE3BA9BC2
+B6B6B7C2D67F2597ED657738504807691C1603AFAF4AA3E04D63C45E269EEB55F10DA4366D693496A9671A12C3EE12C5B773C8C70074A63B686A78ABEDD068F2
+6A7A6CD1C73592B4EBE6C65D5B6A37CB80C0F20F5CD64683E22F16EBBA03DFF883C27670DBB5BB348B25D13E72E3B2ED3C1F73D3D68DF71C7B9B16BA7F8635B4
+875C834EB1B8DD8921B95851B9C0190D8EBF281F801DAB4682428A0028A008EEAEADACADA4BCBCB84861890BC92C8C155140C9249E800AE2FC27FB4D7ECE1E3D
+F13B7827C0FF001FBC17AC6B2AC55B49D2FC5169717208EA3CB490B67F0AC6A6270F46518D49A4E5B26D26FD3B9E9E0725CE332C3D5C46130F52A4292BCE5184
+A5182EF2693515E6EC6E78CBE267C38F876203F103C7FA2E87F6ADC2DBFB635486DBCDC633B7CC61BB1919C74CD79CFC56FDA8FE104FA5DBF863C0BF19BC317B
+A86AB3792B1E9FE20B79652BFDD508E4EE624018E7AD4CF1984A753D9CEA454BB36AFF0071BE138738831B85FAD50C2559D2B37CF1A7271B2BDDF3256B2B3BEB
+A5897E1EEADE12D3E0B4F8733FC4AD3B4BF135C5DFDB2CB477D6215BBB88CC687708376F65F91BA83901BA678CEF8C5E23D67C3DE31BA7D375CB8B188C7BE630
+5CB46A704FCCD823B0EA7B0AD63529CEFCAD3B3B3D767E7D8E3AB81C661E54D55A528FB44A50BA6B9A2DD938DD6A9BD135A3B1E6F67FB51F80EE2F22B7BDFDA2
+347785E5559A393C591156527904193A62BE80F09DC693E3EF0D5A78BBC1DE35B7D5B4D3A47D9ED974BBE49ADDE40855BE64254B06E0F2718C71CE71A38CC262
+25CB4AA464FB269FE47A19970DF1064F4557C6E12A528376529C251577B2BB495DD9E9E4CF29F08FED2DF0ABE0B7C459BE15FC43F8C9E16D166B891923D3F5CF
+115B5BC914A3A1DAF203F3636F1C138AF5DD7FE357C37F09DA5AEA3E26F89FE14B1B7BE05ACE4BDD7A1816E1463263676C3E032F4F51C8CD2FAF605F35AAC7DD
+DFDE5A7AEBA7CCAA9C2FC491F612FA955B5757A7FBB9FEF12576E1A7BD65ABB5F4D4A56BFB51FECDD729BFFE17E78350E70C9278A2D0153E9FEB3F9707B5759E
+18F16785BC6DA447E20F06F892C356B0959963BED36F12785C838203A12A70783CF06AA962B0B5E5CB4EA464FB269FE473E61C3B9FE554556C6E12A528376BCE
+128ABBD52BB495EC9E9E468515D078E7E7D7FC1C5BE31F8A9E1CFD913C3FA3782EE2F6DF41D63C58B078AA6B36650F1885DA186423FE59B38C90782D1A8AF3AF
+D88FFE09E1FF0004A6FDAB7E157837C53F03FE27EB567F1034186C750D77ECFE22DBA8C77B194793CDB4981558FCC5650D12AAE3A31C66BF3CC760F2FCD38B2A
+61F1B269A847D9EB6D776D79DFA7A9FD8DC27C49C5DC0BF47BC1E6FC334A1384B135D636F052F75A518297551E5B5E4AD66E3D1EBCCFFC1C6D6BA66A5FB43FC1
+9D375DB811D8CDA75D25E48D26C09135DC01DB71FBBF2E79ED8AF40F06FF00C13FFF00E0939A17C4CF0E6B5FB34FC65B1F1178B34CBC1A969FA6D8FC4382F9DD
+E0224CF951B166C63763A10AD4A396E518FE27C54B1725CF1943917359B7CA9E8BAEA746238CBC44E15F03720A3C3F49CB0D5A862BEB1254F9D457B592BB95BD
+DF75C9EEBF03CC7C55E29B71FF0005F8F87BAE6AD3F9715BD8DAA4D230CEDC69770B9E3B7F2FC335F6DFFC144B4CB71F01FC79E22B2D49668AEFC07A918FCBC6
+003693F420F3D0FE7ED5EA64EDFB3CCBFEBED4FF00D251F07E2443971FC15E780C27FE9D99F953FF0004E3FD9AFF00612F8E3F0FF50D4BF6ACF8AFA6F877568F
+C48F6D6AB7DE2E874FFF00441042C1F648C0B0DED20DDD38C76AFB9FF6C2F8C7F07BFE0983FF0004D78FC01FB0D78B9AE1BC51AA0B6F0FF882DF5417C21376AF
+34D7693AE54B7951B04DBC2B32B76E7E6F25A395E5BC3F3CC70F2FDFAA6EFADECDBB2D3D6C7ECDE27661C79C6DE3061B83336A36CA658DA7C8DD3E5538C15E49
+4EDADE2E6BF1E8788FEC23FF000478F83BF1EBE1468BF137F692F11F88AF35DF1B5B35F5BB5AEA8231179AA648D892ACD239521DD989F99C2E3A93F477877FE0
+82DFB3E5F7C39D27E16FC57F1F788F5AD3BC3BAD6A377A0DC5AEA1E4CF0DB5DF927ECAFF002143B1A1DDBD5577191BE515EAE59C1780960A152ACA5CD520B9F5
+DDB6A5F2B35F71F0BC71F49CE2CC3F136270B80A34952C2D797D5DF27C1182A945DF5D54E326FA59DADA687C3BFB1B7FC13CBF67FF008EDFF053BF89FF00B24F
+8DA4D73FE113F08C3ACB6926CF5158EEB36B7F6F047BE428437C923678193835FB1DFB2BFECB9F0BFF0063CF8416BF04BE102EA1FD8D69793DCC6754BBF3A669
+257DCC4B6077E8001C55705E4B82C3C678B8DF9D4A70DF4E552EDF2473FD263C4BE26CE2B61787B10E1F57951C2E25DA3697B49D26DEBFCBEF3B2F43D1A8AFBD
+3F924F2FFDA5BE25FECA3A369BA7FC14FDAAFC4FE1AB5D3FC791DC5BD8E97E2A654B5D43C9F2CC8BBE4F91594C91919656DC46DE471F907FF054AFD97FF67AFD
+80FE2A7837E30FEC35F1DE6B1D6350BE92E21F0F69DAE2DDCDA4F9614ACF14AAC5C44C5B66C94B16E7058640F81E34A397D6C2CB1309A55E838DACF5D5A6935E
+69DD76FBCFEB6FA33663C6196F1051C971186954CA7348D5E7E68B74ED08CE329A96C9A70E4927BAB5D7C2CF40FF0082EF5D6A9E34F883FB39DF7C4AD3D2D6F7
+56F08AC9E20B56631AC32CB2DB19D09CE50025875C8AFA0BC11FB217FC1383E04FC55D37C71FB3A8D161D7EC6692D2C6EA1F1D4F7724AEF12AB148DEE5D493BD
+D46013E9CF359E070796E2B893135F17655232A6E3776D7953DAFAEB63BF8A38938E323F05F24CAF87B9E583AF4B191ADCB4F9D382AF28ABC927CBEEB6EF75DC
+F98FE3978C744F0D7FC16C7C2FE2FF0018F896DB47B1B5B1B66BCD52E2648238B3A7CEA1999995412481924649F53CFD7BF1EFE327C29F891FB357C48D2BC0FF
+00167C29E209EDFC07AB4CD69A5EA8B24B127D9251BCA40C5472DD4E7938CF35D593E230F4FF00B4694A6949D59D95D5DFBAB65BB3C4F10B24CDF154B83B1F43
+0F39D0A781C229548C24E117ED64ED2925CA9EAB77D51F087FC1313F65DFD8B3E397C15D73C45FB49368A359B5F14496D64DA978A2E6CA416A2DA061B6386540
+C37B3FCC41F4CF1C7AF7FC1557E127833FE1833C33A7FC07BBFB77877C03AEDBEC8AC6E8DC436F6662960621F7BB39123C5963CF249AF07039665BFEA7D4A987
+B7B69D26E56777A3BBD3E47EB1C4DC6DC6D2FA44E0B059AA92CB686362A9370E58A738722B4EC93F89DB5EE7B17FC13BFF006D1F831E27F809E0CBFBEF8A3A1E
+9BAA7847C35158EA7A6EAFAA456EF6F25ADB18C1DAECBFBB7D81830E0EEC7DEC8AFB67E0F7ED27F08BF688F045E78DFE0878DAD35EB2B5D4DF4C92F2D771856F
+1511DD031003AAAB8259495201C138AFBCC9F35C0E33074234EA272715A5F5564AF75D2CF43F93FC48E00E28E1DE22CCEB62B0B38D0A55E4BDA34D45F3CA4E1C
+B27A4B9A3AE97F33F367FE0982A8BFF05CCF8E5E5962BF61F126D67FBC47F6B59F27DCD7EB2D70F097FC8BAA7FD7DA9FFA51F49F484FF92CB07FF60383FF00D3
+310A2BEA0FC24F23FDAEBF61FF00D9E3F6DDF09D8F84FE3DF8526BC1A54D24BA3EA3637AF6F7562F2050E6365E0860AB9560CA76838C80478EFECFBFF043EFD8
+47F67CF1FDAFC49D3FC35AE789B52D3EE167D3078B3545B886D66539590451C71A3B03D3CC0E01C11C806BE7F19C3394E3B328E3AAC5F3AB75D1B5B5D7969FA9
+FAF70E78E1C7FC2BC175785F2FAD18E1E6A493E54EA414EEE6A12D2CA4DB7AA6D36DC5A3BDFDB13FE09D5FB37FEDDFE21D1F53F8E1A7EB0D3F866D65B7B2B8D2
+35436EC44A55D9186181036A9E99F9BAD7CE1A77FC11AFF642F819F18AC7C4DE1ED3FC4DF6CD1F508351D0A4B8D6CC8AEF1B075CAEC1BC8603E5C8DC148EA456
+78AE15CA7198FF00AE4D3E7BA7A376BAB5BF23BB877C7AF10387384D70DE12AC3EAD184E093845C929B9397BDBFDA7E845FB467FC1377F677FDA27C7E7E28FC4
+AD3B566D466B58ED9AEB4BD55A38A648C614E0A9C300718E0FA8CD54F831FF0004E4FD9A3E055CEBD73E0CD2F5893FE124F0F5C689AA2DFEACD207B398A99117
+017693B47CC0E476A5FEAA652F3278DB3E76DB7AE977BFE66F1F1F7C408706D3E195521F56842104B917372C1A71D7AECB5EA7187FE08DDFB191FF00970F137F
+E0F8FF00F115EE1F03FF00661F85FF0004BE16C9F03FC09A04D77A15CC93BDD596AAFF006AFB479DC48AFB860A91C118C63AF7A796F0AE5395D77568C5DDA6B5
+77567BFE4471B78F3C7FC7995C301995482842A46A270828C94E17E5775AE9767957893FE08BFF00B17788F58FED7B1D23C45A7CD773E22D2F47D73FD18B93CA
+A8911DB68E73B580070178071F6FFECDDFB387C24FD9BFE1DE9FF067E0DF8561D2F47B12CF751C733CAD7170C17ED1348EE4B3BB10B1E49C85DE060000699570
+CE5793E2A588A117CCF4D5DECAF7B2FF008270F1EF8DDC77E226434328CDEAC5D2A6D49F2C527394534A537D5A4DED65ADED7323E0FF00FC13E3F67AF81DFB4E
+78A7F6B6F02DB6B0BE2CF1747749AAFDAB53325B28B89A39A5F2E3DA36E5E353C938E40AF70AF530381C3E5F45D3A37B36E5AEBAC9DDFE27C0713F14E6DC5D8E
+A78BCC649CE14E9D256497B94E2A31DBAD96AFAB0A2BB0F9C0A8AFAE1AD6D5A748F730E15738CB13803F3340185E21F13CBE0D8ECB49B2D1A7D4AFAF9DFCB8A2
+2103B0F99D8B1CEDEB9C7381EC2B0F5348BE265D3784FC55E15B8D2B528603716B279C245DB9C64381EBEDFE1414B4D4E33C43E06F17786E666BFB3926463837
+9698CC9CF1BD0FCAFF004EA7B9AC29E0B55722EA1B456CFF00CBCDACD0B7D0AC7F28A0D1488D22D373811E9AC7B05FB4B1AD3D2FC3FAEEB4E2C74DD26E26DD82
+564845BC58F52A9CBFD73F9D01CC8EE3C19E00B6D16E1B51D43518E7D4234FDF4C98D9649E8A071BFA80074EBFEC9EDF40D2A3D3E2927116C69D8158DBAC6806
+157F993D7963C9A0CE46851412145007C93FF050FF00F82ACE83FB037C46F0CFC319BE086A9E30D47C4DA735DDBAD86A4B6FB3F7DE52C6A3CB7691D981E001DB
+19278F2487FE0BF5F0EB4AD62DFC2FFB487EC99F10FE1FDBDF3A85BEBB80C9B1770CB1474864DA07740CDE82BE331DC65432FCC2A50A9464E10694A6B54AE93F
+EB53FA5B857E8DB9A716F0861336C2E6746388C54273A5879DE3292849C5A52BEBB748D95D5DF53EA9F8B9FB587C36F00FEC99A97ED6DA2B41E38F09D8687FDA
+BA64FA6CCAAF76BD14658615B71C16C0653905320D7C85E09FF82F2F897C61A57FC24BF0EBFE09B9E3CD62CE5631B6A3A3DD49731BB2F054C8968C0907B678AE
+9CDB89965F88A74A8D1955E78F3AE5ED7F4678BE1FF81B538C327C5E61996674B2F8E1EB7B092ACBFE5E28DDABB94526B556D5E8FB1E8BF1FF00FE0B21A9FECE
+9F08FE18FC60F885FB226BD6763F1196EFED1657DAC7D9EE3476B798214911EDF2ECC87CC51F2E56BEBED3C69DE26D0EDFC47A6697A449677D6A9730DD433165
+963650CAE084190410739AF432CCE3FB43135284A9B838283D7AF3C6FF0086CFCCF8FE35F0E67C2392E0734A58B8E229626A6269A715649E1EAFB3BDEED35356
+945AE8FAEE7C83F017FE0A9DE16F8F771F19350F05FC0655F0FF00C25D26E2F9F5E7D404D1EAC23794468885479665486475396C01CD7A57FC13BFF6E0F0F7ED
+EFF05755F8B16DF0EAFF00C3F1E93E229B4A93497BE49A26F2EDE098C9B9238D7691381B5F38DA7935CB97F1153C7D7A54D536BDA29B4EFD212B76EBB9F43C61
+E0CE2F84F29CC3193C5C66F072C2C2715169B96269FB4B277D392E97F7B7D363C1FE36FF00C174BE1BF857E32DE7C30FD9A7F67CD73E2C5F69EDE4CDFD877861
+B36684B6E684C704D24EAA491BBCB54C8CA96186AF5BFD913FE0AC1E07FDA7FC29E3DB8D73E0B7893C1BE24F873A049ABEBDE1BD536B978151DB1148551B7653
+043A27DE5C64671C785E2FA18CCC9E1E1465C979253E8DC55DAFB93B6BDB43E873EFA3A66DC3FC170CE3119852FAD28D29D4C2FF00CBCA70AB38C2326EEDB69C
+9732E5496B693B6BE1DE0DFF008381FC4BF11EC66D57E1D7FC13D3C75AFDA41379535D68DA83DD246F8076334568C0360838273822BED0FD8E7F68FF00107ED5
+1F0621F8AFE25F82BAEF806EA4D427B63A07885585C058C8025F9A34255B3C7CA3A1EBD6B6C8F89AA6755F9161E508B4DA93D9EDA6DE7F81E6F8A5E0960FC34C
+A9E21E7347135E35230951869523CC9B6DAE66D25657BA5BA3D528AFAA3F033F26FF00E0B9BFF2917F803FF5CF4FFF00D3BD7DE5FF000522F849E03F8C1FB10F
+C4AD0FC79A3DB5C47A7F83EFF53D3EE268D4B59DDDB5BBCD14C8C7EE956419C1190483C135F1383A30AF8ACDA9CF66D2FF00C90FE9EE20CC31594E41E1FE330D
+2719C233926BBAC52D3D1ECD7547E6EFEC4FE22D5BC49FF0428F8F5A1EB1712C90787F52BA8F4BCC8408E3922B5959319C11BD9DB07A173EB557FE099DFB7F7E
+D31FB3CFECB969F0D7E177FC13E7C65F11B498B5ABCB84F13687A85F4503C92382D1620B39572BD0FCF9F615F3383CCB1581AD82AD4A8BAB2F60D596F6E7DFAF
+6B1FB9712704E41C4F9771465B8FCC69E0692CDA351549A4E2E4F0E9B8EF1D5B9C9EFD19F637FC15BFE075E7ED35FF0004CBBAF8812F836F34CF1178774DB3F1
+626917970F24D62CB103776EC5F07724324C0F032631C0E95E61F00FF6E5D3F4FF00F8213EA9F156E6FD5BC4DE0DD0E7F074737CA644BECADBD930CF52209EDE
+427AFCADD7A9FA3C7623EA19F55AED5B9F0EE5FF006F43FC933F17E17C9E3C5DE14E5F95537ED1E1738852BAFF009F588495FD1CD5C7FF00C13B7F66CB4F83FF
+00F045DF881E3ED77478D759F1F78375ED6E496684798B6BF62962B5504F3B4A279A3FEBB1AF23FF00826EF8F75EF869FF00043DFDA13C63E199A48AFA1F116A
+505BCF1310D099B4DD3A1F3148E85448581EC457974E8CB032C125A3586A8FE6D26FF167DE62F1D478AE1C4B52A7BD4EA67382A7DD3846A4A9AF972C51EE3FF0
+6E3FC2CF07689FB257883E2D5B69B036BDAF78BE7B3BCBEDA0C8B6D6F143E5C39ECA1A491B1DCBE4F418FB17F69FF0CF872DBE027C4AF165BF87ECA3D52E3E1E
+EA76F71A925AA0B89615B5999636931B994162429380493DEBE9720C3D2A7C2F4525F62FF369B6FD753F0FF17B34C762FC77CCA539BFF7954F7FB10942318FA5
+A2B4EFA9F917FF000494FDBAFF0068BFD95BE09F893C1DF073F616F137C53B1D43C52D7B75AC68935CAC76937D9A14FB3B7956930DDB515F96070E38EE7F62FF
+00679F895E2CF8C3F053C39F137C73F0CAFBC1BABEB5A6ADC5FF00863526669F4F90923CB62C88D9E33CA29C1E40AE0E0BCC31588C0D3C34E838C611D26F696B
+D34FEAC7D87D26F83722CA38B3159D61B34A75ABE22BDA7874BDFA5EE5EF2D5F64B65B9D9D15F6E7F2D9F91BFF0005BBFF008593E24FDAF7E17FC62F04FC19F1
+26B5A5F846102EA6D374E9268E596D750F39A3DF1A308C95C7DEE8181E6B53F699FF0082877EDE9FB7FF00C34BEFD98BF66FFD82FC59E1A8BC4F6BE46B5AB6A4
+B2C8EF64DC3C61E4861860471F299198E54B000120D7E5F8BC666D85CCB1B87C361E5295771B4B5B2BC37DBB79F467F7570CF0EF00E7FC17C2B9DE759CD1A34F
+2B8547528B71739B559CD46DCD7576926B95B69D92BB47A2DBFECADFF0CC3FF045DF19FECF3A0595D6BDE36F1069F793EB567A4D8BC924BA9131992344196658
+A28D101032DB776D19207867FC13AFFE0A51F127F617FD9AADFE05EBDFB0CFC40D7E4B5D66F2E9F54B6B79ADD332B06D9B5ADDB057BF3F956F899D6E1BCC30D2
+8519558C28F25E3B5EE9B7B3FE99E5E4B4729F1AF83F3CA55F33A382A988CCDE262AAB57E454DC22B95CA2F676BFF759FA85FB3F7C5587F6B3FD9A74DF891E2B
+F85BA878720F16699731DEF8635D53E74516F921657CAAE55D5770E0655C57E15DDFECEDFB4DF87FE246B1FB0069BE18D6E1F08EBDF14ACE61AA4BA7C86DB640
+D35BC779E728F2FCAF26E048ED9C7EE9391B6AF8BA96331D4F095A8C1A724E2D5B54AA25A3F4B338FE8EB9970FF0AE69C43946678984A187942B53973251A93C
+2549DA54EEECF9EE9A49B6D1FB75FB44E83E14F097EC2BE30F87BE07683EC36FF0C750D2B40B5B790379A134F9228A28C0FBEC701401924D7C67FF000456F801
+2FC43FF826AFC50FD9F3E2C6917DA17FC271E2AD56D2D63D4ACDA199A2934BB28FED1124801708E090471B93AF15ED63F072A9C4187A6A2F97D9548BD34574B4
+7DB43F36E13E26A781F08F37C54EAC7EB1F5EC2568C5B4A52717393696ED27BB4B43C3FF00645FDA3FF6C4FF008235EBDE24F80FF163F665D57C61E11D4F586B
+8B1BAD1E47F27ED4008DA7B5B948A48E5591123DD136D652A33B4EE53F5B7C0CFDB8BF691FDBA3E1CFC645F147ECD127817C2507C39BE8BC336F7B24B26A1A95
+F3C13060A5D63F3176E3848B0ADC176C803C3C8F32CD30F4E393D4C3BBC1494A5D39526D3DBD2DE47EA3E2A705F0067188ADE2460F37872629D19D3A0ADCFEDA
+53A6A69BBDD24B9A525CA9A774DA4B5F8E7FE0981FB7B7C49FF827AFC1CF107C39D7FF0062FF001E7897FB63C4C7525BEB4B59ADD62CDBC517964340D93FBB2D
+D7BF4AFD4DFD8FBF6B887F6A2F81B1FC69F14FC32D53E1F2C9AACF64BA5F89A50923F97B71229654CAB67038EAADE95DDC239B57950A797D4C3CA1C91F89ECF5
+FD6E7CCFD22B8072AA39AE378C3079BD0AEB11595A8C1A738A71776DA93BA5CBAE8B73D23C3DE38B0F11ADE3DADB3AAD9EA125AEEDC0890A63E618EC73457E83
+4E84A54D49F547F23D5C7D1A351C1A7A3B1C237C2DD66FBC2DE22B997FB521BC9352B892CECE3BA2B14EB905494E8D9E6B42D97C51E1CF19DBF8917C117B751C
+9E1B82D9E3B38D14472E7257048C018ED5CB1F77955B64B5FF00B75A7F733BAA7BCA5ADB57FF00A545AFBD2655FF00842B5EB2D157C41AB6837FF6FB8D725BE6
+5D1EE13ED164B20C60060564E9C8FF00EBD5EF0F78335DB2F85DAFDADC58DC7DB3557B99A1B5B860D361D70A188E379C64FB9ED4A515ECE51DF4B2FBA3AAF2D0
+7193F6917B6B77E5ABDFEF3B0F0C595DDA7836C6C2EA0D9347A7C69246DD55820041FC6B81F07780B58593C2516BDE1C2D1D8DBDF0BC49E30CB1B348C5320FAF
+18AB972FB693FEB69FF9AFBCCE175452EBA7E9729FFC213E21B2D034F0FE1DD4A392CF50BC68E5B258E46855DBE5FDC3F0EAC3DC62AEE9DA3F8CB43FF845FC41
+79E10925FB00BC8EE2D34F8515D1641F2314CED19EA70703DA9A977FEAF1B3F96B72A5EF592EDF93BFFC37A8DD0BC25E2D853439AEBC3F24725BEBD7971711B1
+1844753B493E84F71553C2BE14F141F136857B7FE17BAB75B6B8B95BE53670C70441D480176FCEEA73CB31239E3BD118AE74FB0E5293A7F7FDFAFF00990C1E0A
+F1441A2E8ED2F866FA3FEC9BEBA1791DBDBC3248FBF949115F2B201D39191DBD6AE5A782B56D19345D6A7F095FDF595BDEDD4971A5CC229254F314056F2C6100
+C8CED1F773531B28ABF97E297E5FA05494A5749F7FCDFE77FC4DFF00867E1DD574BD3F525BBD024D3D66D6269A0B5623E48D82E00C718EDC71C515DD4EA4634E
+316F64BF23C5C4D3AD2C449C5697676F40245719EC00C771583ABFC46F0D6862F1EEDE764B09E386E24861DC3CC7190831D4818CFA66A6FCB2B7F5BA5F9B416B
+90D97C55F0C5F493411A5F473DBDB998DACDA7C8B23C60E095523E6FC39A8F49F8B7E17D6F545D1EC2D75233798B1C81B4F9008D9BA6E38F97F1AA8C79A565FD
+74FC3A869CB7FEBFAB6C68681E3BF0EF8975ABDD074ABC67B9D3DB6DC2942070C41C1EF8231C7B54973E33F0F5BF8AA1F06CB7BFF130B888C8912A1202804F27
+A03804D28AE6E5B75575F75FF2B83BC6FE5FF00AB63F137C21A8EA8DA2E9F7F24B3FEF0438B760B3B27DE546202B11EC6B5341D674EF11E9506B3A5CA5A1B85C
+AEE5C30EC411D883C1149735937D9315F96567FD7F5FA1688E714550C0927AD1415CCC28A090E71C578EDF5B5D4FF0B35089E299AEA3F1639BC30A96915BCC04
+B700F6C566FF0088BE5FFA5447F67E7FFB6C8D7F0524977F132DF53D1EF758D52D574F923BABCD6ADD97C8E72AA84AAF24F518E95674ED42FBC33AA78EF5C165
+2B3ACD135A81113E63796C063D79C74AA97372BB7F2CBF1946DFE6287C7F38FE5FF0C61F85B44F18F81B59F0EEB5A8787D628E6DD69793433191E5F38970D20C
+7CB863CF27A5588742F1BE9FF117449B54D1EDDEE679AF24B8BC86E5983EF40093F27C9B5400AB939C751D6A9C539249EDCD1FBD37FAE84DF9949BEA93FD087C
+291DC5D0F0AF83E2B1B85D4347D52697520D6EEAB0A02C72588C10D918C1E6BB0F83EADF60D61901FB3B7882E8DAFA6CDC3A7B673443ABEE9BFC63FE4C25F17A
+34BFF4B7F934759450505140051400554B0D0F4FD3B51BAD52CE231C97CCAD73863B5D9460363A671D4F7C0A56F7B9BE427D8B6DD78A298C3DA8A006CD12CF13
+44495DCA46E5382335068FA469FA0E9B0E91A5C1E5C10AED8D739FC73DC93CE7BD25A36059A298051401FFD9
+.end
+.ExtObjData IMG1
+409
+04FFD8FFE000104A46494600010101006000600000FFE100644578696600004D4D002A000000080004011A0005000000010000003E011B000500000001000000
+46012800030000000100020000013100020000000E0000004E00000000000000600000000100000060000000017061696E742E6E657420342E3200FFDB004300
+0201010101010201010102020202020403020202020504040304060506060605060606070908060709070606080B08090A0A0A0A0A06080B0C0B0A0C090A0A0A
+FFDB004301020202020202050303050A0706070A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A
+0A0A0A0A0AFFC00011080078006003012100021101031101FFC4001F0000010501010101010100000000000000000102030405060708090A0BFFC400B5100002
+010303020403050504040000017D01020300041105122131410613516107227114328191A1082342B1C11552D1F02433627282090A161718191A25262728292A
+3435363738393A434445464748494A535455565758595A636465666768696A737475767778797A838485868788898A92939495969798999AA2A3A4A5A6A7A8A9
+AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE1E2E3E4E5E6E7E8E9EAF1F2F3F4F5F6F7F8F9FAFFC4001F010003010101010101010101
+0000000000000102030405060708090A0BFFC400B51100020102040403040705040400010277000102031104052131061241510761711322328108144291A1B1
+C109233352F0156272D10A162434E125F11718191A262728292A35363738393A434445464748494A535455565758595A636465666768696A737475767778797A
+82838485868788898A92939495969798999AA2A3A4A5A6A7A8A9AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE2E3E4E5E6E7E8E9EAF2
+F3F4F5F6F7F8F9FAFFDA000C03010002110311003F00FDFCA2800A2800AF09FDBF74EFDAFBC41F0A2C7C3BFB195AAC7E2493564B9BBD425D6E3B148ADE053279
+25D92427CD902478084152C19901DC13BF4EEBF32A3CB7D4DCFD9CB4BF8FF6BE33F1B6B7F19AEB543A7EA975A75CF86EC752BAB39174F536117DA6DA316DD112
+E3CC197DCCDD7730C1AF5AA7E842F30CD140C28A0028A004638AF08F02FEDAABE33FDA5EEBE03BF8021B3D3D6FB51B0D375A935966B8BABAB1F2FED00DB79015
+23FDE7CAC26672064A282094B59F2FAFE01F65CBB1EF00E457CFBFB46F8E7C35E03D4FC57E3BF1DF83FC41E24B3D1574C82CF4ED2F50B88E2B413ACA5E691626
+01532A3749B5987000E69823A2FD9D755B2D47C532DEF87F43D6F44D3358F04E91ABAF87B5CBB96496CA79A6BC57CAC8EFE5B158E30C14E0940719C930FEDBDF
+B667823F61FF0084B6DF157C6DA7C3791DE6BD69A6DBD9CDAB4567BCCAE03BF99202BFBB4DCE57A90B81C9A4DEC34AFA16FE02FED447E38FC4CF16781ACFC032
+5A58F8712DA4B5D7ADF558EEEDEF166DE551CC636C13EC5590C3B9D9639A32DB598A0F5BA7D04145001450023648C015C64BF057E01786FC7B79F1EA6F853E13
+B1F13FD958DFF8C5F45B68EF842ABF317BAD81F6851CE5B181CF02975B8791E23E39FDB23F69CF1DFC04BEFDA1BF60EF81BE05F8B3A27DB355B5D1E38FC7EF69
+35F7D8EF65B43711136C61990B412B6D12A9236ED66CD5EFF825FF00C4CF8E9FB44FECF16BFB547ED0D1E8BA7F883C788B2BF86B45D1E5B54D192DA59A1585DA
+5B895A67206FDF841861F2F72C6727FF000549F8E9FB567EC7561A17ED1DFB2B785741F196A5AF6ADA6F84EEBC01ABE95334FA8966BC9A392DEE62B94F2986E7
+5DA6293712B8C1183D3E9BF1BFC79268FE0BD7FF00E0A0BFB3FF00C33F01AF88B53FECCD36C750F1826AD3585DCF6D22189A492D1210D2FCD16D8E43B964C127
+25693D467B47C36FD9F7E037C1FD5B51F107C23F82BE11F0BDF6B1B4EAF7DE1BF0DDAD8CB7DB73B7CD7863532E3271B89C64E3AD7634C90A2800A2800AFC82FF
+0083A8FF006E1F89BF0EFC19E0DFD873E10EB171A7CDF10A36BBF134F6931492E6CC4BE54569B81CEC7937171FC4028E99042A3AC8F72FF8268FFC13F7E39FC2
+FF00D91BF67DBDB2F8AFE2BF02DFF8067D4CEBDE15B8D5125B5D734DB8D56F67C4F0C2CF01F3A0B9DE07CCD19301120301DFF8A5FB767EDA7FB62FC14FDB17E2
+37C3CF837FB577C48F09E8167E2799ED743F0D78E2FEC6CE1670ACE5218665452CC4B1C0E4924F34151D6477DFF0486FDADBF6AAFDA07FE0A11F0D7C1DF1E3F6
+96F1FF008D748B5F15699796DA5F8B3C617BA8DBC572BA8DAAACCB1DC4AEAB2057750C06407619E4D7E8E7FC16A7F60DF8F89FB037C46F186AFF00163C55F103
+54BBF1E7FC25770D36A49E4787ECE11298E2B78E57458ADD032811C60B2E3FE5A3167601D948E93FE0839FF0532F88BFB467EC2C96BF19BE24F84ACB56F87BAA
+7F60DE7883C6BAC34125FC5E5ABDBB96620330460858B659909C57DF16BF177C4DA25943E22F19687A5DF786EE15593C51E15D45AEE1814F579A22A1922CE079
+91B4A0649708AA5A8225B9E8104F0DCC09736F2AC91C8A192446CAB03D083DC53A8105140057E11FFC1D5165A1F8C7F68DF037883E1BEA31DD78B3C1BE176BBD
+46CEDE41239B55BA662E157F8A1719917390AEA7180C40547E23E87FF82657FC1C2BF07FE20F85B41F853FB5525BF866D2486DF4DD0BE20439FECD598A6D4B1D
+4F8FF41B91B485988104E14C8BE5728BF935FF0005C5FD9E61F805FB7E78BC5978E575EB6F106A0FA85B5D2DAAC7B63748D957E5660C02BA8DC3EF633819C00A
+8AE591E95FF06E17ECFDA0FC4CFDB5DBE31F8B7E27DBF86747F86B671EB9A94B751C6239A386649F0F2C8EAB0206854B39CE1411C6723ED0FF0082CA7FC17B7E
+1CFC42F835E28FD9CBF657D3BFB63C3FE21B29B4A97C6D750B2A6B5293B1A3D3222374D0A3021EE880991B5371656A076BC8F32FF821EFFC1327E0EFED21F05A
+FE3F8AFF00083C33F10358F08F89AE9F5DF0B78B3C497BA65BD84D7B696862DB259C52B3C91C70E1E391701E46C105327F497F63DFD88F42FF008259FECFDF15
+A7D275C9A7D2FC57AE49AA683F0F34ED527B9D3F4069231043A7D94B747CD9A4964650D33842E7CB1B176E58225D8FA73E02FDA3FE1477837ED51A2C9FF08B69
+FE62C672AADF674C81ED5D6504851401CEFC51F165DF847C2335DE911799A95D48969A4C3C7EF2E6560918E7B027273C000E78AFE687FE0B83FB47EBBF12BF6A
+0F0FFC46F879772E9F6BE0F9B52D0347D6ACE4659AEAE2D2F64135CBB649DEEECC4AE4E1481C8A0A86E7CBFE1CF8D5F0FB53D5DBC49A941AAF80FC4171198F52
+D67C11670CDA76A48482C971A53B451A87600BAC720808185B61DFA2F1378B3C2DE35D3ECAE3C4DE2DF84FE2C9ED61F2E16BE6F11E9B2DBC7FDC10466DED2203
+006D8576F1DFAD06C49A278E3C35E07F0FDD597873E21FC30F0B43A8346356B0D0F4FD775996F2356042B5BDF89AC642A7E65DE54823865AE4F5EF8EBE1BD035
+59BC47E017D73C43E28994467C79E38646B98102855FB2DA06952DDD546D123CD3150018C44403401FA55FF06BE7ED55AA7C18F89F6DF07BC4B6DE769BF193C5
+5AB5A47A84CC4C8BA958585ADCA1C93CAB249306C824B6CE7AD7EC3FC7BD66FF00E29FC57D27E0C7876E645B7D36E91B519E13D2FA6859957A15FF0046B3F3AE
+195C7135C69C41F9A83297C47B7697A6D8E8FA6DBE91A5DAC705B5AC2B0DBC31AE1638D461540EC000054F4101450070A8E3C7DF19E409F369DE0987633767D5
+6E62071F586D5C7A83F6D1DD38FE6D3FE0A15FB3E5DFC30FDA1BE2AFEC9BF133ED168DA7F8D2FBC51E13D49A37936D8DD9F35AE1114132C40E7CE0A1A455DAEA
+A4452290B86E7C45E35F87BE2DF87F791DB78974A31C57285EC6FA19165B5BD8C1C7990CC84A4A99046E524020838208AC5A0D433DEBA4F87FF0BBC49F10666B
+9B48C5A6976F22A5F6B174A45BDB93D1738F9E46FE18972EE7800D007E8F7FC1237C33669FB68782358D22CE64F06FECFF00A56A1AFEBD3314DF26A57909B5B7
+B20F900DCCF2BC60464E0485914E02D7EE97ECA5E06D49DF52F8ABE2A9A3B9D42F26B8B686EA3C959A579BCCBFB98CB00DE5C972AB04592C3ECBA7599538A0CE
+7B9ED1450661587F11FC5971E08F055F7896CB4D179750C6A96566D3796B3DC48E238919F0762991D416C1C024E0E31401F33FED5FFB67F8A3F603B2F87BF027
+E167ECDFE24F8CFF0013BE245C6A33E9BA4E8F751E9B0DEDCC5B6E2FAEA7B99448B6EA5E7DCA9860A9C7CAA82BE55F8D5F0AECBFE0B77ADF883E0FFC65FD98FC
+51FB3CFED11F09ECED751D2F509B588EFE2104E58C2C97B6E89E60DC85B6ED1D3E5604EE50A5DCFCDBFDA33F60AFDB53F642D76E7C33F197E0A6B50C37D744B6
+B9E04D1ADF54D2B58902B1F327D0EE00B7B89829C799018D23EB877C93F3C6AD61F0B164F2759D3FE16DADE0FF005BFDB5A4F8AB4DBA73EB2416CC6DA36F558B
+0A3B5068A489FC3FA6FC3DB9B88ADBC1FA2FC3DBCD40C8A15BC23E14F116B97C0E7EEC76BA9B0B3949F47E3D0E6BE94FD9BBFE09E1FB5F7ED51771EBDA2F876F
+BC1FE19D2D9E2D43E23FC42F22C23D2222C3CD5B1D3E2C5B69470795DCCFDE361CAD01CC8FD5AFD90BFE09F9F08FE127C05B0F823F03A7B85B3F1223CDA5F885
+08FB66A3391B2E3C4539607E58918A5AC6C39770CC002043FA0DE1AF0FE91E13F0F58F85F40B18EDAC74DB38EDACEDE35C2C5122855503D00005064CBD45020A
+E33F683F0BCBE33F843ABF8763D32F2F166F21E6B5D3A778AE258639E3924589D195964288DB4AB2B6EC608383401E5DADDDC1AC787341B2F1C782B4DF8C5E19
+B8D5962F0C6B416DE1D62C2F006502749FCB8C4D1ED756B88DE1954FC8D0065676E97C05A378BBE1F49750FC2DFD92B47D07EDF309350BCBFF00135BDBC97720
+180F33DBC57124AD8E3731638EF401AFABEA7FB4C6A96F269B77F033E1CDE5A4CBB658AEFE235E9575F42A74520FD0D79C7883F63EB7F16DB8B19FF658F837A4
+C3BB715B1BFBC6C37AE20B4B5DDF98A00E6B5DF805E07F85BE36D0FC17E23B6F833A069B268F7BAA5C6B57BE03DF3D8FD9E7B54C433DF5FC888E4DC6E123C6C1
+4A7DC39E3BED0FC2DE19D66F21BFF05787F5CF88DACDB2EDB4F15F8CA4FB3E976471F2CD02AC296E0ED380F636C4B630EE393401DC7ECFDF032DBE0978422D2E
+FF00C4326B7AC3C2A97FAC4F0842EAA494863404F970A6E21532792598B33313DF5001450014500717E2EF803F0C3C67E228BC5DA86917767A9C772B70F79A36
+AD7360F3CAABB55E6FB3C8827655E14C818A8E062A1BBFD9EBC0FA87FC7DF89BC707FEB8FC4AD6E1FF00D1776B4012D97ECF9F0C2CBEFDA6B379FF00614F156A
+3799FAF9F70F9FC69F7BFB3BFC09D4FF00E42DF087C3B799EBF6CD2629B3FF007DA9A009BC2BF013E077813545D6FC11F06BC2BA3DEAA955BCD2FC3B6D6F2804
+E48DF1A06E481DFB57594005140051401F05FC6CFF0082DC789FE17FC67F8B9F0D7C07FF0004EDF89DF10343F8277B0C3E3CF17F85F54D30416A8F68975E62C1
+3CE92B811313800FDC3C8A3C57FF0005CAB1D73E27F847E187EC9FFB11FC43F8C575E30F85769E3EB36F0DEA3A7D9BC1A5CF298C798977327CEADB41552796E3
+3493BC53EF6F95D37FA32A4B964D3FE9DD2B7E25AD37FE0BD7FB3DF8C3E08784FC7FF0AFE017C4CF1478EBC5DE34D4FC2707C1BD3F48B68FC43A7EAFA6A09350
+82E9669D6188408C8C5BCC3912A700960B27C5EFF8380BF621F83FFB26787FF6A4D6ED7C5524FE26BC6B2D2FC0C34371AA25E45742DAE6DA765DD6F6EF0C9BB7
+6F9403B70A589029FA7756F3BDB5F4D49F27E7F2B69FA33EB0F8DBF1897E0F7ECFFE28F8ED1F8797525F0DF85AEB595D2E5D520B11722181A6F28DC4ECB0C1BB
+6E3CC91822F5620035C5E9DFF0504FD9274CF08786B59F8BBFB44FC3CF03EB1E21D0F4DD40F877C41E3FD352E2D9AF6059628B779C165CEE2AAE995936E54904
+51F69AF4FC6FFE425AC54BFAE8747E3BFDB03F650F85BE3DD27E15FC4CFDA67C01E1DF136BA91BE8BE1ED6FC5F656B7B7EB21C21861925579031E14A8393D335
+A7ABFED1BFB3FF0087CF88975DF8DDE12B36F07DC5BC1E2C175E22B68FFB1A59D4340975B9C7D9DA4521903ED2C0823347F5FA0CF29F875FF052DF801E2CF1E7
+C60F0C78EB5AD3FC13A37C1BD72D34DD73C5DE29D76D6D74DBA37102CA92A4AEE151486006E3C9E9557E3AFF00C15ABF612F80DE08F87BF12753F8F1E1FF0011
+681F133C710F85FC37AC784BC45A7DE5AFDA5FFD65C492FDA1545B41941348A58C6658F2BF38A49F35BCEDFF00935BFCC24B96EBD7E76D4F52D3BF6B1FD97F57
+F8B67E01695FB467816EBC72B1798DE0EB7F1659BEA8136EEDDF651279B8DBCFDDE9CD790FED31FF000567FD93BF67CF1B7837E18E81F10740F1D789FC51F177
+47F006A9E1BF0A78AACA7BEF0F5D6A0660971790090C91C68D095652036580EB46F28A5D5A5F8A57F95C1FBB16DF457FC2FF008F43E1DFDA07FE08FDF19BF68B
+F8B7FB6F7C58D4F55F8C5E19BCF116A16971F0CF4BF0878D25D3F4BF16F97A4468CB3DAA931DDAF9A9E591201D48EF49F0B2C3F6DCFD907F6C5F85BFB51C9FF0
+4DDF88DE35B41FB26E93E0FD6345F00E97636A34AD616EC4AF03A4D344912A84C10B90370C0229424E3CAADD17DFCB24FEE6D1552D539B5EAFFF004A8BFD19CB
+37FC13D3F6A3F867FB3EC3FB5A7C69FD97BE2E5BFC54F1A7ED1DE24F88B7565FB3D78B34E6F12FC3DB5D5A05885AAC7710CB6FA8A48B0A2CCAACA53721CFCAE0
+7693FF00C1387F6ADF087FC1BCDE24FD9AA0F867E21D5BE2378B3C64BE225F0ADD5D4575AA431DC6B90DD79770EA4234EB082D29538DDBB1E9551518C6CBA72A
+FB946EFD34173734949F56DFE32B27E7A9F7F7FC1427E1B78EFE297FC136BE307C25F87FE18B8D53C49AF7C21D674CD1F47B55066BABC974E9638E150481B99C
+851CF5AFCD2F127FC12DBE3578F7C05F192EFC7BFB203EB1AE5C7EC8BE0AF0EF81E6D5348B79E74D72D6CD56E6DAD99C931CC8EB862A57A75351F6A4D76D3F1F
+F31D3D2104FBEBF7C7FC8F35FDB17F60BFDB8D7E21CDADFC22FD8BBE22EA1E2EF13F80FC1B63343A9787BC3FE2EF07F8B26B0B582368B531A879371E1E680A32
+974797CC2A5D4A6413E93FB697ECE3FB7CD87C56FDAB3E12F867F61CF17F8BC7C7AD47C0BAE685E30F09C96ADA2D92E9DA7DBC17D14AF34CB289165490246119
+9D541380413AC5AE6D7BBB7DE9EBF75BCC9FD12FCADF7EBB15FF0068FF00D8E3F6DFD2352F8B5AC681FB246B1AF68FE20F8EDE12D564BCB5F09D86B7A8DBE956
+DA688E7D434DB0BD7FB3DCCF1CBF20128655DC4ED23E65E37E17FF00C13D7F6B4F05FECE9AA6A7E24FD893C7DAACDA2FEDE5A7FC43B5F0EEADA2E8EDACDD785A
+4B2449A758AD1A3B12ECE882582DCAC619071B141134FDDD5FF77FF71FF93FB8AA9AEDE7F8A9FF009A2D7C17FF008261FED516DFB64DBF84FC7FF023E315BEA9
+67F1D6F7C6961F10B49D37C3169E1FB7D3E595A58A693576824D4E57F2D842F62182F60540C8CCF85DFB05FED2DE19D07F679FD9CAEFFE0953E24B2F885F097F
+6AEB0F127C43F8F11E9FA71B3D5B473A9DCCC678AF166FB55E2346F0B481936442D90677155154F4715E7177ED66AEBE76FC09A9EF2935D9FCEEA56FBAFF008F
+91FBD5B47A52ED02A406B807A8AF93FE357FC165FF00636F80FA7DF6ADE293E32D4ACED7C7D27832D67F0CF84E6D4BFB4F588E2124B05AA4059E609F70B05C6F
+040CE2A6FADBFADD2FD43A5DFF005A37FA19DE10FF0082E07EC4DE3AF0078CFC6BE19D3FE264FA87C3FB8B08FC55E076F85BAA27886D12F58ADBCE34F6844B24
+2C55B2E8085032D80464FD9BBFE0B81FB137ED4D67E24D6FE1BD97C45B4D23C27A25FEA7AE7883C43F0EEFEC34FB78AC94B5C47F68913CB332E08F2B3BF3C633
+55B26FB2BFCADFD7CF41F6F5B7F5FD6C7AFF00EC41FB757ECE9FF050BF8211FED09FB32F8AAE354F0EC9A95C583BDF58BDACF0DC42DB5D1E37F994E08619EAAC
+A7BD703E1EFF0082C3FF00C13F7C4DE18F8B9E37D2BE366FD17E09EB91E91E39D5069372D0ADE3BC88915AED42D7859E2755F2436E38DB904124A3CB26BB2BFE
+5FE6851F795FCEDF9FF907C38FF82BE7EC4DF16741F0DF8A7C1BE31D69AC3C43E3F4F054D26A7E1CB8D3E4D135B92232416B7F05D2C735B1980DB1B142ACCCA3
+237035F500553CE28B3FEBD13FC9A12974FEB7B7E828451C8140551D0503168A00CEF17AEA8FE14D4D344DDF6C6D3E6169B7AF99B0EDFD715F819F12749965FF
+008264FECD7ACDFEAFE3CD15BC3FFB4CEB971E3FF127C39D2A6BAD6B459D6E6E7ED1751AC50CCC250DD0946EBD0D4E9CF7FF000FFE948AFB365E7FFA4B3EA1FF
+008224687E2AD53FE0A11F1F3E2E7C3FD57E307C40F863E20F01E8B6F0FC5DF8F3E1DB8B1D76EF56819C7F675B34D0C066B548DDD8E215DAC101EAA5BC5A5B4F
+DA46CFFE08BBE22FD91BE11FC25D76E7C6DF19FF00696F116856BA74D633DAEDD3E4D4BCE9A6925F2CF9113468079A46DDAC719E95528B95A36DD256E9F12FD3
+564D3925272ECEFF00747F47A1AFFB33FC24FF0082A07C01F887FB4DFEC27F0EBE03F873E16F8ABE32782EC3C5FF000E1349F134D73A0E9731923D3B55F2B524
+B5021BB9200658D7CA26378D4E08009F1E93F66EFDADFE1B5AFED41E1CD57F640B1F09F85FC0FF00103E16EA9A8E8FE0BD4AF3568E2B2D26D2D90A599369136A
+118B5469A69400E250576B925A8528F32937D17DD192FF002FBB50E5972F2AEFF9AFEBE6765FB4D6AF37C7BFD963F6CDFDB07E13683ADDBF867E257C4DF04D9F
+C1FBCD4743B9D3EE357D56D6F2CD3ED36B0DC4692E4C84A86DA0928C3B1AFDD8F0F2DE2E8566BA81FDF8B58C4DFEFED19FD688C5C6924FA5BFF498FE44FDABFF
+005BFF009DCB94505051400D7AE1FE117ECEFF000BBE06EB7E2BD73E19E89269ADE33D79B59D72D56EA46B77BD75559258E362562DFB41608002D938C92697DA
+BFCBF2FF0020DD7E2775B47A51B47A530136A9FE1A0A8C636D00709F187F674F853F1EB5AF07EAFF0014B4193541E07F1247AFE8364F74EB6EBA8C71BA453C91
+0216631EF6640F90AF861C804778140E829476B7CFF05FE483FE1BFAFBC28A607FFFD9
+.end
+.ExtObjData IMG2
+392
+04FFD8FFE000104A46494600010101006000600000FFE100644578696600004D4D002A000000080004011A0005000000010000003E011B000500000001000000
+46012800030000000100020000013100020000000E0000004E00000000000000600000000100000060000000017061696E742E6E657420342E3200FFDB004300
+0201010101010201010102020202020403020202020504040304060506060605060606070908060709070606080B08090A0A0A0A0A06080B0C0B0A0C090A0A0A
+FFDB004301020202020202050303050A0706070A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A
+0A0A0A0A0AFFC00011080078006003012100021101031101FFC4001F0000010501010101010100000000000000000102030405060708090A0BFFC400B5100002
+010303020403050504040000017D01020300041105122131410613516107227114328191A1082342B1C11552D1F02433627282090A161718191A25262728292A
+3435363738393A434445464748494A535455565758595A636465666768696A737475767778797A838485868788898A92939495969798999AA2A3A4A5A6A7A8A9
+AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE1E2E3E4E5E6E7E8E9EAF1F2F3F4F5F6F7F8F9FAFFC4001F010003010101010101010101
+0000000000000102030405060708090A0BFFC400B51100020102040403040705040400010277000102031104052131061241510761711322328108144291A1B1
+C109233352F0156272D10A162434E125F11718191A262728292A35363738393A434445464748494A535455565758595A636465666768696A737475767778797A
+82838485868788898A92939495969798999AA2A3A4A5A6A7A8A9AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE2E3E4E5E6E7E8E9EAF2
+F3F4F5F6F7F8F9FAFFDA000C03010002110311003F00FDFCA2800A2800A2803CE7F6AAFDABBE067EC5DF05B55F8F7FB42F8DA0D13C3FA5263737CD35E4E41D96
+D6F18F9A599C83B507A124855661E4FF00B167FC15ABF654FF008281F8785F7ECBD7BA96B1ACDBD9ACFAD7856F8DAD96A1A46E25409A39A75F31723992DCCC83
+2016C90083B3DCF77FB77C64BCFDCAF867C37A786E974DADCF7463F7310B68B79F6F317EB585AD78A3C57A4EA6DA26AFF142D5EEA2412496BE1AF04DCDCCF103
+F74CCAB2DC6C56E719542D83827068112691F14B55D3AD24D735FD534CD6346B793CBD4F53D2ED64B49F486C038BAB595DD915460BB965640C0B4410348BE819
+CF4A0028A0028A002BC9FF006CFF00DB4FE017EC19F03352F8FBFB42F8B574ED2AC879763650E1EEF55BA2094B4B68C91E64AD83C642A80CCE555598007F2E3F
+F0539FF82A0FC7AFF829D7C6D6F887F132E5B4BF0CE9724917837C176B705AD748B763D49E3CDB87001926201620001515517C0BE1F7C45F1F7C26F19E9FF117
+E1878CF54F0F6BDA4DC09F4DD6346BE7B7B9B6907F124884329EDC1E41C506E96963F677FE0991FF0007535CDAFF0067FC1FFF008293694658FE582DBE28E836
+1F32F6DD7F6910F9BDE5B75CF4CC44E5EBF5B3E06FC73F83FAC782DBC5BA27C40D2751D075DD4EF353D27C65657892E99AA433CEF2478BB52631246A44062765
+71E4602ED0B4194A3CA747A66A1A2F8E3E27C1E23F092ADE69F0E877169AA6AB0AE6DAF0B4B134312BFDDB8D989CEE52C232CEBC1908AD1F83CC62F87F67A3E5
+986913DCE948EE7E674B4B892D95CFBB2C418FB9A093A6A2800A2803C7FF006E7FDB47E16FEC11FB3BEADFB42FC57B4D46F6D6C7F73A6E8FA45A996EB53BC31B
+C896F181C2FCB1C8ECED85448DD8F0B83FCB07FC1447FE0A33FB417FC149BE39DC7C61F8D9AC793636A5E1F0B7852CE66FB0E87684E7CA881FBD23614C9311BA
+460338554450D29F73C0A8A0D02BDEFF00614FF82967ED75FF0004EDF1BFFC259FB38FC4A9AD74FB89964D63C27AA6EB8D2754C63FD75B9600360604B1949547
+01C024101EA7F40BFF0004C5FF008382FF00648FDBFDB4EF863E369E3F86FF0013AEB6C29E17D6AF01B5D5663C62C6E88559598E310B8497270A2400B57DA9E0
+B63A778DFC55A0CC7E696FADB53B745FBAB04D6E90FE666B5B863F5CF7A0E7D8EA28A0028A00FCD9FF00839FBE1DFC52F8BBFB187C32F861F04BC37A9EAFE2CD
+63E3BE931683A7E8EA7ED125C7F666A9B4A1046CDBF78B9202852C480091F867FB6DFEC8FF0011BF63EF8DD27ECF9FB5CDBE87A6F8C46996F7D1F897C2BA825E
+DADC24C0EDFB647180C1C3290CEA892F0CE63B8F311C8694CF09F13F83F5DF094B0FF6A5BAB5BDD297B1BFB690496F7683AB4722FCAD83C11F794E5582B02065
+D06815259D9DE6A379169FA7DA493DC4F22C70410C659E476380AA072493C003926803E83FD87EE2DFE1C7EDA3F08BC2BE1C7B7BCF105DFC4ED061D6350176A9
+15B236A1006B18663955DC32B34FC82098D7F77E619BFAAFF823A1789AEFC45AD7C56F135FCB33EBF67656F6FBB7A47E5DBBDCB868A26FF5509FB4E1777EF1C2
+EF7C170AA19D43D1A8A0CC2B37C53E2AD27C21A51D5355791B748B1DBDBC29BA5B995BEEC51AF5673D87D49C004800F17F14F89FE2078FBE20B781FC052DB9F1
+8470FF00C4CB562A2E2C7C0B6728C1C7F0CFA848B9017F3DB103BFF1CFFE0B53FF0006FB7ED63E11F19788FF006BDF80DE3AD73E2E787EE9A5BED734DD55849A
+FE951F2EE42A80B7908F99B31AAC832498DB0D210A8BB33E57F8AFFF0004B7FDA33F635FD82F47FDAFBE3CF8C7C39A2378AF558443F067C4D0CA750BAB290011
+5D941FEA67F998950639628893E62BB3443E5D3E0BD0FC6FFE93F0BE69BED8DCC9E19BE9035D7FDBBC800174338C200B28DD8092056928354EE72C96F7125C0B
+4481DA567D8B1AA9DC5B38C63D73DABAFBC962F84F672E8B6322B78A2E2368B52BA46CFF0064C6C30D6F19FF009EE4122461F701318E77E019FB35FF0006F87F
+C1067FB14687FB7BFEDABE0F3F6EFDDDFF00C37F03EA50E3ECDD1E2D4EED0FFCB4E8D0C4DF7789186ED813F6C00C741418C9DD8514126678AFC57A5F8434CFED
+1D4BCC91A4904569696E9BA6BA99B3B628D7F89CE0FA000166215588F16D7BC49F103E237C429FC0BF0FEEE01E288A3F2F5CF10463CEB2F065ABF5821CE04F7C
+E3A9FC4ED450A003D5BC01F0FF00C0DF04BC11FD85A085B3B0B5592E6FEFEF67CC93C846E96E6E256FBEED8DCCEDD8760001E73F16BE2CCD7B3E9F630F86EE35
+4BAD5A5FF8A3FC123F7736B1229CFDB6F33FEA2D23FBC15F1D3738DDB51403E6FF00F828AFFC10C3C29FF051BF8676FADFC4EF8E5ACE9FF15EC44B358F892191
+E5D2519C0FF43FB0B30516EB8DAAE8565C92EC5C1F2EBF2B3F67FF00F8373BE2AE93E32F885E23FF0082817C52D37E1BFC31F8791DC41378C743D421BCFEDBBC
+11929F63DD8FDD2120C9E62ABE54C3B55F7B441A465A58F8A359F173E9DA2F8A3C4BA56A96FAF6A1A2F892DF49D0BC6F3D9B437D2DACAB7845C1C39064296CBB
+5DFCC9220F8571B10AFEA6FF00C1BE1FF041B1E346D17F6F5FDB53C1BFF127568EF7E1CF81F54B7FF8FF003C347A95DC6DFF002C7A343130FDE71230D9B04815
+27647EEC8000C01450621597E32F17697E08F0FC9E21D5FCC68D66860861840F3279E695218614C9037C92C891AE485CB8C903240078BEB1AD7C40F8A5E3DBAF
+03F807558E3D7A1536FE25F14DAFEF6D3C276ED8DD636648025BD6006F930082012142AC71FAC7823C0FE01F821E045D07408A1D3B4BD3E279EEAEAEA619738D
+D25C4F237DE6382CCEC7F2000001E6FF00153E2AEA3A9EA5A7E95A7F86A6D4B52D49BCCF08782E5531B5E153C6A5A803CC16C846E48DB0723730F330B0761F07
+3E0C0F87D25E78CBC5FAC7F6E78C35A01B5CD7A58F190395B7817FE595BA7F0A0C671B8F38C0066FC5FF008C5A1E95A35ECD3F8926D3741B1B8FB2EABAC5964D
+CDE5D648FECEB103979C9055E45FF5786552240EF071B07EC9FE18FDA63C2D32FED63F0D74FBBF0CDE69AF65A17C32BA8F7D9E9566EB8DF3018DF76460EF1831
+1FB8430CA807C9FF0006FF00E0D8CFD8EFE117ED3F27C5093C4FA8F883E1CC3AA5BEB3A67C35D76113471EA108956249EE09CDCDA279CEC2275DCC42AC8F22EE
+0FFA5D1451C31AC50C6AAAA30AAA3000A06E571D450223BCBBB7B1B592F2EE748E1850BCB248C155140C9249E800AF84FC2BFF000506D27F6DCF83D3E97E20F8
+25A7CDA4DCFC6AF0DE8F259DDEAD3C121D0AFAFAD6E347D61637B7FDEBB3A80D092B1EFB79406750034DFDEB7A7E2D21F4BFF5B1F697C35F86DE0AF847E0CB1F
+007C3ED0A3D3F4AD3E111DBDBC6C58F4FBCCCC4B3B1EECC4927A9AF17F147ED1FA3FC51D7E4F0EFC336B3F136B96BAFDF69BA2F83E2B80C905DD85E496B3EA7A
+A953FBAB78A785CC311E5CAAB8CB95FB3508F4EF83BF066D7E1AC377E22F106B126B9E2BD69849E20F115D20125CBE388D0748A14E891AE0000562FC62F8C9A2
+E95A25E4F2EB37567A0DADD7D8EFB50D3726F354BC24A8D334E0A433CCCC0ABCAA7F77865521D6492DC02AFC1FF83BADEB7AD58FC5CF8C1A1DAD9DED8DBF95E1
+1F085AE1AD3C336B8002AE0057B96006F931C636AE00007AE5001450014500367821BA85ADEE625923914ABA3AE4303D411DC5531E19F0E46CB2268364ACAB0A
+AB7D953858893101C7442495FEE92718CD007C83AC7FC15D3C323C65F197C11E11F02E877D73F0BF52B4B7D264D43C69F664D794DDBD8DE6162B59E68E686F63
+36E96F1C53C970D35BEC03CDC2FD2FF06BC21E09B2D0E1F895A2FC2EB6F0CEB1E28B08AFB5AB731A1BA8E599A4BA7825917218ACF7370C429DBE64B230E5C924
+7DE57F41CBDD76392FDA63F686F0B7C30F11E93F0E7C4B7BABDAC3ACE99717723E876134D757852E2DADA1B081A318825B89AE91048CCA460AA157712476BE0F
+FC18D6AFB5AB3F8BBF18B4BB3B7D5ED6D7C8F0BF85AC70D63E15B320010C4000AF39500493003A054DA8A05023D628A0028A0028A002823231401C9788FE01FC
+0EF17E990E89E2CF837E15D52CEDD65582CF51F0EDB4F14625944D205574206F955646C0F99D431C900D73DFB51EAFF127E17FECC7E22BFF00D9D3C345B5CD27
+4B8A3D16C74BD1FED4F6B00923491EDED107EFE4860F3248EDD41DED1AA053BB0665F08E3B9CE7EC45E30F1D7C55F87FAAEB7F17349F125DDEE83E30BED3FC37
+AFF8E3C2234AD4751D3764324575E57D92D3018485372DBC20988AED254B37B8D5741051400514005140067D68271D6800CD0718E6800E9D0500E7A500146680
+0073D28C8E99A0028A00F9C3FE0A8ADFB54786BF651F157C67FD953F69E8FE1AEA9F0FBC2DABF88F50F37C1167AD2EB715A58CB3ADA1174C05B82D1FFAC50C46
+7A1AF8A3E1DFED4FFF00054DF13F83BF652F8291FEDCDA3DD78D3F6BCF0CB78B57C7579F09F4E8BFE102D2ACB458751BBB4B5B68DBC9BFB899EEE28D249D76A0
+898ECF9F2A45735D3F2FD5FE9F884B4B3F5FC2DFE673FF00B5EFFC14D7FE0A19FB10FC2CFDA33F673F881FB4968BAF78E7E11EA1E05D4BC29F1962F02D9C12DC
+E89AEEA096F7097BA72AB5A8B8802C8018D40915836D5205771FB1EFEDB3FF000520FDA5EF3E357C2BFD9A7F6A7F08FC60D13C39A7F87E7F09FC7FF127C25BAD
+06CF4F9EE276FED4B35B08176EA73C16886689502832B22C8D8602856945BFE968BF3E8125CBFD6FB1F42FFC11EBF6D0F8C1FB607C06F891AB7C60F1C69FE24D
+43C07F15357F0D68FE228BC2EFA0DF6A7A7DBC304905CDFE93231934EB8632C83C9758D8A223141BB27E76FD89BFE0B93FB43788FF00649F83B1F8D7F66DF107
+C67F8AFE3CF869E26F19EA171E1BBFD2F45B65B3D2B5C9ACA4F33CE68A38F1084C6C562EE157692E580DDBEE4FF0BBFC82DF9B5F8D8F40F10FFC1C45F04A2F10
+FC33D2BC0FF0135AD5A1F889F0FF0044F172C7A9F8BB48D1EF92D752B992DD2DAC6DAF678CEAB730B452196381BE501705B381E9BF1E7FE0B0BF0EBE03E8FF00
+B43EAFAB7C1DD72FD7F679F12785B47D623B7BE850EAEFADADA18A48770F9045F6B5DC1B93B0E3A8A76D6DEBF834BF505AFE1F89E33A4FFC1657E297C0DD17E3
+67887E2FF83AD7C68BE1DFDA9BC49E05F089BCF13E8DE16D3F48D22C74FB6BA8D2EAFEF9E288BE5DD5376F965760BDA9A7FE0BABE32F177C6CFD9F7C79E05F82
+12D8FC0DF89DF083C4DE36F156ABAC5CDB7F695943A522B5D322A4DC0B4DAE5D76B1B812279782AC2A39AD18B6FB5FFF00016FF42ADEF35FD6E9117C37FF0083
+9BFF0066BF19F84FC51E22D7BE07EB1A7DDE9FE03B7F16783F45D1FC65A36B775AFDBDC5FDBE9F6F6732D85C49FD997EF737968A6D6E30E8B2963F708AF5AFF8
+2767EDBBFB55FED2FF00B79FED0DF05BF689F84DA87C3DB1F87DE1DF065C68BE01D566D3AF27D2E7BFB7BE7B9717D62CE9771CBE4C4CA4B9D9CAED421855F2EB
+A91F66FE9FA1F587C6EF84FE1EF8F3F06BC5DF03FC5B7B796DA4F8CBC337FA16A971A6C8897115BDDDBBC123C4CEAEAB20590952CAC01C6548E0F817C51FF824
+DFC05F88FF00B3B7C1DF815A5FC44F1E785B55F809A6D959FC2BF897E19D661B7F10E902DEC92C8B197C8304A27863559E3687CB93FBAB8185AF4F2FC2FF00E6
+3F5F3FC6DFE4725FF0E38FD9AB5AF831E3AF869F12BE317C4EF16788FE2778AB43D7FC7DF13B5CD7AD25D7B569F49B88E7B0B7DE6D7ECF15B4463D8B1470AE11
+D806076B0FA0BF6B8FD96BC27FB5F7C1D97E1178A7C6FE26F0CBA6AD65AAE8FE26F076A42D352D2750B49D67B7B985D91D09575195747465241539E13DACBC9F
+E5FE41D7539DFD8DBF61AF03FEC71E1CF1843A6FC46F14F8D3C4DF113C4D2EBFE3AF1B78C2E2DDF50D5EF9E14843116D0C30C51A451A22471C6AAA077249AF37
+FD9A3FE08CFF00B317ECAF1782E2F87DE3CF1E5E0F027C31F10781748FED8D52CA4F3B4ED5F52FED0B9966F2AD23DD70B37CB1B2ED409C3239F9A93FD2DF2B5B
+F261FE77FC6E703E3EFF00837C7F65FF00883F08BC21FB3E6ADFB41FC5C6F01F85FC2BA7787EE3C2B73AC699756DA9DB594AD2C52FFA469EE6C2E589DB2CD606
+D5A54550DC80D5BDFB4C7FC10CBF677FDA73E257C40F1C6B7FB40FC5BF0C693F14A4D0EE7C73E0DF09F882CA1D3353BCD2042B6372CB7165348195204565DFB1
+880C57700457372BBF9DFF00202D78B7FE0893FB3EEBBF11A6F8B7E18F8E5F133C35E249FE2C7883C7C755D22FB4C7786F35AB3B7B3BFB5896E2C2548E1315B4
+7E5BED3711316649812085F0DFFC10EBF65BF0B783BE0DF8074FF891F10A6D2FE0CF86BC41E1BD360BCD52C1FF00E120D175A6FF004FB0D4B1643CC8D97E40D0
+08240BFC65BE6A9E54EC9FF5A5BF26CA52D6FF00D6F733BC27FF000427FD9FF46F833E24F803E2FF00DA3FE3278ABC2FAB783EDFC35E1DD3758F145A451F85AC
+EDAE62B9B49AC96D6D2157BB826B781A3B9B959E40B0AA64AEE0DEAFFB1AFF00C13A3C21FB1FFC5AF881F1E8FED01F123E2278CBE26E9FA3DA78B35CF885A9D9
+4ED20D35278EDCC2969696EB0FC970CA5402B8452006DECD577B92FB7F5D3FC8FA268A002BF327F6FF00FDA8FE3A7883E2A7EDA83E1DFC5BF11785B4FF00D9AF
+F66384787ECB43D566B559BC41AD5A5D5F9D51FCB602492082CEDE284B03E5192665C3393513D9FA3FC8A8EFF35F9A3C1BF629F1C7ED9579FB5B7C12F807F18B
+E34FED3FE04F0AFC7BF83DAFA5E6A1F143E2669FAD49AF6A11E9705CC773E1F9AC9666D2668448F721EE194940A9B4B64374BF00FC75E34FD902FBF6C6FDAC7E
+33FEDE5F1E3C63A47ECB7E2FBFD27C1BE15F1A7C486BAD3359F33478FECB05F44D1013CAD77748A8CA5007F2CE0E39BA8F96F6ECFF003B2FCC987BD64FAB5F8A
+FF008051FF0082397EDD1FB48FC77FD9DFE3F7EC87FF000F1BF0FF0088FE28687E11D1FC67E15F8CDE26D41355B5D12DF51D3ADCEA90BEE729B34CBB59A301CE
+C0D2A311B38AE23C65FB6C7EDF7F0EBE166ADA77ECB7FB42FC63F899F09BE257C6AF04780BE19FC52F1443A7C3E21D66E6EA3BD6D724D0AE6EA086316D2BDBC1
+04173709E546F2398D8842D438FEF2DDEDF9DBEF611F86EFCDFE09FDC91ECFF023F6DFF8D3F0D4FC15D63C43F163E28EA9A8697FB5C6A5F04BE26783BE266A56
+773796ABA9D9F9B6F0C973607ECDA935A4F15ACB15F6C594C734D1FCAACC1BF5A074A7A72DD7F5A27FA93B4ADFD6ED7E814522828A002BE67F8A1FF04EAF07FC
+4EFDAA7C77F167C44F6B7FE04F8CBF08C7827E31782E69AE2DDF5636D2BFD86F229EDD95D1C5BDCDE5BC98643B5A2646050E65ABFE3F8A0BBE9E5F9A64BFB357
+FC122FFE09F7FB23FC4DB0F8CDF033E04DC59F8A349D365D3F45D635EF19EB3AE49A65B48A1248ED7FB4EF2E16DB720D84C41495CAE76920ECF8D3FE0991FB11
+FC43D2BC6DA178CBE0A7DBAC7E2378EECBC65E37B393C49A92C5ABEB369E57D9E79516E40D8BE4444DBA81031405A36355ADEFFD6F7FCD07F5FA10FED0FF00F0
+4BCFD85FF6A8F115E78B7E35FC0A8EFB50D47C1B2F85351B8D27C41A8E926EF4692EA3BA7B394585C4224433C48FF302C304020120F23E19FF008226FF00C137
+BC1DF0C75AF83FA07C11D697C3FAE2D879D697DF133C437AD652594864B39ACA4B9BF91EC2585CE564B631B81C12471495D7F5E770FEBF4FD0669FFF00049DF8
+1BE0AF197C20D23E1769ABA57813E18F8F354F881A9E997DA85D6A1A9788FC593DB1B7B6D42EEEEEA492599A313DCCAD248ECE5D2DD461108AFAC47029DF4FEB
+FAD907F5FAFEA145007FFFD9
+.end
+.ExtObjData IMG3
+365
+04FFD8FFE000104A46494600010101006000600000FFE100644578696600004D4D002A000000080004011A0005000000010000003E011B000500000001000000
+46012800030000000100020000013100020000000E0000004E00000000000000600000000100000060000000017061696E742E6E657420342E3200FFDB004300
+0201010101010201010102020202020403020202020504040304060506060605060606070908060709070606080B08090A0A0A0A0A06080B0C0B0A0C090A0A0A
+FFDB004301020202020202050303050A0706070A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A0A
+0A0A0A0A0AFFC00011080078006003012100021101031101FFC4001F0000010501010101010100000000000000000102030405060708090A0BFFC400B5100002
+010303020403050504040000017D01020300041105122131410613516107227114328191A1082342B1C11552D1F02433627282090A161718191A25262728292A
+3435363738393A434445464748494A535455565758595A636465666768696A737475767778797A838485868788898A92939495969798999AA2A3A4A5A6A7A8A9
+AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE1E2E3E4E5E6E7E8E9EAF1F2F3F4F5F6F7F8F9FAFFC4001F010003010101010101010101
+0000000000000102030405060708090A0BFFC400B51100020102040403040705040400010277000102031104052131061241510761711322328108144291A1B1
+C109233352F0156272D10A162434E125F11718191A262728292A35363738393A434445464748494A535455565758595A636465666768696A737475767778797A
+82838485868788898A92939495969798999AA2A3A4A5A6A7A8A9AAB2B3B4B5B6B7B8B9BAC2C3C4C5C6C7C8C9CAD2D3D4D5D6D7D8D9DAE2E3E4E5E6E7E8E9EAF2
+F3F4F5F6F7F8F9FAFFDA000C03010002110311003F00FDFCA2800A2800A2803CDBF6A8FDAB7E067EC5DF05F55F8F7FB4278DADF44F0FE9698DCDF34D79310765
+B5BC7F7A699C821507A124850CC3C9FF0062BFF82B37ECABFF000504F0FF00DBBF660BCD4B58D66DECD6E35AF0ADF7D9ACB50D23712A04D1CD3AF98B91CC96FE
+720C805B24020ECF73DE05F7C63BBFDCAF863C37A786E974DAD5C5D18FDCC42DA2DE7DBCC5FAD61EB3E27F15693A93E89AC7C51B592EA3512496BE19F04DD5CC
+F083F74CCAB2DC6C56E71954DD8382706810FD23E28EA7A7D9C9AE6BFAA697AB68D6F2797A9EA5A5DACB693690D8071756B2BBB2228C1772CAC8181688206917
+D0A800A2800A2800AF25FDB37F6D2F807FB06FC0DD4BE3E7ED09E2D5D3F4BB31E5D8D9C586BBD56E88252D2DA3247992B60F1C2A80598AAAB3000FE5CFFE0A73
+FF000540F8F3FF000539F8DAFF0010FE265CB697E19D2E4922F06F82ED6E0B5AE916EC7A93C79D70E00324C402C40002A2AA2F817C3DF88BE3DF84DE33D3FE22
+FC30F19EA9E1FD7B49B813E9BAC68F7CF6F736D20FE24910865F4E0F20E0F141D0BE1B1FB3BFF04C9FF83A8EE6D7FB3FE107FC14934A3347F2C16DF14B41B1F9
+97B6EBFB4887CDEF35BAE7A6613CBD7EB5FC0DF8E3F08358F05B78B743F883A4EA3A0EB9AA5E6A7A4F8CACEF125D33538279DE48F176A4C6248D4880C4ECAE3C
+8C05DA1683194794E8B4BBFD1BC71F13A0F11F8502DE69F0E877169A96A902E6DAF0B4B134312BFDDB8D989CEE52C232CEBC1908AD0F83CC63F0059E919661A4
+4F73A523B9F99D6D2792D95CFBB2C418FB9A093A9A2800A2803C77F6E5FDB3FE177EC11FB3C6ADFB42FC56B5D4AF6D6C7F73A6E8FA4DA996EB53BC31BC896F18
+030BF2C723B3B61512376270B83FCB17FC1447FE0A31FB41FF00C149BE3A5C7C60F8D7ABF91636A5E1F0B7852CE66363A1DA139F2A207EF48D85324C46E9180C
+E15511434A6BA9E054506815EF7FB0AFFC14ABF6B9FF00827778DFFE12BFD9CBE24CD6BA7DC4EB26B1E13D5375C693AA631FEBADF7001B030258CA4AA380E012
+081BE87F407FF04C6FF83827F64AFDBFDF4DF865E36B88FE1BFC4EBADB0A785F5ABB06D75598F18B1BA215656638C42E125C9C289002C7ED5F061FECDF1BF8B3
+429DBE696FADF53B745FBA904D6E90FE04CD6B70C47BE7BD0739D4D140051401F9AFFF00073EFC3AF8A5F17BF630F867F0C7E0A786F53D5FC59AC7C78D262D07
+4FD1D4FDA24B8FECCD53694231B36FDE2E480A14B1200247E1AFEDB7FB247C46FD8FFE3749FB3EFED716FA2699E31FECDB7BE8FC4BE15BF4BCB5B88E6076FDB2
+38C060E0A90CEA892F0CE63B8F311C8694CF09F13F83F5DF094B0FF6A5BAB5BDD297B1BFB690496F7683AB4722FCAD83C11F794E5582B02065D06815259D9DE6
+A379169FA7DA4971713C8B1C1043196791D8E02A81C924F000E49A00FA0FF61FB8B7F871FB687C22F0AF871EDEF3C4179F13B418758D405E24715B21D4200D63
+0CC72ABB865669C64104C6BFBBF30CDFD55FC12D0BC4B77E21D6BE29F89B519666D7ACECADEDF76F48FCBB77B970D144DFEAA13F69C2EEFDE385DEF82E15433A
+87A5514198565F8A7C55A5783F4AFED5D519CEE9163B7B7863DD2DC4ADF7628D7AB3B1E83EA4E00240078BF8A7C53E3FF1EFC406F04780A5B7FF0084C2387FE2
+65AB1517163E05B49060E3F867D4245C80BF9ED8C1DFF8EBFF0005A7FF00837E7F6B0F0978D3C47FB5E7C05F1DEB9F173C3F74D2DF6B9A6EA8C24D7B498F9772
+15405BC847CCD98D5641924C6DF34842A2ECCF95FE2BFF00C12DFF0068CFD8DBF60CD1FF006BEF8F3E32F0EE88DE2BD561587E0D789A197FB42EACA400457650
+7FAA9FE6625418E58A224F98AECD10F977FE10AD13C71FE93F0BE697ED8DCC9E19BE9035D7FDBBC9802E86718401651BB01240AD2506A9DCE592DEE24B816890
+3B4ACFB163553B8B6718C7AE7B575F792C5F09ECE5D1AC6456F145C46D16A3748D9FEC98C8C35BA11FF2DC82448C3EE02631CEFC033F663FE0DF1FF820D7F622
+E87FB7BFEDABE103F6EFDDDFFC37F03EA50FFC7B7468B53BB43FF2D3A343111F2F1230DDB02FED970A3A5063277905141264F8AFC59A678474DFED1D49A47692
+4115ADADBA6E9AEA639DB146BFC4C707D0000B310AAC478BEBDE24F881F117E20CFE06F005EC1FF094431F97AE788231E7597832D5FAC10E7027BE75EA78F53B
+5142800F55F007803C0FF053C11FD87A12AD9D8DA892E6FEFEF26CC93C846E96E6E256FBEED82CCEDD071C0000F3AF8B1F166E2FAE74FB18BC353EA975AB49FF
+00147F827FD5CDAC48A73F6DBCCFFA8B48CFCC15C0E06E71BB6A2807CDFF00F0513FF8219F853FE0A35F0CEDF5AF899F1CB5AD3FE2B588966B2F1242EF2E928C
+E07FA1FD859828B75C616442B3649762E0F975F95BFB3FFF00C1B9FF001534AF197C42F11FFC140BE2969BF0DFE18FC3C8EE209BC61A1EA105E7F6DDE08C94FB
+1EEC7EE909064F3151F2A62DAAFBDA20B8CADA1F14EB3E2E7B0D17C51E25D2753B7D7B50D17C476FA4E85E37B8B4686FA5B5956F08B8E1C83294B65DAEFE6491
+07C2B8D8857F52FF00E0DF1FF820E7FC266FA2FEDE7FB6A7837FE24EAC97BF0E7C0FA9DBFF00C7F91868F52BB8D87FA9E8D0C4C3F79C48C366C1205CB489FBB6
+001D051418856478CBC5BA67827C3F2788757F31A359A182186103CCB89E695218614C9037C92C891AE485CB8C903240078BEADAD78FFE28F8F6EBC0FE02D563
+8F5E854DBF89BC516BFBDB4F09DBB63758D9920096F1801BE4C0208C90A15638FD67C0FE07F01FC11F02FF0061683143A6E95A7C6F3DD5D5D4C32C71BA4B89E4
+6FBCC70599D8FE4000003CDFE297C55D4352D4F4FD2EC3C372EA5A96A4DE67843C172298DAF0AB71A96A00F305B211B9236C1C8DCC3CCC2C1D87C1DF834BE007
+BCF1978BF58FEDCF186B583AE6BF2478CA8E56DE05FF009656E9FC28319C6E3CE30019BF17BE30687A4E8F7B34FE23974DD06C6E3ECBAA6AF6793737975923FB
+3AC42F2F3120ABC8BFEAF0CAA4481DE0E3ADFF00651F0CFED2FE179D7F6AFF00869A7DDF866F34E7B2D0BE19DD47BACF4AB375C6F994637DD9183BC60C471B48
+619500F93FE0DFFC1B1FFB1DFC23FDA7A4F89F278A352D7FE1CC3A9DBEB3A67C35D72113471EA108956249EE09CDCDA279CECB13AEE621448F22EE0FFA5D1431
+DBC6B1448AAAA30AAAB8007A5036EE3E8A044375776DA7DA49797532C70C2A5E59246DAA8A064924F40057C29E14FF008283693FB6D7C1F9B49D7BE09E9F3693
+73F1ABC37A3C96779AB4F048742BEBEB5B8D1F5858DEDFF7AEEEA03424AC7BEDE5019D461A79BDEFBBF1690799F68FC36F86FE0BF847E0BB1F007C3ED0A3D3F4
+BD3E211DBDBC6C58F4FBCCCC4B3B1EECC4927A9AF17F13FED1DA3FC51D7E4F0E7C34FB1F89B5CB5D7EFB4DD17C1F15C86482EEC2F24B59F53D54A9FDD5BC53C2
+DE4C47972AAE32E57ECD407A77C1EF8336DF0D61BAF10EBFACC9AE78AF596127883C4574A04972FDA341D22853A246B8000158BF187E3268DA5E89797136B175
+67A0DADD7D8EFB50D372D79AA5E64A8D334F0B86799981579548F2F0CAA43AC925B8054F83FF000775BD6F5AB2F8B7F18343B5B3BCB1B7F27C23E11B5C35AF86
+6D700055C00AF72CA06F931C602AE00007AFD00145001450045716F0DD42D6D7312C91C8A55A375C8607A823B8AA6BE19F0E23891742B3DCAB0AAB7D99385889
+310E9D109257FBA49C62803E44D67FE0AE9E195F19FC64F05F847C0BA1DF5C7C2FD46D2DF499350F1A7D9935E5376F6379858AD679A39A1BD8CDBA5BC714F24E
+D35BEC03CDF97E94F837E0FF000459E890FC4AD1BE175BF86758F1458C57DAD5BB4686EA3966792E9E09645C862B3DCDC310A76F992C8C39724CAD57DC0FB1C8
+FED2FF00B42F85FE18788F49F875E25BFD5ED61D6B4CB8BB91F43B19E6BBBC29716B6D15840D10C412DC4D748824665230550AB38923B7F083E0CEB77DADD9FC
+5BF8C3A5D9DBEAD6B6BE4785FC2D6586B1F0B5A1000862000579CA802498019C6D4DA8A05501EB74500145001450014119183401C7F88BE02FC0EF17E990E8DE
+2DF835E15D52CADD6516F69A9787EDA78A312CAB348155D081BE55591B03E6750C724035CFFED45AB7C47F85DFB32F88B51FD9D3C34C75CD2B4B8A3D16C74BD1
+FED4D6B08923491EDED107EFDE183CC923B75077B46A814EEC1996C34737FB11F8C3C73F14FE1F6ABADFC5CD27C49757DA0F8BEFB4FF000EEBDE38F088D2B52D
+474DD90C90DD795F64B4C061214DCB6F082622BB4952CDEE94FA6A20A29805140051400519A0028FAD0014500145000083D28CF6A0028A00F9B7FE0A88DFB547
+863F652F157C67FD95FF0069C8FE1BEA9F0FFC2FABF88B50F33C1167AD2EB51DA58CB3ADA117440B705A3FF58A18F3D0F4AF8ABE1E7ED4FF00F054CF13F83BF6
+53F82B17EDCBA3DD78D3F6BCF0CB78B57C7579F0A34E8BFE103D2ACB458351BCB4B5B68DBC9BFB899EEE28D249D76A089894F9B2A452774FCBFAFC072E9E8FF0
+B7F9981FB5DFFC14CFFE0A17FB117C2CFDA33F673F883FB4968BAF78E3E11EA1E05D4BC2BF1921F02D9C12DCE89AE6A096F7097BA72AB5A8B880090031A8122B
+06C2915DB7EC7DFB6CFF00C1477F697BEF8D5F0B3F669FDA9FC23F18344F0EE9FE1F9FC27F1FFC49F096EB41B3D3E6B89DBFB52CD6C205DBA9CF05A219A2540A
+0CA51246C30142E5716FFA5B0ADCBFD6E7D0BFF047CFDB3BE307ED7DF01FE24EADF183C71A7F89350F01FC54D5FC33A3F88A2F0BBE837DA9E9F6F0C1243737FA
+54AC64D3AE18CB20F25D6362888C506EC9F9DFF628FF0082E2FED0BE23FD92BE0F278CFF0066CF107C66F8ADE3CF86BE26F19EA171E1BBED2F46B65B3D2B5C9A
+CE4F33CE68A38F1084C6C0C59C2AED25CB03FC97E5763FF3B7E877FE22FF0083877E0A41E21F869A5781BE02EB5AB43F113E1FE8BE2E11EA5E2DD2748BE4B5D4
+AE64B74B6B1B6BD9E33AADD42D0C8658E06F9405C16CE07A6FC78FF82C17C3AF811A3FED0DABEAFF000775BD417F679F12785B47D663B7BF850EAF26B62D0C4F
+0EE1FBB117DAD7706E4EC38ED4797AFE0D2FD44FFC8F19D27FE0B25F14BE0768FF001B3C45F17BC1D6BE345F0EFED4DE24F02F84CDE789F46F0B69FA469163A7
+DB5D469757F7CF1445F2EEA9BB7CB2BB85CF1487FE0BA7E32F16FC6CFD9F7C77E06F823258FC0EF89DF087C4DE36F156ADAC5D5B7F695943A522B5D322A4C702
+D36B9750AC6E0489E5E0AB0A9F86D77DBF2BFE8577FEBAA443F0E3FE0E6AFD9AFC65E14F14788F5FF823ACD85DE9FE03B7F15F83F45D1FC65A36B575AFDBDC6A
+16FA7DBD9CCB617127F665FBDCDE5A29B5B8C3A2CA58FDC22BD6BFE09DDFB6E7ED55FB4B7EDE5FB427C16FDA27E13EA1F0F6C7E1FF0087FC1B71A2F807549B4E
+BC9B4B9EFEDEF9EE5C5F58B3A5DC72F9313292E7672BB5086155CBAEA4BF86FE9FA1F577C6CF851E1EF8F3F06BC5DF03BC5B7D7B6DA4F8CBC337FA16A971A6C8
+897115BDDDBBC123C4CEAEAB20590952CAC01C6548E2BC13E27FFC1277E037C46FD9E3E0F7C0AD2FE22F8EFC2FAB7C05D36CACFE15FC4BF0CEB50DBF8874816F
+6496458CBE4182513C11AACF1B43E5C83F8578C1E9E5F87FC387AF9FE36FF2392FF871E7ECD5ADFC18F1D7C34F897F183E2778B3C45F137C55A1EBFE3DF89DAE
+6BD6B2EBDAACFA45C473D85BEF36BF678ADA231EC585211847601B3B587D01FB5C7ECB5E13FDAFBE0ECBF093C53E36F137865E3D5ACB55D1FC49E0FD485A6A5A
+56A1693ACF6F730BBA3A12AEA32B223A32960579C897CDF97E16FF0020EA60FEC6DFB0D781FF00638F0EF8C2DF4DF88BE28F1A789BE21789A5D7FC73E36F185C
+5BBEA1AB5F3C31C20916D0C30C51A471A22471C6AAA077249AF35FD9A7FE08D3FB32FECB11782E1F87DE3CF1E5E2F817E18F883C09A4FF006CEA965279DA76AF
+A97F685CCB3795691EEB859BE58D976A04E191CFCD479795BF0B07F9DFF1B9C0F8FBFE0DF5FD97FE20FC23F08FECFBABFED07F16DBC07E16F0AE9DE1FB8F0ADC
+EB1A65D5B6A76D652996297FD234F736172C4ED966B036AD222A86E406ADEFDA63FE0867FB3C7ED3BF12BE2078DF5AFDA07E2D785F49F8A3268773E38F06F84F
+C41630E99A9DE690215B2BA65B8B29A40CA90A2B287D8C4062BB8022B99AD7CFFAFB80B5E2FF00F82257ECFBAEFC459BE2DF85FE38FC4CF0CF8927F8B1E20F1E
+9D5349BED31DE1BCD6ACEDECEFED625B8B0952384C56B1F96FB4DC44C5992604821DE1BFF821E7ECB9E15F06FC1BF00D87C49F8853697F067C37E20F0E69B05E
+6A960FFF0009068BAD1FF4FB0D4B1660491B2FC81A0104817F8CB7CD52E3FD7CAC3D6F7FEB7B99BE12FF008215FC00D17E0CF88FE0178BFF0068EF8C7E28F0BE
+ADE0FB7F0D78774DD63C516912785ACEDAE62B9B49AC96D6D2157BB82682068EE6E567902C28992BB95BD5BF637FF82747843F63FF008B5F103E3C1F8FFF0012
+3E2278CBE2669FA3DAF8B35CF885AA594ED20D35274B730A5A5A5BAC3F25C329500AE114801B7B3D6BD45FD7E5FE47D19450003A735F991FB7F7ED45F1CF5EF8
+A9FB69FF00C2BCF8B7E22F0BE9FF00B35FECC708F0FD9E87AB4D6AB378835AB4BABF3AA3F96C049241059DBC509607CA324CCB86726A5DFA766547F55F99E0DF
+B14F8DBF6CABDFDAD3E09FC04F8C5F1A3F69FF0002F857E3D7C1FD7D2F350F8A1F12B4FD6A5D7B518F4C82E23B9F0FCD64B33693342247B90F70CA4A054DA5B8
+6E93E0178F3C69FB21DEFED8BFB58FC65FDBC7E3C78C747FD977C5D7DA57837C2BE33F8906EF4CD67CCD1E3FB2C17D134404F2B5DDD22A329401FCB3838E6A5E
+5D9FE0EC4AF7ADEABF15FF0000A3FF000478FF0082C34DF08BF670FDA134EFDACFF6B17F8D5A87C29F05E97F11ECFC4506B42FAE2EE0BED320FB668F1BEE60BF
+64D4C7D9464800DCAB1C29E3CEBF628FF82CCEB7FB3BCDFB5D7C5AF8D1FB7158FC5DF1237853C1FAEF81B4093C68F75E1FD375CD50CD15DD969E1E5315AE9B65
+7D7F656D3C885479702BB64902A9AB6C4C4C2F805FB757C5ED6FE03F88BF652F0E7FC14CFC55F11354F1B7EDBDE0EF03EB1F13B4DF1ACB26A56DE18D5ACA0377
+73A54C58B69F6D2DDDBDDC70F9214440BAAE0F35EC1E39F8EBF1CFF665FD94FF00698D4B4BF8D5E31F172FEC9BFB56787E6F867AD78BBC4536A5A84DA6DCBE9B
+1DDE893DDC8C65BA8FC8D46EE0FDE1660B3A8CFCABB67AAF55F995BE87ECD29DD1EEC7F0D381C8C8A0028A006B2E79CD7CCDF143FE09D7E0FF0089FF00B53F8E
+BE2CF885ED6FBC0BF197E137FC215F187C173CD716EDAA9B695FEC37714F6ECAE8E20B9BCB7930CA76B44C8C0A1C81AF4F2FC193FECD3FF048EFF827EFEC91F1
+3B4FF8CFF033E055C59F8A349D365D3F46D635EF1A6B3ADC9A65BC8A1248ED7FB4AF2E16DB720D84C41495CAE76920EB78CFFE0995FB12FC44D2BC6DA178CBE0
+AFDBAC7E2378EAC7C63E36B393C49A92C5ABEB369E57D9E79556E00D8BE4C59B750206280B46C696B7FEBBDC0EC97F646FD9D17F682B3FDA8EDFE14D8DBF8EAC
+7C273F8661D6AD669610DA54D3A5C3DB4902388651E6A2B8678D99483B58024197C17FB28FECFDF0EBE3278DBE3FF83FE1A5ADA78B3E235BE99078CB52FB44D2
+2DFC7A7C4F15A2F92EE6187623B0FDD2217382FB880435B580E27C6BFF0004C7FD87FE20F81FE217C39F157C0AB7B8D2FE2978BA1F14F8CA38F58BD8A5B8D662
+48522BD8264984965220B78B6FD9DA20A41207CCD9E6B54FF82507ECC361F03BC3DFB32FC2ED11BC3BE03B4F8A167E37F1A69534F71A95DF8BAF6DA6174A2F2F
+2EE779A5692EE1B492492532978EDFCA01430643B303EA2C718A2803FFD9
 .end
 .end
 

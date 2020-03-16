@@ -1,0 +1,73 @@
+﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\overheat_protection_circuit.SYM 0 0 7500 12500 17 '07-01-2020 10:46:00' 0 V13.0
+.Title 'Overheat protection circuit' 1033
+.Name OP -4750 13000 0 0 0 25 0 0 0 0 0 0 0 0 0 0
+.Typ "" -2500 -10000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" -2500 -10000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func 'Overheat  protection^circuit' -7500 0 0 0 4 12 0 1 900 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" -2500 -10000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text t° -2250 -750 0 0 4 14 0 0 0 0 0 0 0 0 0 0
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 7500 12500 0 0
+.Point 0 7500 -12500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 7500 -12500 0 0
+.Point 0 -5000 -12500 0 0
+.Point 0 -5000 12500 0 0
+.end
+.polyline 1 0 0 0 0 0 0 250 0 0 0
+.Point 0 -5000 12500 0 0
+.Point 0 7500 12500 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 4000 0 0
+.Point 0 1500 1750 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 1750 0 0
+.Point 0 3750 1750 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 -2000 0 0
+.Point 0 1500 -4500 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 -2000 0 0
+.Point 0 3750 2750 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 2500 0 0 0
+.Point 0 1500 0 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1000 0 0 0
+.Point 0 0 0 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 -2750 1500 0 0
+.Point 0 0 1500 0 0
+.Point 0 0 -1500 0 0
+.Point 0 -2750 -1500 0 0
+.Point 0 -2750 1500 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 6000 0 0
+.Point 0 1500 4750 0 0
+.end
+.polyline 0 0 0 0 0 15 0 250 0 0 0
+.Point 0 1500 -5250 0 0
+.Point 0 1500 -6250 0 0
+.end
+.con 1 7500 -10000 0 0 0 32
+.PinName IN 5000 -10000 0 0 4 18 0 4 0 1 0 0 0 0 0 0
+.PinFunc "" 7500 -12750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 3250 -10750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinDes "" 7500 -10000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.con 1 7500 10000 0 0 0 16
+.PinName OUT 4000 10000 0 0 4 18 0 4 0 1 0 0 0 0 0 0
+.PinFunc "" 7500 7250 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinLab "" 1750 9250 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.PinDes "" 7500 10000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.end
+
