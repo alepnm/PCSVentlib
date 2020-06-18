@@ -1,4 +1,4 @@
-﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas.sym 0 0 285500 11500 144 '31-07-2019 08:41:24' 0 V13.0
+﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_Remas.sym 0 0 285500 11500 144 '13-02-2020 11:31:02' 0 V13.0
 .Title A4 1033
 .Name "" 2750 -1500 0 0 0 25 14 0 0 0 0 0 0 0 0 0
 .Typ "" 4500 -1500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
@@ -38,7 +38,7 @@
 .Fdata "" 10 0 ' ' 3 ""
 .Field 'Project name' 4000 10000 0 0 4 12 0 3 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field Title 10000 2500 0 0 4 35 0 0 0 3 0 0 0 0 0 0
+.Field Title 232500 2500 0 0 4 35 0 0 0 3 0 0 0 0 0 0
 .Fdata "" 23 0 ' ' 4098 ""
 .Field Logo1 240600 -163100 0 0 4 150 655 4 0 0 0 0 0 0 0 0
 .Fdata "" 15 0 ' ' 19 ""
