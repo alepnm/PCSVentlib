@@ -1,0 +1,24 @@
+﻿.PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\ekr_knx_body.SYM 0 0 20000 55000 0 '15-07-2020 20:53:58' 0 V13.0
+.Title 'EKR-K tik korpusas, be kontaktu. Kontaktai - papildomai' 1033
+.Name RG -18000 59000 0 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" -19250 56000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.Art "" -10000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 0 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.SymbRef 0 1 "" 0 0 0
+.SingleRef "" 2500 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.polyline 8 0 0 0 0 7 0 100 0 0 0
+.Point 0 -20000 55000 0 0
+.Point 0 20000 55000 0 0
+.Point 0 20000 -65000 0 0
+.Point 0 -20000 -65000 0 0
+.Point 0 -20000 55000 0 0
+.end
+.polyline 0 0 0 0 0 0 0 250 0 0 0
+.Point 0 -20000 55000 0 0
+.Point 0 20000 55000 0 0
+.Point 0 20000 -65000 0 0
+.Point 0 -20000 -65000 0 0
+.Point 0 -20000 55000 0 0
+.end
+.end
+
