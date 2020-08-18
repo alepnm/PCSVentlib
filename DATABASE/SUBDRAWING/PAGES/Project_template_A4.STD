@@ -1,4 +1,4 @@
-﻿.PCsCADProject 'C:\Work\Google Drive\Ventmatika\Sildytuvai\TestGenerator bandymai\TEMPLATES\PAGES\Project_template_A4.STD' V13.0 1 261 1353159039 '07-05-2020 18:11:58' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
+﻿.PCsCADProject C:\Work\Git\PCSVentlib\DATABASE\SUBDRAWING\PAGES\Project_template_A4.STD V13.0 1 261 1360150355 '18-08-2020 07:58:34' 2 2500 500 2500 500 2000 Standard 1 "" "" 21
 .Title 'Heater ''Project name''' 0
 .Born 2 0 13.0 1325288723
 
@@ -36,17 +36,17 @@
 
 .DefText .TextVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FieldVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .NAMEVis¤¤¤¤ 1250 0 0 0 0 25 14 0 0 0 0 0 0 0 0 0
-.DefText .TypInv¤¤¤¤ 1250 2500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .ArtInv¤¤¤¤ 1250 -4000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .NAMEVis¤¤¤¤ 0 0 1250 0 0 25 14 0 0 0 0 0 0 0 0 0
+.DefText .TypInv¤¤¤¤ 2500 0 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .ArtInv¤¤¤¤ -4000 0 1250 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .FuncVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PINNAMEVis¤¤¤¤ 0 1000 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText .PinFuncVis¤¤¤¤ 0 -2750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PINNAMEVis¤¤¤¤ 1000 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.DefText .PinFuncVis¤¤¤¤ -2750 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinLabInv¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
 .DefText .PinDesVis¤¤¤¤ 0 0 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 0 18 0 0 0 0 0 0 0 0 0 0
-.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 4 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SignalRefVis¤¤12  %s.%s¤¤' -3000 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' -3000 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0
+.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' -3000 0 0 0 4 18 0 0 0 0 0 0 0 0 0 0
 .DefText .XRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 .DefText .YRefVis¤¤¤¤ 0 0 0 0 9 20 0 4 0 1 0 3 0 0 0 0
 
@@ -85,7 +85,7 @@
 .Database VENTCODE;ALTCODE;NAME;DESCRIPT;MANUFACTUR;MATOVNT;ACCESSORY
 .DbIndex 1;2;0;23;0;0;9
 
-.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 207835 -170600 0 15000 65531
+.Picture 'C:\USERS\ALEXANDERPONOMARCHUK\ONEDRIVE - SALDA, UAB\ALEX\PICTURES\VENTMATIKA_LOGO.JPG' 129 -170600 0 207835 15000 65531
 
 .PCsCADSymbol C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM -2500 -2500 2500 2500 160 '06-12-2010 13:27:54' 28 V13.0
 .Title 'Insertion point for Data Templates and Subdrawings' 1033
@@ -95,12 +95,12 @@
 .Art "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .Func "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .polyline 0 0 0 0 0 14 0 250 0 0 0
-.Point 0 0 -2500 0 0
-.Point 0 0 2500 0 0
-.end
-.polyline 0 0 0 0 0 14 0 250 0 0 0
 .Point 0 -2500 0 0 0
 .Point 0 2500 0 0 0
+.end
+.polyline 0 0 0 0 0 14 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 0 2500 0
 .end
 .end
 
@@ -112,112 +112,112 @@
 .Art "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .Func "" 0 0 0 0 4 18 12 4 0 128 0 0 0 0 0 0
 .polyline 0 0 0 0 0 14 0 250 0 0 0
-.Point 0 0 -2500 0 0
-.Point 0 0 2500 0 0
-.end
-.polyline 0 0 0 0 0 14 0 250 0 0 0
 .Point 0 -2500 0 0 0
 .Point 0 2500 0 0 0
+.end
+.polyline 0 0 0 0 0 14 0 250 0 0 0
+.Point 0 0 0 -2500 0
+.Point 0 0 0 2500 0
 .end
 .end
 
 .PCsCADSymbol C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 -178000 285500 11500 144 '25-10-2019 11:57:06' 0 V13.0
 .Title A4_LT 1033
-.Name "" 2750 -1500 0 0 0 25 14 0 0 0 0 0 0 0 0 0
-.Typ "" 4500 -1500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 10500 -1500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 1500 -1500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Name "" -1500 0 2750 0 0 25 14 0 0 0 0 0 0 0 0 0
+.Typ "" -1500 0 4500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" -1500 0 10500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" -1500 0 1500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .SymbRef 0 1 "" 0 0 0
-.SingleRef "" 10500 -1500 0 0 0 18 12 0 0 0 0 0 0 0 0 0
-.Text Koregavo: 100500 -170500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Braižė: 100500 -173500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Data: 162750 -156750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Pask. keitimas:' 200000 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Lapas 265000 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text / 278500 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Rev.: 265000 -177500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Filename: 231500 10000 0 0 4 12 0 3 0 0 0 0 0 0 0 0
-.Text Patvirtino: 100500 -176500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text 'Projekto numeris:' 200000 -177500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Text Užsakovas: 98500 -156750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Field Date 173250 -156750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.SingleRef "" -1500 0 10500 0 0 18 12 0 0 0 0 0 0 0 0 0
+.Text Koregavo: -170500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Braižė: -173500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Data: -156750 0 162750 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text 'Pask. keitimas:' -174500 0 200000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Lapas -174500 0 265000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text / -174500 0 278500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Rev.: -177500 0 265000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Filename: 10000 0 231500 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Text Patvirtino: -176500 0 100500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text 'Projekto numeris:' -177500 0 200000 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Text Užsakovas: -156750 0 98500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Date -156750 0 173250 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' 145000 -163000 0 0 0 24 0 4 0 0 0 9 0 0 0 0
+.Field 'Project name' -163000 0 145000 0 0 24 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field Constructor 122250 -173500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Constructor -173500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field Engineer 122250 -170500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Engineer -170500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field 'Date for last change' 230500 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Date for last change' -174500 0 230500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 24 0 ' ' 3 ""
-.Field 'Used pages' 281500 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Used pages' -174500 0 281500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 32 0 ' ' 3 ""
-.Field 'Page number' 275500 -174500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Page number' -174500 0 275500 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 22 0 ' ' 3 ""
-.Field Revision 280000 -177500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Revision -177500 0 280000 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field 'File name' 243000 10000 0 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Field 'File name' 10000 0 243000 0 4 12 0 3 0 0 0 0 0 0 0 0
 .Fdata "" 12 0 ' ' 3 ""
-.Field 'Approved by' 122250 -176500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Approved by' -176500 0 122250 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field 'Project name' 4000 10000 0 0 4 12 0 3 0 0 0 0 0 0 0 0
+.Field 'Project name' 10000 0 4000 0 4 12 0 3 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field Title 10000 2500 0 0 4 35 0 0 0 3 0 0 0 0 0 0
+.Field Title 2500 0 10000 0 4 35 0 0 0 3 0 0 0 0 0 0
 .Fdata "" 23 0 ' ' 4098 ""
-.Field Logo1 240600 -163100 0 0 4 150 655 4 0 0 0 0 0 0 0 0
+.Field Logo1 -163100 0 240600 0 4 150 655 4 0 0 0 0 0 0 0 0
 .Fdata "" 15 0 ' ' 19 ""
-.Field 'Project number' 235000 -177500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Project number' -177500 0 235000 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 2 ""
-.Field 'Customer name' 116000 -156750 0 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Customer name' -156750 0 116000 0 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
 .polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 2500 11500 0 0
-.Point 0 285500 11500 0 0
-.Point 0 285500 -178000 0 0
-.Point 0 2500 -178000 0 0
-.Point 0 2500 11500 0 0
+.Point 0 11500 0 2500 0
+.Point 0 11500 0 285500 0
+.Point 0 -178000 0 285500 0
+.Point 0 -178000 0 2500 0
+.Point 0 11500 0 2500 0
 .end
 .polyline 0 0 0 0 0 0 0 350 0 0 0
-.Point 0 285500 -154000 0 0
-.Point 0 97000 -154000 0 0
-.Point 0 97000 -178000 0 0
+.Point 0 -154000 0 285500 0
+.Point 0 -154000 0 97000 0
+.Point 0 -178000 0 97000 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 198500 -154000 0 0
-.Point 0 198500 -178000 0 0
+.Point 0 -154000 0 198500 0
+.Point 0 -178000 0 198500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 198500 -175000 0 0
-.Point 0 285500 -175000 0 0
+.Point 0 -175000 0 198500 0
+.Point 0 -175000 0 285500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 198500 -172000 0 0
-.Point 0 285500 -172000 0 0
+.Point 0 -172000 0 198500 0
+.Point 0 -172000 0 285500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 96900 -157600 0 0
-.Point 0 198500 -157600 0 0
+.Point 0 -157600 0 96900 0
+.Point 0 -157600 0 198500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 160000 -154000 0 0
-.Point 0 160000 -157500 0 0
+.Point 0 -154000 0 160000 0
+.Point 0 -157500 0 160000 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 264500 -172000 0 0
-.Point 0 264500 -178000 0 0
+.Point 0 -172000 0 264500 0
+.Point 0 -178000 0 264500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 97000 -167500 0 0
-.Point 0 198500 -167500 0 0
+.Point 0 -167500 0 97000 0
+.Point 0 -167500 0 198500 0
 .end
 .polyline 0 0 0 0 0 0 0 180 0 0 0
-.Point 0 2500 8500 0 0
-.Point 0 285500 8500 0 0
+.Point 0 8500 0 2500 0
+.Point 0 8500 0 285500 0
 .end
 .end
 
 
-.PageNo 1 1 '13-02-2020 11:28:40' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 '13-03-2019 16:14:00'
+.PageNo 1 1 '18-08-2020 07:58:30' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A4|ISOA 297000 210000 -5000 -5000 -5000 -20000 '13-03-2019 16:14:00'
 .Title Gamybai 0
 .Born 2 0 13.0 1325288723
 
@@ -229,12 +229,79 @@
 
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
 
+.polyline 0 0 0 0 1 7 0 700 0 0 0
+.Point 0 68500 0 267000 0
+.Point 0 68500 0 280500 0
+.end
+.polyline 128 0 0 0 1 10 0 700 0 0 0
+.Point 0 66000 0 267000 0
+.Point 0 66000 0 280500 0
+.end
+.polyline 128 0 0 0 1 0 0 700 0 0 0
+.Point 0 63500 0 267000 0
+.Point 0 63500 0 280500 0
+.end
+.polyline 128 0 0 0 1 13 0 700 0 0 0
+.Point 0 61000 0 267000 0
+.Point 0 61000 0 280500 0
+.end
+.polyline 128 0 0 0 1 2 0 700 0 0 0
+.Point 0 58500 0 267000 0
+.Point 0 58500 0 280500 0
+.end
+.polyline 128 0 0 0 1 3 10 700 0 0 0
+.Point 0 53500 0 267000 0
+.Point 0 53500 0 280500 0
+.end
+.polyline 128 0 0 0 1 4 0 700 0 0 0
+.Point 0 51000 0 267000 0
+.Point 0 51000 0 280500 0
+.end
+.polyline 128 0 0 0 1 1 0 700 0 0 0
+.Point 0 48500 0 267000 0
+.Point 0 48500 0 280500 0
+.end
+.polyline 128 0 0 0 1 15 0 700 0 0 0
+.Point 0 46000 0 267000 0
+.Point 0 46000 0 280500 0
+.end
+.polyline 128 0 0 0 1 8 0 700 0 0 0
+.Point 0 43500 0 267000 0
+.Point 0 43500 0 280500 0
+.end
+.polyline 0 0 0 0 1 0 0 100 0 0 0
+.Point 0 68000 0 267000 2
+.Point 0 68000 0 280500 1
+.end
+.polyline 0 0 0 0 1 0 0 100 0 0 0
+.Point 0 69000 0 280500 3
+.Point 0 69000 0 267000 4
+.end
+.polyline 4 0 0 0 1 0 0 100 0 0 0
+.Point 0 68000 0 280500 1
+.Point 0 69000 0 280500 3
+.end
+.polyline 4 0 0 0 1 0 0 100 0 0 0
+.Point 0 69000 0 267000 4
+.Point 0 68000 0 267000 2
+.end
+.polyline 128 0 0 0 1 10 0 700 0 0 0
+.Point 0 56000 0 267000 0
+.Point 0 56000 0 280500 0
+.end
+.polyline 128 0 0 0 1 4 0 250 0 0 0
+.Point 0 72500 0 230000 5
+.Point 0 72500 0 285000 0
+.Point 0 40000 0 285000 0
+.Point 0 40000 0 230000 0
+.Point 0 72500 0 230000 5
+.end
 
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 5000 190000 0 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 7750 188500 0 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 9500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 15500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 6500 188500 0 0 4 18 12 0 0 16 0 0 0 0 0 0
+.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
+.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
+.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
 .SField "" 3 0
@@ -252,22 +319,33 @@
 .SField "" 15 0
 .end
 
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 290000 195000 0 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 290000 195000 0 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 290000 195000 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 290000 195000 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 290000 195000 0 0 4 18 12 4 0 144 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 195000 0 290000 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 195000 0 290000 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 195000 0 290000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 195000 0 290000 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 195000 0 290000 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 7500 195000 0 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 7500 195000 0 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 7500 195000 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Art "" 7500 195000 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 7500 195000 0 0 4 18 12 4 0 144 0 0 0 0 0 0
+.com C:\PCSELCAD\SYMBOL\MISC\INSPOINT.SYM 0 195000 0 7500 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 195000 0 7500 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 195000 0 7500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Art "" 195000 0 7500 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 195000 0 7500 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\BTA40.EMF 129 10643 214889 0 29336 29336
-.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\TOP3.EMF 129 44738 214645 0 29336 29336
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\BTA40.EMF 129 214889 0 10643 29336 29336
+.Picture C:\WORK\GIT\PCSVENTLIB\DATABASE\PICTURES\TOP3.EMF 129 214645 0 44738 29336 29336
+.Text 'WT - WHITE' 67500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'OR - ORANGE' 65000 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'BU - BLUE' 60000 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'GN - GREEN' 57500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'BN - BROWN' 42500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'YE - YELLOW' 55000 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'Y/G - YELLOW/GREEN' 52500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'BL - BLACK' 62500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'NV - NAVY BLUE' 50000 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'RD - RED' 47500 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
+.Text 'GY - GRAY' 45000 0 232500 1 4 18 0 0 0 0 0 0 0 0 0 0
 
 .end
 
@@ -281,9 +359,9 @@
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
 
 
-.Field 'Project name' 87500 177500 0 1 4 18 12 0 0 0 0 0 0 0 0 0
+.Field 'Project name' 177500 0 87500 1 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
-.Field Revision 207500 177500 0 1 4 18 12 0 0 0 0 0 0 0 0 0
+.Field Revision 177500 0 207500 1 4 18 12 0 0 0 0 0 0 0 0 0
 .Fdata "" 10 0 ' ' 3 ""
 
 .end
@@ -300,11 +378,11 @@
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 55000 30000
 
 
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 5000 190000 0 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 7750 188500 0 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 9500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 15500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 6500 188500 0 0 4 18 12 0 0 16 0 0 0 0 0 0
+.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
+.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
+.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
 .SField "" 3 0
@@ -322,14 +400,14 @@
 .SField "" 15 0
 .end
 
-.com INSPUNKT.SYM 0 35400 260000 0 0 1 0 28 1 0 1 0 0 0 0
-.Name "" 35400 260000 0 0 0 25 14 4 0 144 0 0 0 0 0 0
-.Typ "" 35400 260000 0 0 4 18 12 4 0 144 0 0 0 0 0 0
-.Art "" 35400 260000 0 0 4 18 12 4 0 128 0 0 0 0 0 0
-.Func "" 35400 260000 0 0 4 18 12 4 0 144 0 0 0 0 0 0
+.com INSPUNKT.SYM 0 260000 0 35400 0 1 0 28 1 0 1 0 0 0 0
+.Name "" 260000 0 35400 0 0 25 14 4 0 144 0 0 0 0 0 0
+.Typ "" 260000 0 35400 0 4 18 12 4 0 144 0 0 0 0 0 0
+.Art "" 260000 0 35400 0 4 18 12 4 0 128 0 0 0 0 0 0
+.Func "" 260000 0 35400 0 4 18 12 4 0 144 0 0 0 0 0 0
 .end
 
-.Field Remarks 12500 32500 0 1 4 25 0 3 0 0 0 0 0 0 0 0
+.Field Remarks 32500 0 12500 1 4 25 0 3 0 0 0 0 0 0 0 0
 .Fdata "" 17 0 ' ' 4099 ""
 
 .end
@@ -345,235 +423,235 @@
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
 
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 186000 0 0
-.Point 0 273500 186000 0 0
+.Point 0 186000 0 22000 0
+.Point 0 186000 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 53000 190500 0 0
-.Point 0 53000 42500 0 0
+.Point 0 190500 0 53000 0
+.Point 0 42500 0 53000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 197000 191000 0 0
-.Point 0 197000 42500 0 0
+.Point 0 191000 0 197000 0
+.Point 0 42500 0 197000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 224000 191000 0 0
-.Point 0 224000 42500 0 0
+.Point 0 191000 0 224000 0
+.Point 0 42500 0 224000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 242000 191000 0 0
-.Point 0 242000 42500 0 0
+.Point 0 191000 0 242000 0
+.Point 0 42500 0 242000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 180500 0 0
-.Point 0 273500 180500 0 0
+.Point 0 180500 0 22000 0
+.Point 0 180500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 177500 0 0
-.Point 0 273500 177500 0 0
+.Point 0 177500 0 22000 0
+.Point 0 177500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 174500 0 0
-.Point 0 273500 174500 0 0
+.Point 0 174500 0 22000 0
+.Point 0 174500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 171500 0 0
-.Point 0 273500 171500 0 0
+.Point 0 171500 0 22000 0
+.Point 0 171500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 165500 0 0
-.Point 0 273500 165500 0 0
+.Point 0 165500 0 22000 0
+.Point 0 165500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 162500 0 0
-.Point 0 273500 162500 0 0
+.Point 0 162500 0 22000 0
+.Point 0 162500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 159500 0 0
-.Point 0 273500 159500 0 0
+.Point 0 159500 0 22000 0
+.Point 0 159500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 156500 0 0
-.Point 0 273500 156500 0 0
+.Point 0 156500 0 22000 0
+.Point 0 156500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 150500 0 0
-.Point 0 273500 150500 0 0
+.Point 0 150500 0 22000 0
+.Point 0 150500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 147500 0 0
-.Point 0 273500 147500 0 0
+.Point 0 147500 0 22000 0
+.Point 0 147500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 144500 0 0
-.Point 0 273500 144500 0 0
+.Point 0 144500 0 22000 0
+.Point 0 144500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 141500 0 0
-.Point 0 273500 141500 0 0
+.Point 0 141500 0 22000 0
+.Point 0 141500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 135500 0 0
-.Point 0 273500 135500 0 0
+.Point 0 135500 0 22000 0
+.Point 0 135500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 132500 0 0
-.Point 0 273500 132500 0 0
+.Point 0 132500 0 22000 0
+.Point 0 132500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 129500 0 0
-.Point 0 273500 129500 0 0
+.Point 0 129500 0 22000 0
+.Point 0 129500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 126500 0 0
-.Point 0 273500 126500 0 0
+.Point 0 126500 0 22000 0
+.Point 0 126500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 120500 0 0
-.Point 0 273500 120500 0 0
+.Point 0 120500 0 22000 0
+.Point 0 120500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 117500 0 0
-.Point 0 273500 117500 0 0
+.Point 0 117500 0 22000 0
+.Point 0 117500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 114500 0 0
-.Point 0 273500 114500 0 0
+.Point 0 114500 0 22000 0
+.Point 0 114500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 111500 0 0
-.Point 0 273500 111500 0 0
+.Point 0 111500 0 22000 0
+.Point 0 111500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 105500 0 0
-.Point 0 273500 105500 0 0
+.Point 0 105500 0 22000 0
+.Point 0 105500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 102500 0 0
-.Point 0 273500 102500 0 0
+.Point 0 102500 0 22000 0
+.Point 0 102500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 99500 0 0
-.Point 0 273500 99500 0 0
+.Point 0 99500 0 22000 0
+.Point 0 99500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 96500 0 0
-.Point 0 273500 96500 0 0
+.Point 0 96500 0 22000 0
+.Point 0 96500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 90500 0 0
-.Point 0 273500 90500 0 0
+.Point 0 90500 0 22000 0
+.Point 0 90500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 87500 0 0
-.Point 0 273500 87500 0 0
+.Point 0 87500 0 22000 0
+.Point 0 87500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 84500 0 0
-.Point 0 273500 84500 0 0
+.Point 0 84500 0 22000 0
+.Point 0 84500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 81500 0 0
-.Point 0 273500 81500 0 0
+.Point 0 81500 0 22000 0
+.Point 0 81500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 75500 0 0
-.Point 0 273500 75500 0 0
+.Point 0 75500 0 22000 0
+.Point 0 75500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 72500 0 0
-.Point 0 273500 72500 0 0
+.Point 0 72500 0 22000 0
+.Point 0 72500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 69500 0 0
-.Point 0 273500 69500 0 0
+.Point 0 69500 0 22000 0
+.Point 0 69500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 66500 0 0
-.Point 0 273500 66500 0 0
+.Point 0 66500 0 22000 0
+.Point 0 66500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 168500 0 0
-.Point 0 273500 168500 0 0
+.Point 0 168500 0 22000 0
+.Point 0 168500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 153500 0 0
-.Point 0 273500 153500 0 0
+.Point 0 153500 0 22000 0
+.Point 0 153500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 138500 0 0
-.Point 0 273500 138500 0 0
+.Point 0 138500 0 22000 0
+.Point 0 138500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 123500 0 0
-.Point 0 273500 123500 0 0
+.Point 0 123500 0 22000 0
+.Point 0 123500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 108500 0 0
-.Point 0 273500 108500 0 0
+.Point 0 108500 0 22000 0
+.Point 0 108500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 93500 0 0
-.Point 0 273500 93500 0 0
+.Point 0 93500 0 22000 0
+.Point 0 93500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 78500 0 0
-.Point 0 273500 78500 0 0
+.Point 0 78500 0 22000 0
+.Point 0 78500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 63500 0 0
-.Point 0 273500 63500 0 0
+.Point 0 63500 0 22000 0
+.Point 0 63500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 185000 0 0
-.Point 0 273500 185000 0 0
+.Point 0 185000 0 22000 0
+.Point 0 185000 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 131000 191000 0 0
-.Point 0 131000 42500 0 0
+.Point 0 191000 0 131000 0
+.Point 0 42500 0 131000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 260000 191000 0 0
-.Point 0 260000 42500 0 0
+.Point 0 191000 0 260000 0
+.Point 0 42500 0 260000 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 60500 0 0
-.Point 0 273500 60500 0 0
+.Point 0 60500 0 22000 0
+.Point 0 60500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 54500 0 0
-.Point 0 273500 54500 0 0
+.Point 0 54500 0 22000 0
+.Point 0 54500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 51500 0 0
-.Point 0 273500 51500 0 0
+.Point 0 51500 0 22000 0
+.Point 0 51500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 48500 0 0
-.Point 0 273500 48500 0 0
+.Point 0 48500 0 22000 0
+.Point 0 48500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 45500 0 0
-.Point 0 273500 45500 0 0
+.Point 0 45500 0 22000 0
+.Point 0 45500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 57500 0 0
-.Point 0 273500 57500 0 0
+.Point 0 57500 0 22000 0
+.Point 0 57500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22000 42500 0 0
-.Point 0 273500 42500 0 0
+.Point 0 42500 0 22000 0
+.Point 0 42500 0 273500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 32500 190000 0 0
-.Point 0 32500 42500 0 0
+.Point 0 190000 0 32500 0
+.Point 0 42500 0 32500 0
 .end
 
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 5000 190000 0 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 7750 188500 0 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 9500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 15500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 6500 188500 0 0 4 18 12 0 0 16 0 0 0 0 0 0
+.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
+.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
+.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
 .SField "" 3 0
@@ -591,767 +669,767 @@
 .SField "" 15 0
 .end
 
-.Text Kiekis 244300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Kodas 37300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Pavadinimas 79300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Tipas 205300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Gamint. 225300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Num. 22300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Aprašymas 151300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Text Matas 261300 186900 0 1 9 25 0 0 0 1 0 9 0 0 0 0
-.Field Quantity 250500 181700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Text Kiekis 186900 0 244300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Kodas 186900 0 37300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Pavadinimas 186900 0 79300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Tipas 186900 0 205300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Gamint. 186900 0 225300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Num. 186900 0 22300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Aprašymas 186900 0 151300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Text Matas 186900 0 261300 1 9 25 0 0 0 1 0 9 0 0 0 0
+.Field Quantity 181700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 181700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 181700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 181700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 181700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 180700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 180700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 181700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 181700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 181700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 181700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 178700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 178700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 178700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 178700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 178700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 178700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 177700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 177700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 178700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 178700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 178700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 178700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 175700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 175700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 175700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 175700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 175700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 175700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 174700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 174700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 175700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 175700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 175700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 175700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 172700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 172700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 172700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 172700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 172700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 172700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 171700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 171700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 172700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 172700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 172700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 172700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 169700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 169700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 169700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 169700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 169700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 169700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 168700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 168700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 169700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 169700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 169700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 169700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 166700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 166700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 166700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 166700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 166700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 166700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 165700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 165700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 166700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 166700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 166700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 166700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 163700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 163700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 163700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 163700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 163700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 163700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 162700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 162700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 163700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 163700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 163700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 163700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 160700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 160700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 160700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 160700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 160700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 160700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 159700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 159700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 160700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 160700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 160700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 160700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 157700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 157700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 157700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 157700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 157700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 157700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 156700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 156700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 157700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 157700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 157700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 157700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 154700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 154700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 154700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 154700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 154700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 154700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 153700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 153700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 154700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 154700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 154700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 154700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 151700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 151700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 151700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 151700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 151700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 151700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 150700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 150700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 151700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 151700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 151700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 151700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 148700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 148700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 148700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 148700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 148700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 148700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 147700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 147700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 148700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 148700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 148700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 148700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 145700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 145700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 145700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 145700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 145700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 145700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 144700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 144700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 145700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 145700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 145700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 145700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 142700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 142700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 142700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 142700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 142700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 142700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 141700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 141700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 142700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 142700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 142700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 142700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 139700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 139700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 139700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 139700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 139700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 139700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 138700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 138700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 139700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 139700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 139700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 139700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 136700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 136700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 136700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 136700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 136700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 136700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 135700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 135700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 136700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 136700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 136700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 136700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 133700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 133700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 133700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 133700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 133700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 133700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 132700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 132700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 133700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 133700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 133700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 133700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 130700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 130700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 130700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 130700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 130700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 130700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 129700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 129700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 130700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 130700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 130700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 130700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 127700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 127700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 127700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 127700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 127700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 127700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 126700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 126700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 127700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 127700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 127700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 127700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 124700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 124700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 124700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 124700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 124700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 124700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 123700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 123700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 124700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 124700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 124700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 124700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 121700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 121700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 121700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 121700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 121700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 121700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 120700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 120700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 121700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 121700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 121700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 121700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 118700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 118700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 118700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 118700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 118700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 118700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 117700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 117700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 118700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 118700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 118700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 118700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 115700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 115700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 115700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 115700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 115700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 115700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 114700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 114700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 115700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 115700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 115700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 115700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 112700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 112700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 112700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 112700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 112700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 112700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 111700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 111700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 112700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 112700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 112700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 112700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 109700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 109700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 109700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 109700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 109700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 109700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 108700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 108700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 109700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 109700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 109700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 109700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 106700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 106700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 106700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 106700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 106700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 106700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 105700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 105700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 106700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 106700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 106700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 106700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 103700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 103700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 103700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 103700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 103700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 103700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 102700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 102700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 103700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 103700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 103700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 103700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 100700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 100700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 100700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 100700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 100700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 100700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 99700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 99700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 100700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 100700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 100700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 100700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 97700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 97700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 97700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 97700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 97700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 97700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 96700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 96700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 97700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 97700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 97700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 97700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field Quantity 250500 94700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 94700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field 'Article No.' 36000 94700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 94700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Description 133000 94700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 94700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field Type 198000 93700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 93700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field 'Line number' 26500 94700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 94700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field MANUFACTUR 233500 94700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 94700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field NAME 54500 181700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 181700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 178700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 178700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 175700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 175700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 169700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 169700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 166700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 166700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 163700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 163700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 160700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 160700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 157700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 157700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 154700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 154700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 151700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 151700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 148700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 148700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 145700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 145700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 142700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 142700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 139700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 139700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 136700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 136700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 133700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 133700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 130700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 130700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 127700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 127700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 124700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 124700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 121700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 121700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 118700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 118700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 115700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 115700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 112700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 112700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 109700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 109700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 106700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 106700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 103700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 103700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 100700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 100700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 97700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 97700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 94700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 94700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 172700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 172700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 64700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 64700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 67700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 67700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 70700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 70700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 73700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 73700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 76700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 76700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 79700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 79700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 82700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 82700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 85700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 85700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 88700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 88700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 91700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 91700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field MANUFACTUR 233500 64700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 64700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 64700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 64700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 63700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 63700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 64700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 64700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 64700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 64700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 64700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 64700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 67700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 67700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 67700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 67700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 66700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 66700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 67700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 67700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 67700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 67700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 67700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 67700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 70700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 70700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 70700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 70700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 69700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 69700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 70700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 70700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 70700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 70700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 70700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 70700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 73700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 73700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 73700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 73700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 72700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 72700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 73700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 73700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 73700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 73700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 73700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 73700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 76700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 76700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 76700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 76700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 75700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 75700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 76700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 76700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 76700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 76700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 76700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 76700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 79700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 79700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 79700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 79700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 78700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 78700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 79700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 79700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 79700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 79700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 79700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 79700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 82700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 82700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 82700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 82700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 81700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 81700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 82700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 82700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 82700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 82700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 82700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 82700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 85700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 85700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 85700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 85700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 84700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 84700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 85700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 85700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 85700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 85700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 85700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 85700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 88700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 88700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 88700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 88700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 87700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 87700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 88700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 88700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 88700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 88700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 88700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 88700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 91700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 91700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 91700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 91700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 90700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 90700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 91700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 91700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 91700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 91700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 91700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 91700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MATOVNT 267000 181700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 181700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 178700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 178700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 175700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 175700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 172700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 172700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 169700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 169700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 166700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 166700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 163700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 163700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 160700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 160700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 157700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 157700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 154700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 154700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 151700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 151700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 148700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 148700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 145700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 145700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 142700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 142700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 139700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 139700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 136700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 136700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 133700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 133700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 130700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 130700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 127700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 127700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 124700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 124700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 121700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 121700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 118700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 118700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 115700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 115700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 112700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 112700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 109700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 109700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 106700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 106700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 103700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 103700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 100700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 100700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 97700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 97700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 94700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 94700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 64700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 64700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 67700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 67700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 70700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 70700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 73700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 73700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 76700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 76700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 79700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 79700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 82700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 82700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 85700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 85700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 88700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 88700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 91700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 91700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field NAME 54500 43700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 43700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 46700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 46700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 49700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 49700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 52700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 52700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 55700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 55700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 58700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 58700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field NAME 54500 61700 0 1 0 18 0 3 0 0 0 9 45 0 0 0
+.Field NAME 61700 0 54500 1 0 18 0 3 0 0 0 9 45 0 0 0
 .Fdata "" 60 45 ' ' 5 ""
-.Field MANUFACTUR 233500 43700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 43700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 43700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 43700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 42700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 42700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 43700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 43700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 43700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 43700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 43700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 43700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 46700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 46700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 46700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 46700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 45700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 45700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 46700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 46700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 46700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 46700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 46700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 46700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 49700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 49700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 49700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 49700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 48700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 48700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 49700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 49700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 49700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 49700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 49700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 49700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 52700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 52700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 52700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 52700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 51700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 51700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 52700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 52700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 52700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 52700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 52700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 52700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 55700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 55700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 55700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 55700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 54700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 54700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 55700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 55700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 55700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 55700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 55700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 55700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 58700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 58700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 58700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 58700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 57700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 57700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 58700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 58700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 58700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 58700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 58700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 58700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field MANUFACTUR 233500 61700 0 1 0 18 0 4 0 0 0 9 10 0 0 0
+.Field MANUFACTUR 61700 0 233500 1 0 18 0 4 0 0 0 9 10 0 0 0
 .Fdata "" 60 10 ' ' 5 ""
-.Field 'Line number' 26500 61700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field 'Line number' 61700 0 26500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 85 0 ' ' 389 ""
-.Field Type 198000 60700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 60700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field Description 133000 61700 0 1 0 18 0 3 0 2 0 9 36 0 0 0
+.Field Description 61700 0 133000 1 0 18 0 3 0 2 0 9 36 0 0 0
 .Fdata "" 88 36 ' ' 5 ""
-.Field 'Article No.' 36000 61700 0 1 4 18 0 3 0 0 0 9 0 0 0 0
+.Field 'Article No.' 61700 0 36000 1 4 18 0 3 0 0 0 9 0 0 0 0
 .Fdata "" 63 0 ' ' 261 ""
-.Field Quantity 250500 61700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field Quantity 61700 0 250500 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 69 0 ' ' 5 ""
-.Field Type 198000 63700 0 1 0 20 0 0 0 0 0 9 15 0 0 0
+.Field Type 63700 0 198000 1 0 20 0 0 0 0 0 9 15 0 0 0
 .Fdata "" 62 15 ' ' 5 ""
-.Field MATOVNT 267000 43700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 43700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 46700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 46700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 49700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 49700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 52700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 52700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 55700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 55700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 58700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 58700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
-.Field MATOVNT 267000 61700 0 1 0 18 0 4 0 0 0 9 0 0 0 0
+.Field MATOVNT 61700 0 267000 1 0 18 0 4 0 0 0 9 0 0 0 0
 .Fdata "" 60 0 ' ' 5 ""
 
 .end
@@ -1365,227 +1443,227 @@
 .Refdata 1 0 70000 267500 10000 47500 6 0 1 A 40000 40000 8 6 57500 30000
 
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 177500 0 0
-.Point 0 142500 177500 0 0
+.Point 0 177500 0 22500 0
+.Point 0 177500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 172500 0 0
-.Point 0 142500 172500 0 0
+.Point 0 172500 0 22500 0
+.Point 0 172500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 167500 0 0
-.Point 0 142500 167500 0 0
+.Point 0 167500 0 22500 0
+.Point 0 167500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 162500 0 0
-.Point 0 142500 162500 0 0
+.Point 0 162500 0 22500 0
+.Point 0 162500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 157500 0 0
-.Point 0 142500 157500 0 0
+.Point 0 157500 0 22500 0
+.Point 0 157500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 152500 0 0
-.Point 0 142500 152500 0 0
+.Point 0 152500 0 22500 0
+.Point 0 152500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 147500 0 0
-.Point 0 142500 147500 0 0
+.Point 0 147500 0 22500 0
+.Point 0 147500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 142500 0 0
-.Point 0 142500 142500 0 0
+.Point 0 142500 0 22500 0
+.Point 0 142500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 137500 0 0
-.Point 0 142500 137500 0 0
+.Point 0 137500 0 22500 0
+.Point 0 137500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 132500 0 0
-.Point 0 142500 132500 0 0
+.Point 0 132500 0 22500 0
+.Point 0 132500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 127500 0 0
-.Point 0 142500 127500 0 0
+.Point 0 127500 0 22500 0
+.Point 0 127500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 122500 0 0
-.Point 0 142500 122500 0 0
+.Point 0 122500 0 22500 0
+.Point 0 122500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 117500 0 0
-.Point 0 142500 117500 0 0
+.Point 0 117500 0 22500 0
+.Point 0 117500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 112500 0 0
-.Point 0 142500 112500 0 0
+.Point 0 112500 0 22500 0
+.Point 0 112500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 107500 0 0
-.Point 0 142500 107500 0 0
+.Point 0 107500 0 22500 0
+.Point 0 107500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 102500 0 0
-.Point 0 142500 102500 0 0
+.Point 0 102500 0 22500 0
+.Point 0 102500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 97500 0 0
-.Point 0 142500 97500 0 0
+.Point 0 97500 0 22500 0
+.Point 0 97500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 92500 0 0
-.Point 0 142500 92500 0 0
+.Point 0 92500 0 22500 0
+.Point 0 92500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 87500 0 0
-.Point 0 142500 87500 0 0
+.Point 0 87500 0 22500 0
+.Point 0 87500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 82500 0 0
-.Point 0 142500 82500 0 0
+.Point 0 82500 0 22500 0
+.Point 0 82500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 77500 0 0
-.Point 0 142500 77500 0 0
+.Point 0 77500 0 22500 0
+.Point 0 77500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 72500 0 0
-.Point 0 142500 72500 0 0
+.Point 0 72500 0 22500 0
+.Point 0 72500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 67500 0 0
-.Point 0 142500 67500 0 0
+.Point 0 67500 0 22500 0
+.Point 0 67500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 62500 0 0
-.Point 0 142500 62500 0 0
+.Point 0 62500 0 22500 0
+.Point 0 62500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 57500 0 0
-.Point 0 142500 57500 0 0
+.Point 0 57500 0 22500 0
+.Point 0 57500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 52500 0 0
-.Point 0 142500 52500 0 0
+.Point 0 52500 0 22500 0
+.Point 0 52500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 22500 47500 0 0
-.Point 0 142500 47500 0 0
+.Point 0 47500 0 22500 0
+.Point 0 47500 0 142500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 177500 0 0
-.Point 0 277500 177500 0 0
+.Point 0 177500 0 157500 0
+.Point 0 177500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 172500 0 0
-.Point 0 277500 172500 0 0
+.Point 0 172500 0 157500 0
+.Point 0 172500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 167500 0 0
-.Point 0 277500 167500 0 0
+.Point 0 167500 0 157500 0
+.Point 0 167500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 162500 0 0
-.Point 0 277500 162500 0 0
+.Point 0 162500 0 157500 0
+.Point 0 162500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 157500 0 0
-.Point 0 277500 157500 0 0
+.Point 0 157500 0 157500 0
+.Point 0 157500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 152500 0 0
-.Point 0 277500 152500 0 0
+.Point 0 152500 0 157500 0
+.Point 0 152500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 147500 0 0
-.Point 0 277500 147500 0 0
+.Point 0 147500 0 157500 0
+.Point 0 147500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 142500 0 0
-.Point 0 277500 142500 0 0
+.Point 0 142500 0 157500 0
+.Point 0 142500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 137500 0 0
-.Point 0 277500 137500 0 0
+.Point 0 137500 0 157500 0
+.Point 0 137500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 132500 0 0
-.Point 0 277500 132500 0 0
+.Point 0 132500 0 157500 0
+.Point 0 132500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 127500 0 0
-.Point 0 277500 127500 0 0
+.Point 0 127500 0 157500 0
+.Point 0 127500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 122500 0 0
-.Point 0 277500 122500 0 0
+.Point 0 122500 0 157500 0
+.Point 0 122500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 117500 0 0
-.Point 0 277500 117500 0 0
+.Point 0 117500 0 157500 0
+.Point 0 117500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 112500 0 0
-.Point 0 277500 112500 0 0
+.Point 0 112500 0 157500 0
+.Point 0 112500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 107500 0 0
-.Point 0 277500 107500 0 0
+.Point 0 107500 0 157500 0
+.Point 0 107500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 102500 0 0
-.Point 0 277500 102500 0 0
+.Point 0 102500 0 157500 0
+.Point 0 102500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 97500 0 0
-.Point 0 277500 97500 0 0
+.Point 0 97500 0 157500 0
+.Point 0 97500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 92500 0 0
-.Point 0 277500 92500 0 0
+.Point 0 92500 0 157500 0
+.Point 0 92500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 87500 0 0
-.Point 0 277500 87500 0 0
+.Point 0 87500 0 157500 0
+.Point 0 87500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 82500 0 0
-.Point 0 277500 82500 0 0
+.Point 0 82500 0 157500 0
+.Point 0 82500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 77500 0 0
-.Point 0 277500 77500 0 0
+.Point 0 77500 0 157500 0
+.Point 0 77500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 72500 0 0
-.Point 0 277500 72500 0 0
+.Point 0 72500 0 157500 0
+.Point 0 72500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 67500 0 0
-.Point 0 277500 67500 0 0
+.Point 0 67500 0 157500 0
+.Point 0 67500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 62500 0 0
-.Point 0 277500 62500 0 0
+.Point 0 62500 0 157500 0
+.Point 0 62500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 57500 0 0
-.Point 0 277500 57500 0 0
+.Point 0 57500 0 157500 0
+.Point 0 57500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 52500 0 0
-.Point 0 277500 52500 0 0
+.Point 0 52500 0 157500 0
+.Point 0 52500 0 277500 0
 .end
 .polyline 0 0 0 0 1 0 0 250 0 0 0
-.Point 0 157500 47500 0 0
-.Point 0 277500 47500 0 0
+.Point 0 47500 0 157500 0
+.Point 0 47500 0 277500 0
 .end
 
-.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 5000 190000 0 0 0 0 1 1 0 1 0 0 0 0
-.Name "" 7750 188500 0 0 0 25 14 0 0 16 0 0 0 0 0 0
-.Typ "" 9500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Art "" 15500 188500 0 0 4 18 12 0 0 0 0 0 0 0 0 0
-.Func "" 6500 188500 0 0 4 18 12 0 0 16 0 0 0 0 0 0
+.Pagehead C:\Work\Git\PCSVentlib\USERLIB\sym\A4H_REMAS_LT.SYM 0 190000 0 5000 0 0 0 1 1 0 1 0 0 0 0
+.Name "" 188500 0 7750 0 0 25 14 0 0 16 0 0 0 0 0 0
+.Typ "" 188500 0 9500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Art "" 188500 0 15500 0 4 18 12 0 0 0 0 0 0 0 0 0
+.Func "" 188500 0 6500 0 4 18 12 0 0 16 0 0 0 0 0 0
 .SField "" 1 0
 .SField "" 2 0
 .SField "" 3 0
